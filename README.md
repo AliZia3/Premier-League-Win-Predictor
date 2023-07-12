@@ -1,5 +1,5 @@
 # Premier-League-Win-Predictor
-Prediction accuracy of 70%. Made with Python, Pandas and Scikit Learn. Uses Web Scraping and Machine Learning concepts
+Made with Python, Pandas and Scikit Learn. Uses Web Scraping and Machine Learning concepts
 
 Steps Taken To Develop The Final Product
 
