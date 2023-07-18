@@ -1,0 +1,1521 @@
+,Date,Time,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Sh,SoT,Dist,FK,PK,PKatt,Season,Team,Venue_code,Opp_code,Hour,Day_code,Target
+1,2022-08-07,16:30,Sun,Away,W,2,0,West Ham,2.2,0.5,13,1,18.7,1,1,1,2023,Manchester City,0,21,16,6,1
+2,2022-08-13,15:00,Sat,Home,W,4,0,Bournemouth,1.7,0.1,19,7,17.5,0,0,0,2023,Manchester City,1,2,15,5,1
+3,2022-08-21,16:30,Sun,Away,D,3,3,Newcastle Utd,2.1,1.8,21,10,16.2,1,0,0,2023,Manchester City,0,15,16,6,0
+4,2022-08-27,15:00,Sat,Home,W,4,2,Crystal Palace,2.2,0.1,18,5,14.1,0,0,0,2023,Manchester City,1,7,15,5,1
+5,2022-08-31,19:30,Wed,Home,W,6,0,Nott'ham Forest,3.3,0.7,17,9,14.8,0,0,0,2023,Manchester City,1,17,19,2,1
+6,2022-09-03,17:30,Sat,Away,D,1,1,Aston Villa,2.1,0.3,13,4,16.8,1,0,0,2023,Manchester City,0,1,17,5,0
+9,2022-09-17,12:30,Sat,Away,W,3,0,Wolves,1.1,0.4,16,7,19.4,0,0,0,2023,Manchester City,0,22,12,5,1
+10,2022-10-02,14:00,Sun,Home,W,6,3,Manchester Utd,3.2,1.7,22,9,14.2,1,0,0,2023,Manchester City,1,14,14,6,1
+12,2022-10-08,15:00,Sat,Home,W,4,0,Southampton,2.4,0.2,21,8,13.9,0,0,0,2023,Manchester City,1,18,15,5,1
+14,2022-10-16,16:30,Sun,Away,L,0,1,Liverpool,1,2.1,16,6,18.4,0,0,0,2023,Manchester City,0,12,16,6,0
+15,2022-10-22,15:00,Sat,Home,W,3,1,Brighton,1.6,0.5,9,3,15,0,1,1,2023,Manchester City,1,4,15,5,1
+17,2022-10-29,12:30,Sat,Away,W,1,0,Leicester City,1,0.7,15,5,20.8,1,0,0,2023,Manchester City,0,11,12,5,1
+19,2022-11-05,15:00,Sat,Home,W,2,1,Fulham,2.1,1,15,4,18.1,1,1,1,2023,Manchester City,1,9,15,5,1
+21,2022-11-12,12:30,Sat,Home,L,1,2,Brentford,1.6,1.3,29,6,20.9,0,0,0,2023,Manchester City,1,3,12,5,0
+23,2022-12-28,20:00,Wed,Away,W,3,1,Leeds United,4.3,0.6,26,9,16,0,0,0,2023,Manchester City,0,10,20,2,1
+24,2022-12-31,15:00,Sat,Home,D,1,1,Everton,1.7,0.1,16,3,15.4,0,0,0,2023,Manchester City,1,8,15,5,0
+25,2023-01-05,20:00,Thu,Away,,,,Chelsea,,,,,,,,,2023,Manchester City,0,6,20,3,1
+28,2023-01-14,12:30,Sat,Away,,,,Manchester Utd,,,,,,,,,2023,Manchester City,0,14,12,5,0
+29,2023-01-19,20:00,Thu,Home,,,,Tottenham,,,,,,,,,2023,Manchester City,1,19,20,3,1
+30,2023-01-22,14:00,Sun,Home,,,,Wolves,,,,,,,,,2023,Manchester City,1,22,14,6,1
+32,2023-02-05,16:30,Sun,Away,,,,Tottenham,,,,,,,,,2023,Manchester City,0,19,16,6,0
+33,2023-02-12,16:30,Sun,Home,,,,Aston Villa,,,,,,,,,2023,Manchester City,1,1,16,6,1
+34,2023-02-15,19:30,Wed,Away,,,,Arsenal,,,,,,,,,2023,Manchester City,0,0,19,2,1
+35,2023-02-18,15:00,Sat,Away,,,,Nott'ham Forest,,,,,,,,,2023,Manchester City,0,17,15,5,0
+37,2023-02-25,17:30,Sat,Away,,,,Bournemouth,,,,,,,,,2023,Manchester City,0,2,17,5,1
+39,2023-03-04,12:30,Sat,Home,,,,Newcastle Utd,,,,,,,,,2023,Manchester City,1,15,12,5,1
+40,2023-03-11,17:30,Sat,Away,,,,Crystal Palace,,,,,,,,,2023,Manchester City,0,7,17,5,1
+43,2023-04-01,12:30,Sat,Home,,,,Liverpool,,,,,,,,,2023,Manchester City,1,12,12,5,1
+44,2023-04-08,17:30,Sat,Away,,,,Southampton,,,,,,,,,2023,Manchester City,0,18,17,5,1
+46,2023-04-15,17:30,Sat,Home,,,,Leicester City,,,,,,,,,2023,Manchester City,1,11,17,5,1
+49,2023-04-26,20:00,Wed,Home,,,,Arsenal,,,,,,,,,2023,Manchester City,1,0,20,2,1
+50,2023-04-30,14:00,Sun,Away,,,,Fulham,,,,,,,,,2023,Manchester City,0,9,14,6,1
+51,2023-05-03,20:00,Wed,Home,,,,West Ham,,,,,,,,,2023,Manchester City,1,21,20,2,1
+52,2023-05-06,15:00,Sat,Home,,,,Leeds United,,,,,,,,,2023,Manchester City,1,10,15,5,1
+54,2023-05-14,14:00,Sun,Away,,,,Everton,,,,,,,,,2023,Manchester City,0,8,14,6,1
+56,2023-05-21,16:00,Sun,Home,,,,Chelsea,,,,,,,,,2023,Manchester City,1,6,16,6,1
+57,2023-05-24,20:00,Wed,Away,,,,Brighton,,,,,,,,,2023,Manchester City,0,4,20,2,0
+58,2023-05-28,16:30,Sun,Away,,,,Brentford,,,,,,,,,2023,Manchester City,0,3,16,6,0
+0,2022-08-05,20:00,Fri,Away,W,2,0,Crystal Palace,1,1.2,10,2,14.6,1,0,0,2023,Arsenal,0,7,20,4,1
+1,2022-08-13,15:00,Sat,Home,W,4,2,Leicester City,2.7,0.5,19,7,13,0,0,0,2023,Arsenal,1,11,15,5,1
+2,2022-08-20,17:30,Sat,Away,W,3,0,Bournemouth,1.3,0.3,14,6,14.8,0,0,0,2023,Arsenal,0,2,17,5,1
+3,2022-08-27,17:30,Sat,Home,W,2,1,Fulham,2.6,0.8,22,8,15.5,1,0,0,2023,Arsenal,1,9,17,5,1
+4,2022-08-31,19:30,Wed,Home,W,2,1,Aston Villa,2.4,0.4,22,8,16.3,1,0,0,2023,Arsenal,1,1,19,2,1
+5,2022-09-04,16:30,Sun,Away,L,1,3,Manchester Utd,1.3,1.5,16,3,18.6,1,0,0,2023,Arsenal,0,14,16,6,0
+7,2022-09-18,12:00,Sun,Away,W,3,0,Brentford,1.5,0.5,13,7,18.2,0,0,0,2023,Arsenal,0,3,12,6,1
+8,2022-10-01,12:30,Sat,Home,W,3,1,Tottenham,2.4,1.6,22,9,18.6,1,0,0,2023,Arsenal,1,19,12,5,1
+10,2022-10-09,16:30,Sun,Home,W,3,2,Liverpool,2.7,1.1,10,6,14.3,0,1,1,2023,Arsenal,1,12,16,6,1
+12,2022-10-16,14:00,Sun,Away,W,1,0,Leeds United,0.5,1.8,9,4,16.6,1,0,0,2023,Arsenal,0,10,14,6,1
+14,2022-10-23,14:00,Sun,Away,D,1,1,Southampton,1,0.7,12,3,17.2,0,0,0,2023,Arsenal,0,18,14,6,0
+16,2022-10-30,14:00,Sun,Home,W,5,0,Nott'ham Forest,2.3,0.4,24,9,16,1,0,0,2023,Arsenal,1,17,14,6,1
+18,2022-11-06,12:00,Sun,Away,W,1,0,Chelsea,2.1,0.3,14,2,14.5,0,0,0,2023,Arsenal,0,6,12,6,1
+20,2022-11-12,19:45,Sat,Away,W,2,0,Wolves,2.1,0.7,14,3,13.7,0,0,0,2023,Arsenal,0,22,19,5,1
+21,2022-12-26,20:00,Mon,Home,W,3,1,West Ham,2.1,1,16,5,18.2,1,0,0,2023,Arsenal,1,21,20,0,1
+22,2022-12-31,17:30,Sat,Away,W,4,2,Brighton,2.9,1.2,14,7,11.2,0,0,0,2023,Arsenal,0,4,17,5,1
+23,2023-01-03,19:45,Tue,Home,,,,Newcastle Utd,,,,,,,,,2023,Arsenal,1,15,19,1,0
+25,2023-01-15,16:30,Sun,Away,,,,Tottenham,,,,,,,,,2023,Arsenal,0,19,16,6,1
+26,2023-01-22,16:30,Sun,Home,,,,Manchester Utd,,,,,,,,,2023,Arsenal,1,14,16,6,1
+28,2023-02-04,12:30,Sat,Away,,,,Everton,,,,,,,,,2023,Arsenal,0,8,12,5,0
+29,2023-02-11,15:00,Sat,Home,,,,Brentford,,,,,,,,,2023,Arsenal,1,3,15,5,0
+30,2023-02-15,19:30,Wed,Home,,,,Manchester City,,,,,,,,,2023,Arsenal,1,13,19,2,0
+31,2023-02-18,12:30,Sat,Away,,,,Aston Villa,,,,,,,,,2023,Arsenal,0,1,12,5,1
+32,2023-02-25,15:00,Sat,Away,,,,Leicester City,,,,,,,,,2023,Arsenal,0,11,15,5,1
+33,2023-03-01,19:45,Wed,Home,,,,Everton,,,,,,,,,2023,Arsenal,1,8,19,2,1
+34,2023-03-04,15:00,Sat,Home,,,,Bournemouth,,,,,,,,,2023,Arsenal,1,2,15,5,1
+36,2023-03-12,14:00,Sun,Away,,,,Fulham,,,,,,,,,2023,Arsenal,0,9,14,6,1
+38,2023-03-19,14:00,Sun,Home,,,,Crystal Palace,,,,,,,,,2023,Arsenal,1,7,14,6,1
+39,2023-04-01,15:00,Sat,Home,,,,Leeds United,,,,,,,,,2023,Arsenal,1,10,15,5,1
+40,2023-04-09,16:30,Sun,Away,,,,Liverpool,,,,,,,,,2023,Arsenal,0,12,16,6,0
+41,2023-04-16,14:00,Sun,Away,,,,West Ham,,,,,,,,,2023,Arsenal,0,21,14,6,0
+42,2023-04-21,20:00,Fri,Home,,,,Southampton,,,,,,,,,2023,Arsenal,1,18,20,4,0
+43,2023-04-26,20:00,Wed,Away,,,,Manchester City,,,,,,,,,2023,Arsenal,0,13,20,2,0
+44,2023-05-02,20:00,Tue,Home,,,,Chelsea,,,,,,,,,2023,Arsenal,1,6,20,1,1
+45,2023-05-07,16:30,Sun,Away,,,,Newcastle Utd,,,,,,,,,2023,Arsenal,0,15,16,6,1
+46,2023-05-14,16:30,Sun,Home,,,,Brighton,,,,,,,,,2023,Arsenal,1,4,16,6,0
+47,2023-05-20,17:30,Sat,Away,,,,Nott'ham Forest,,,,,,,,,2023,Arsenal,0,17,17,5,0
+48,2023-05-28,16:30,Sun,Home,,,,Wolves,,,,,,,,,2023,Arsenal,1,22,16,6,1
+0,2022-08-07,14:00,Sun,Home,L,1,2,Brighton,1.4,1.5,17,5,15.5,0,0,0,2023,Manchester United,1,4,14,6,0
+1,2022-08-13,17:30,Sat,Away,L,0,4,Brentford,0.9,1.6,15,4,19.6,0,0,0,2023,Manchester United,0,3,17,5,0
+2,2022-08-22,20:00,Mon,Home,W,2,1,Liverpool,1.8,1.3,13,5,19.5,2,0,0,2023,Manchester United,1,12,20,0,1
+3,2022-08-27,12:30,Sat,Away,W,1,0,Southampton,1.1,1.4,11,4,15.5,1,0,0,2023,Manchester United,0,18,12,5,1
+4,2022-09-01,20:00,Thu,Away,W,1,0,Leicester City,1.5,0.7,9,2,16.8,0,0,0,2023,Manchester United,0,11,20,3,1
+5,2022-09-04,16:30,Sun,Home,W,3,1,Arsenal,1.5,1.3,10,6,15.5,0,0,0,2023,Manchester United,1,0,16,6,1
+8,2022-10-02,14:00,Sun,Away,L,3,6,Manchester City,1.7,3.2,11,7,22.2,0,1,1,2023,Manchester United,0,13,14,6,0
+10,2022-10-09,19:00,Sun,Away,W,2,1,Everton,1.4,0.6,12,4,18.8,0,0,0,2023,Manchester United,0,8,19,6,1
+12,2022-10-16,14:00,Sun,Home,D,0,0,Newcastle Utd,0.8,0.8,15,2,19.4,1,0,0,2023,Manchester United,1,15,14,6,0
+13,2022-10-19,20:15,Wed,Home,W,2,0,Tottenham,1.5,0.6,28,10,21.4,1,0,0,2023,Manchester United,1,19,20,2,1
+14,2022-10-22,17:30,Sat,Away,D,1,1,Chelsea,0.8,1.1,13,6,22.1,1,0,0,2023,Manchester United,0,6,17,5,0
+16,2022-10-30,16:15,Sun,Home,W,1,0,West Ham,1.2,1.1,16,3,18.1,0,0,0,2023,Manchester United,1,21,16,6,1
+18,2022-11-06,14:00,Sun,Away,L,1,3,Aston Villa,0.5,0.6,8,3,19.7,1,0,0,2023,Manchester United,0,1,14,6,0
+20,2022-11-13,16:30,Sun,Away,W,2,1,Fulham,2.5,1.4,14,9,17.7,0,0,0,2023,Manchester United,0,9,16,6,1
+22,2022-12-27,20:00,Tue,Home,W,3,0,Nott'ham Forest,2.4,0.7,17,8,15.9,0,0,0,2023,Manchester United,1,17,20,1,1
+23,2022-12-31,12:30,Sat,Away,W,1,0,Wolves,2,0.7,16,6,14.9,1,0,0,2023,Manchester United,0,22,12,5,1
+24,2023-01-03,20:00,Tue,Home,,,,Bournemouth,,,,,,,,,2023,Manchester United,1,2,20,1,1
+27,2023-01-14,12:30,Sat,Home,,,,Manchester City,,,,,,,,,2023,Manchester United,1,13,12,5,1
+28,2023-01-18,20:00,Wed,Away,,,,Crystal Palace,,,,,,,,,2023,Manchester United,0,7,20,2,0
+29,2023-01-22,16:30,Sun,Away,,,,Arsenal,,,,,,,,,2023,Manchester United,0,0,16,6,0
+33,2023-02-04,15:00,Sat,Home,,,,Crystal Palace,,,,,,,,,2023,Manchester United,1,7,15,5,1
+34,2023-02-08,20:00,Wed,Home,,,,Leeds United,,,,,,,,,2023,Manchester United,1,10,20,2,0
+35,2023-02-12,14:00,Sun,Away,,,,Leeds United,,,,,,,,,2023,Manchester United,0,10,14,6,1
+37,2023-02-19,14:00,Sun,Home,,,,Leicester City,,,,,,,,,2023,Manchester United,1,11,14,6,1
+41,2023-03-05,16:30,Sun,Away,,,,Liverpool,,,,,,,,,2023,Manchester United,0,12,16,6,0
+43,2023-03-12,14:00,Sun,Home,,,,Southampton,,,,,,,,,2023,Manchester United,1,18,14,6,0
+46,2023-04-02,16:30,Sun,Away,,,,Newcastle Utd,,,,,,,,,2023,Manchester United,0,15,16,6,0
+47,2023-04-05,20:00,Wed,Home,,,,Brentford,,,,,,,,,2023,Manchester United,1,3,20,2,1
+48,2023-04-08,12:30,Sat,Home,,,,Everton,,,,,,,,,2023,Manchester United,1,8,12,5,1
+50,2023-04-16,16:30,Sun,Away,,,,Nott'ham Forest,,,,,,,,,2023,Manchester United,0,17,16,6,1
+53,2023-04-27,20:15,Thu,Away,,,,Tottenham,,,,,,,,,2023,Manchester United,0,19,20,3,0
+54,2023-04-30,14:00,Sun,Home,,,,Aston Villa,,,,,,,,,2023,Manchester United,1,1,14,6,1
+55,2023-05-04,20:00,Thu,Away,,,,Brighton,,,,,,,,,2023,Manchester United,0,4,20,3,0
+56,2023-05-07,19:00,Sun,Away,,,,West Ham,,,,,,,,,2023,Manchester United,0,21,19,6,0
+57,2023-05-13,15:00,Sat,Home,,,,Wolves,,,,,,,,,2023,Manchester United,1,22,15,5,1
+58,2023-05-20,15:00,Sat,Away,,,,Bournemouth,,,,,,,,,2023,Manchester United,0,2,15,5,1
+59,2023-05-25,20:00,Thu,Home,,,,Chelsea,,,,,,,,,2023,Manchester United,1,6,20,3,1
+60,2023-05-28,16:30,Sun,Home,,,,Fulham,,,,,,,,,2023,Manchester United,1,9,16,6,1
+0,2022-08-06,15:00,Sat,Home,W,2,0,Nott'ham Forest,1.7,0.3,23,9,16,1,0,0,2023,Newcastle United,1,17,15,5,1
+1,2022-08-13,15:00,Sat,Away,D,0,0,Brighton,0.2,1.5,4,1,17.8,0,0,0,2023,Newcastle United,0,4,15,5,0
+2,2022-08-21,16:30,Sun,Home,D,3,3,Manchester City,1.8,2.1,12,5,14.8,1,0,0,2023,Newcastle United,1,13,16,6,0
+4,2022-08-28,14:00,Sun,Away,D,1,1,Wolves,1.7,0.7,21,6,18.1,1,0,0,2023,Newcastle United,0,22,14,6,0
+5,2022-08-31,20:00,Wed,Away,L,1,2,Liverpool,0.7,1.5,5,2,18.2,1,0,0,2023,Newcastle United,0,12,20,2,0
+6,2022-09-03,15:00,Sat,Home,D,0,0,Crystal Palace,2.8,1,23,5,12.8,1,0,0,2023,Newcastle United,1,7,15,5,0
+7,2022-09-17,15:00,Sat,Home,D,1,1,Bournemouth,1.9,0.7,19,6,20,1,1,1,2023,Newcastle United,1,2,15,5,0
+8,2022-10-01,15:00,Sat,Away,W,4,1,Fulham,3.3,0.5,19,10,12.9,0,0,0,2023,Newcastle United,0,9,15,5,1
+9,2022-10-08,15:00,Sat,Home,W,5,1,Brentford,1.5,1.2,16,6,18.6,0,0,0,2023,Newcastle United,1,3,15,5,1
+10,2022-10-16,14:00,Sun,Away,D,0,0,Manchester Utd,0.8,0.8,9,2,14.7,1,0,0,2023,Newcastle United,0,14,14,6,0
+11,2022-10-19,19:30,Wed,Home,W,1,0,Everton,1.5,0.2,16,4,14.2,0,0,0,2023,Newcastle United,1,8,19,2,1
+12,2022-10-23,16:30,Sun,Away,W,2,1,Tottenham,1.2,1.6,13,5,18.4,0,0,0,2023,Newcastle United,0,19,16,6,1
+13,2022-10-29,15:00,Sat,Home,W,4,0,Aston Villa,3.4,0.4,19,6,16.3,0,1,1,2023,Newcastle United,1,1,15,5,1
+14,2022-11-06,14:00,Sun,Away,W,4,1,Southampton,0.9,1.7,7,4,15.4,0,0,0,2023,Newcastle United,0,18,14,6,1
+16,2022-11-12,17:30,Sat,Home,W,1,0,Chelsea,1,0.3,10,3,15.4,0,0,0,2023,Newcastle United,1,6,17,5,1
+18,2022-12-26,15:00,Mon,Away,W,3,0,Leicester City,1.9,0.5,11,4,16.8,0,1,1,2023,Newcastle United,0,11,15,0,1
+19,2022-12-31,15:00,Sat,Home,D,0,0,Leeds United,2.2,0.4,16,5,15.4,1,0,0,2023,Newcastle United,1,10,15,5,0
+20,2023-01-03,19:45,Tue,Away,,,,Arsenal,,,,,,,,,2023,Newcastle United,0,0,19,1,0
+23,2023-01-15,14:00,Sun,Home,,,,Fulham,,,,,,,,,2023,Newcastle United,1,9,14,6,1
+24,2023-01-21,17:30,Sat,Away,,,,Crystal Palace,,,,,,,,,2023,Newcastle United,0,7,17,5,0
+27,2023-02-04,17:30,Sat,Home,,,,West Ham,,,,,,,,,2023,Newcastle United,1,21,17,5,0
+28,2023-02-11,17:30,Sat,Away,,,,Bournemouth,,,,,,,,,2023,Newcastle United,0,2,17,5,0
+29,2023-02-18,17:30,Sat,Home,,,,Liverpool,,,,,,,,,2023,Newcastle United,1,12,17,5,0
+31,2023-03-04,12:30,Sat,Away,,,,Manchester City,,,,,,,,,2023,Newcastle United,0,13,12,5,0
+32,2023-03-12,16:30,Sun,Home,,,,Wolves,,,,,,,,,2023,Newcastle United,1,22,16,6,1
+33,2023-03-17,20:00,Fri,Away,,,,Nott'ham Forest,,,,,,,,,2023,Newcastle United,0,17,20,4,1
+34,2023-04-02,16:30,Sun,Home,,,,Manchester Utd,,,,,,,,,2023,Newcastle United,1,14,16,6,1
+35,2023-04-05,20:00,Wed,Away,,,,West Ham,,,,,,,,,2023,Newcastle United,0,21,20,2,1
+36,2023-04-08,15:00,Sat,Away,,,,Brentford,,,,,,,,,2023,Newcastle United,0,3,15,5,1
+37,2023-04-15,12:30,Sat,Away,,,,Aston Villa,,,,,,,,,2023,Newcastle United,0,1,12,5,0
+38,2023-04-23,14:00,Sun,Home,,,,Tottenham,,,,,,,,,2023,Newcastle United,1,19,14,6,1
+39,2023-04-27,19:45,Thu,Away,,,,Everton,,,,,,,,,2023,Newcastle United,0,8,19,3,1
+40,2023-04-30,14:00,Sun,Home,,,,Southampton,,,,,,,,,2023,Newcastle United,1,18,14,6,1
+41,2023-05-07,16:30,Sun,Home,,,,Arsenal,,,,,,,,,2023,Newcastle United,1,0,16,6,0
+42,2023-05-13,12:30,Sat,Away,,,,Leeds United,,,,,,,,,2023,Newcastle United,0,10,12,5,0
+43,2023-05-18,19:30,Thu,Home,,,,Brighton,,,,,,,,,2023,Newcastle United,1,4,19,3,1
+44,2023-05-22,20:00,Mon,Home,,,,Leicester City,,,,,,,,,2023,Newcastle United,1,11,20,0,0
+45,2023-05-28,16:30,Sun,Away,,,,Chelsea,,,,,,,,,2023,Newcastle United,0,6,16,6,0
+1,2022-08-06,12:30,Sat,Away,D,2,2,Fulham,1.2,1.2,11,3,12.4,0,0,0,2023,Liverpool,0,9,12,5,0
+2,2022-08-15,20:00,Mon,Home,D,1,1,Crystal Palace,2,1,24,4,17.4,0,0,0,2023,Liverpool,1,7,20,0,0
+3,2022-08-22,20:00,Mon,Away,L,1,2,Manchester Utd,1.3,1.8,17,5,14.4,0,0,0,2023,Liverpool,0,14,20,0,0
+4,2022-08-27,15:00,Sat,Home,W,9,0,Bournemouth,3.3,0.3,19,12,11.6,0,0,0,2023,Liverpool,1,2,15,5,1
+5,2022-08-31,20:00,Wed,Home,W,2,1,Newcastle Utd,1.5,0.7,23,6,17.8,0,0,0,2023,Liverpool,1,15,20,2,1
+6,2022-09-03,12:30,Sat,Away,D,0,0,Everton,2.1,1.7,23,8,13.1,0,0,0,2023,Liverpool,0,8,12,5,0
+9,2022-10-01,15:00,Sat,Home,D,3,3,Brighton,1.5,1.4,15,7,16.8,1,0,0,2023,Liverpool,1,4,15,5,0
+11,2022-10-09,16:30,Sun,Away,L,2,3,Arsenal,1.1,2.7,8,3,18,0,0,0,2023,Liverpool,0,0,16,6,0
+13,2022-10-16,16:30,Sun,Home,W,1,0,Manchester City,2.1,1,13,2,17.5,0,0,0,2023,Liverpool,1,13,16,6,1
+14,2022-10-19,19:30,Wed,Home,W,1,0,West Ham,1.7,1.7,22,7,17.5,0,0,0,2023,Liverpool,1,21,19,2,1
+15,2022-10-22,12:30,Sat,Away,L,0,1,Nott'ham Forest,1.6,1.9,15,7,10.4,0,0,0,2023,Liverpool,0,17,12,5,0
+17,2022-10-29,19:45,Sat,Home,L,1,2,Leeds United,1.7,1.8,22,10,16.4,0,0,0,2023,Liverpool,1,10,19,5,0
+19,2022-11-06,16:30,Sun,Away,W,2,1,Tottenham,1.2,1.2,13,6,21.2,0,0,0,2023,Liverpool,0,19,16,6,1
+21,2022-11-12,15:00,Sat,Home,W,3,1,Southampton,1.9,1.1,15,7,12.4,0,0,0,2023,Liverpool,1,18,15,5,1
+23,2022-12-26,17:30,Mon,Away,W,3,1,Aston Villa,2.7,1.4,16,9,17,0,0,0,2023,Liverpool,0,1,17,0,1
+24,2022-12-30,20:00,Fri,Home,W,2,1,Leicester City,2.2,1,21,5,18.4,1,0,0,2023,Liverpool,1,11,20,4,1
+25,2023-01-02,17:30,Mon,Away,,,,Brentford,,,,,,,,,2023,Liverpool,0,3,17,0,0
+27,2023-01-14,15:00,Sat,Away,,,,Brighton,,,,,,,,,2023,Liverpool,0,4,15,5,0
+29,2023-01-21,12:30,Sat,Home,,,,Chelsea,,,,,,,,,2023,Liverpool,1,6,12,5,0
+31,2023-02-04,15:00,Sat,Away,,,,Wolves,,,,,,,,,2023,Liverpool,0,22,15,5,0
+32,2023-02-13,20:00,Mon,Home,,,,Everton,,,,,,,,,2023,Liverpool,1,8,20,0,1
+33,2023-02-18,17:30,Sat,Away,,,,Newcastle Utd,,,,,,,,,2023,Liverpool,0,15,17,5,1
+35,2023-02-25,19:45,Sat,Away,,,,Crystal Palace,,,,,,,,,2023,Liverpool,0,7,19,5,0
+36,2023-03-01,20:00,Wed,Home,,,,Wolves,,,,,,,,,2023,Liverpool,1,22,20,2,1
+37,2023-03-05,16:30,Sun,Home,,,,Manchester Utd,,,,,,,,,2023,Liverpool,1,14,16,6,1
+38,2023-03-11,12:30,Sat,Away,,,,Bournemouth,,,,,,,,,2023,Liverpool,0,2,12,5,0
+40,2023-04-01,12:30,Sat,Away,,,,Manchester City,,,,,,,,,2023,Liverpool,0,13,12,5,0
+41,2023-04-04,20:00,Tue,Away,,,,Chelsea,,,,,,,,,2023,Liverpool,0,6,20,1,0
+42,2023-04-09,16:30,Sun,Home,,,,Arsenal,,,,,,,,,2023,Liverpool,1,0,16,6,0
+43,2023-04-17,20:00,Mon,Away,,,,Leeds United,,,,,,,,,2023,Liverpool,0,10,20,0,1
+44,2023-04-22,15:00,Sat,Home,,,,Nott'ham Forest,,,,,,,,,2023,Liverpool,1,17,15,5,1
+45,2023-04-26,19:45,Wed,Away,,,,West Ham,,,,,,,,,2023,Liverpool,0,21,19,2,1
+46,2023-04-30,16:30,Sun,Home,,,,Tottenham,,,,,,,,,2023,Liverpool,1,19,16,6,1
+47,2023-05-03,20:00,Wed,Home,,,,Fulham,,,,,,,,,2023,Liverpool,1,9,20,2,1
+48,2023-05-06,17:30,Sat,Home,,,,Brentford,,,,,,,,,2023,Liverpool,1,3,17,5,1
+49,2023-05-15,20:00,Mon,Away,,,,Leicester City,,,,,,,,,2023,Liverpool,0,11,20,0,1
+50,2023-05-20,15:00,Sat,Home,,,,Aston Villa,,,,,,,,,2023,Liverpool,1,1,15,5,0
+51,2023-05-28,16:30,Sun,Away,,,,Southampton,,,,,,,,,2023,Liverpool,0,18,16,6,0
+0,2022-08-07,14:00,Sun,Away,W,2,1,Manchester Utd,1.5,1.4,15,4,17.4,0,0,0,2023,Brighton and Hove Albion,0,14,14,6,1
+1,2022-08-13,15:00,Sat,Home,D,0,0,Newcastle Utd,1.5,0.2,13,5,17.3,0,0,0,2023,Brighton and Hove Albion,1,15,15,5,0
+2,2022-08-21,14:00,Sun,Away,W,2,0,West Ham,1.7,0.8,10,1,18.8,0,1,1,2023,Brighton and Hove Albion,0,21,14,6,1
+4,2022-08-27,15:00,Sat,Home,W,1,0,Leeds United,2,1.8,13,4,13.6,0,0,0,2023,Brighton and Hove Albion,1,10,15,5,1
+5,2022-08-30,19:30,Tue,Away,L,1,2,Fulham,1.4,0.7,6,2,15.3,0,1,1,2023,Brighton and Hove Albion,0,9,19,1,0
+6,2022-09-04,14:00,Sun,Home,W,5,2,Leicester City,2.6,1.4,22,10,19.6,2,1,1,2023,Brighton and Hove Albion,1,11,14,6,1
+7,2022-10-01,15:00,Sat,Away,D,3,3,Liverpool,1.4,1.5,6,6,10,0,0,0,2023,Brighton and Hove Albion,0,12,15,5,0
+8,2022-10-08,17:30,Sat,Home,L,0,1,Tottenham,0.7,0.8,14,4,18.5,0,0,0,2023,Brighton and Hove Albion,1,19,17,5,0
+9,2022-10-14,20:00,Fri,Away,L,0,2,Brentford,1.9,1.5,21,7,17.2,0,0,0,2023,Brighton and Hove Albion,0,3,20,4,0
+10,2022-10-18,19:30,Tue,Home,D,0,0,Nott'ham Forest,1.7,0.1,19,7,15.7,0,0,0,2023,Brighton and Hove Albion,1,17,19,1,0
+11,2022-10-22,15:00,Sat,Away,L,1,3,Manchester City,0.5,1.6,8,2,19.8,0,0,0,2023,Brighton and Hove Albion,0,13,15,5,0
+12,2022-10-29,15:00,Sat,Home,W,4,1,Chelsea,2.4,1.4,19,7,15.9,0,0,0,2023,Brighton and Hove Albion,1,6,15,5,1
+13,2022-11-05,15:00,Sat,Away,W,3,2,Wolves,1.5,1.2,19,8,17.2,3,0,0,2023,Brighton and Hove Albion,0,22,15,5,1
+15,2022-11-13,14:00,Sun,Home,L,1,2,Aston Villa,0.6,1.5,7,2,18.2,0,0,0,2023,Brighton and Hove Albion,1,1,14,6,0
+17,2022-12-26,15:00,Mon,Away,W,3,1,Southampton,0.6,1.9,7,4,13.7,0,0,0,2023,Brighton and Hove Albion,0,18,15,0,1
+18,2022-12-31,17:30,Sat,Home,L,2,4,Arsenal,1.2,2.9,9,5,13.5,0,0,0,2023,Brighton and Hove Albion,1,0,17,5,0
+19,2023-01-03,19:45,Tue,Away,,,,Everton,,,,,,,,,2023,Brighton and Hove Albion,0,8,19,1,1
+21,2023-01-14,15:00,Sat,Home,,,,Liverpool,,,,,,,,,2023,Brighton and Hove Albion,1,12,15,5,1
+22,2023-01-21,15:00,Sat,Away,,,,Leicester City,,,,,,,,,2023,Brighton and Hove Albion,0,11,15,5,0
+24,2023-02-04,15:00,Sat,Home,,,,Bournemouth,,,,,,,,,2023,Brighton and Hove Albion,1,2,15,5,1
+25,2023-02-11,15:00,Sat,Away,,,,Crystal Palace,,,,,,,,,2023,Brighton and Hove Albion,0,7,15,5,0
+26,2023-02-18,15:00,Sat,Home,,,,Fulham,,,,,,,,,2023,Brighton and Hove Albion,1,9,15,5,0
+28,2023-03-04,15:00,Sat,Home,,,,West Ham,,,,,,,,,2023,Brighton and Hove Albion,1,21,15,5,1
+29,2023-03-11,15:00,Sat,Away,,,,Leeds United,,,,,,,,,2023,Brighton and Hove Albion,0,10,15,5,0
+30,2023-03-15,19:30,Wed,Home,,,,Crystal Palace,,,,,,,,,2023,Brighton and Hove Albion,1,7,19,2,1
+32,2023-04-01,15:00,Sat,Home,,,,Brentford,,,,,,,,,2023,Brighton and Hove Albion,1,3,15,5,0
+33,2023-04-04,19:45,Tue,Away,,,,Bournemouth,,,,,,,,,2023,Brighton and Hove Albion,0,2,19,1,1
+34,2023-04-08,15:00,Sat,Away,,,,Tottenham,,,,,,,,,2023,Brighton and Hove Albion,0,19,15,5,0
+35,2023-04-15,15:00,Sat,Away,,,,Chelsea,,,,,,,,,2023,Brighton and Hove Albion,0,6,15,5,1
+37,2023-04-26,19:30,Wed,Away,,,,Nott'ham Forest,,,,,,,,,2023,Brighton and Hove Albion,0,17,19,2,0
+38,2023-04-29,15:00,Sat,Home,,,,Wolves,,,,,,,,,2023,Brighton and Hove Albion,1,22,15,5,1
+39,2023-05-04,20:00,Thu,Home,,,,Manchester Utd,,,,,,,,,2023,Brighton and Hove Albion,1,14,20,3,1
+40,2023-05-08,17:30,Mon,Home,,,,Everton,,,,,,,,,2023,Brighton and Hove Albion,1,8,17,0,0
+41,2023-05-14,16:30,Sun,Away,,,,Arsenal,,,,,,,,,2023,Brighton and Hove Albion,0,0,16,6,1
+42,2023-05-18,19:30,Thu,Away,,,,Newcastle Utd,,,,,,,,,2023,Brighton and Hove Albion,0,15,19,3,0
+43,2023-05-21,14:00,Sun,Home,,,,Southampton,,,,,,,,,2023,Brighton and Hove Albion,1,18,14,6,1
+44,2023-05-24,20:00,Wed,Home,,,,Manchester City,,,,,,,,,2023,Brighton and Hove Albion,1,13,20,2,0
+45,2023-05-28,16:30,Sun,Away,,,,Aston Villa,,,,,,,,,2023,Brighton and Hove Albion,0,1,16,6,0
+0,2022-08-06,15:00,Sat,Away,L,0,2,Bournemouth,0.7,0.6,15,2,24.6,0,0,0,2023,Aston Villa,0,2,15,5,0
+1,2022-08-13,12:30,Sat,Home,W,2,1,Everton,2.3,1.6,12,3,13.3,0,0,0,2023,Aston Villa,1,8,12,5,1
+2,2022-08-20,15:00,Sat,Away,L,1,3,Crystal Palace,0.9,2.6,13,5,17.8,0,0,0,2023,Aston Villa,0,7,15,5,0
+4,2022-08-28,14:00,Sun,Home,L,0,1,West Ham,0.5,0.6,9,3,20.5,0,0,0,2023,Aston Villa,1,21,14,6,0
+5,2022-08-31,19:30,Wed,Away,L,1,2,Arsenal,0.4,2.4,4,3,19.2,0,0,0,2023,Aston Villa,0,0,19,2,0
+6,2022-09-03,17:30,Sat,Home,D,1,1,Manchester City,0.3,2.1,3,1,16.8,0,0,0,2023,Aston Villa,1,13,17,5,0
+7,2022-09-16,20:00,Fri,Home,W,1,0,Southampton,1.5,0.3,11,3,20.7,1,0,0,2023,Aston Villa,1,18,20,4,1
+8,2022-10-02,16:30,Sun,Away,D,0,0,Leeds United,2.2,0.4,19,6,17.8,0,0,0,2023,Aston Villa,0,10,16,6,0
+9,2022-10-10,20:00,Mon,Away,D,1,1,Nott'ham Forest,0.7,0.3,12,2,20.2,3,0,0,2023,Aston Villa,0,17,20,0,0
+10,2022-10-16,14:00,Sun,Home,L,0,2,Chelsea,1.8,0.9,18,7,15.3,1,0,0,2023,Aston Villa,1,6,14,6,0
+11,2022-10-20,19:30,Thu,Away,L,0,3,Fulham,1.2,2.1,12,6,15,0,0,0,2023,Aston Villa,0,9,19,3,0
+12,2022-10-23,14:00,Sun,Home,W,4,0,Brentford,2.8,0.9,18,10,18.7,0,1,1,2023,Aston Villa,1,3,14,6,1
+13,2022-10-29,15:00,Sat,Away,L,0,4,Newcastle Utd,0.4,3.4,3,0,13.9,0,0,0,2023,Aston Villa,0,15,15,5,0
+14,2022-11-06,14:00,Sun,Home,W,3,1,Manchester Utd,0.6,0.5,6,4,22.7,1,0,0,2023,Aston Villa,1,14,14,6,1
+16,2022-11-13,14:00,Sun,Away,W,2,1,Brighton,1.5,0.6,7,1,25.1,0,1,1,2023,Aston Villa,0,4,14,6,1
+17,2022-12-26,17:30,Mon,Home,L,1,3,Liverpool,1.4,2.7,12,6,15.3,0,0,0,2023,Aston Villa,1,12,17,0,0
+18,2023-01-01,14:00,Sun,Away,,,,Tottenham,,,,,,,,,2023,Aston Villa,0,19,14,6,1
+19,2023-01-04,20:00,Wed,Home,,,,Wolves,,,,,,,,,2023,Aston Villa,1,22,20,2,0
+21,2023-01-13,20:00,Fri,Home,,,,Leeds United,,,,,,,,,2023,Aston Villa,1,10,20,4,1
+22,2023-01-21,15:00,Sat,Away,,,,Southampton,,,,,,,,,2023,Aston Villa,0,18,15,5,1
+23,2023-02-04,15:00,Sat,Home,,,,Leicester City,,,,,,,,,2023,Aston Villa,1,11,15,5,0
+24,2023-02-12,16:30,Sun,Away,,,,Manchester City,,,,,,,,,2023,Aston Villa,0,13,16,6,0
+25,2023-02-18,12:30,Sat,Home,,,,Arsenal,,,,,,,,,2023,Aston Villa,1,0,12,5,0
+26,2023-02-25,15:00,Sat,Away,,,,Everton,,,,,,,,,2023,Aston Villa,0,8,15,5,1
+27,2023-03-04,15:00,Sat,Home,,,,Crystal Palace,,,,,,,,,2023,Aston Villa,1,7,15,5,1
+28,2023-03-12,14:00,Sun,Away,,,,West Ham,,,,,,,,,2023,Aston Villa,0,21,14,6,0
+29,2023-03-18,15:00,Sat,Home,,,,Bournemouth,,,,,,,,,2023,Aston Villa,1,2,15,5,1
+30,2023-04-01,17:30,Sat,Away,,,,Chelsea,,,,,,,,,2023,Aston Villa,0,6,17,5,1
+31,2023-04-04,19:45,Tue,Away,,,,Leicester City,,,,,,,,,2023,Aston Villa,0,11,19,1,1
+32,2023-04-08,15:00,Sat,Home,,,,Nott'ham Forest,,,,,,,,,2023,Aston Villa,1,17,15,5,1
+33,2023-04-15,12:30,Sat,Home,,,,Newcastle Utd,,,,,,,,,2023,Aston Villa,1,15,12,5,1
+34,2023-04-22,15:00,Sat,Away,,,,Brentford,,,,,,,,,2023,Aston Villa,0,3,15,5,0
+35,2023-04-25,19:45,Tue,Home,,,,Fulham,,,,,,,,,2023,Aston Villa,1,9,19,1,1
+36,2023-04-30,14:00,Sun,Away,,,,Manchester Utd,,,,,,,,,2023,Aston Villa,0,14,14,6,0
+37,2023-05-06,15:00,Sat,Away,,,,Wolves,,,,,,,,,2023,Aston Villa,0,22,15,5,0
+38,2023-05-13,15:00,Sat,Home,,,,Tottenham,,,,,,,,,2023,Aston Villa,1,19,15,5,1
+39,2023-05-20,15:00,Sat,Away,,,,Liverpool,,,,,,,,,2023,Aston Villa,0,12,15,5,0
+40,2023-05-28,16:30,Sun,Home,,,,Brighton,,,,,,,,,2023,Aston Villa,1,4,16,6,1
+0,2022-08-06,15:00,Sat,Home,W,4,1,Southampton,1.5,0.5,18,8,16.5,0,0,0,2023,Tottenham Hotspur,1,18,15,5,1
+1,2022-08-14,16:30,Sun,Away,D,2,2,Chelsea,1,1.6,10,5,13.4,0,0,0,2023,Tottenham Hotspur,0,6,16,6,0
+2,2022-08-20,12:30,Sat,Home,W,1,0,Wolves,1.7,0.7,11,4,11.7,0,0,0,2023,Tottenham Hotspur,1,22,12,5,1
+3,2022-08-28,16:30,Sun,Away,W,2,0,Nott'ham Forest,2.4,0.9,17,5,19.7,0,0,1,2023,Tottenham Hotspur,0,17,16,6,1
+4,2022-08-31,19:45,Wed,Away,D,1,1,West Ham,0.6,1.2,12,3,16.8,0,0,0,2023,Tottenham Hotspur,0,21,19,2,0
+5,2022-09-03,15:00,Sat,Home,W,2,1,Fulham,2.9,0.7,23,10,15.5,1,0,0,2023,Tottenham Hotspur,1,9,15,5,1
+8,2022-09-17,17:30,Sat,Home,W,6,2,Leicester City,2.2,1.8,16,11,16.5,0,0,0,2023,Tottenham Hotspur,1,11,17,5,1
+9,2022-10-01,12:30,Sat,Away,L,1,3,Arsenal,1.6,2.4,6,2,19.9,0,1,1,2023,Tottenham Hotspur,0,0,12,5,0
+11,2022-10-08,17:30,Sat,Away,W,1,0,Brighton,0.8,0.7,8,3,18.7,1,0,0,2023,Tottenham Hotspur,0,4,17,5,1
+13,2022-10-15,17:30,Sat,Home,W,2,0,Everton,2.2,0.4,20,6,17.2,1,1,1,2023,Tottenham Hotspur,1,8,17,5,1
+14,2022-10-19,20:15,Wed,Away,L,0,2,Manchester Utd,0.6,1.5,9,2,14.9,0,0,0,2023,Tottenham Hotspur,0,14,20,2,0
+15,2022-10-23,16:30,Sun,Home,L,1,2,Newcastle Utd,1.6,1.2,17,4,16.9,0,0,0,2023,Tottenham Hotspur,1,15,16,6,0
+17,2022-10-29,15:00,Sat,Away,W,3,2,Bournemouth,2,0.5,23,7,15.1,1,0,0,2023,Tottenham Hotspur,0,2,15,5,1
+19,2022-11-06,16:30,Sun,Home,L,1,2,Liverpool,1.2,1.2,14,5,14.4,0,0,0,2023,Tottenham Hotspur,1,12,16,6,0
+21,2022-11-12,15:00,Sat,Home,W,4,3,Leeds United,1.8,1.1,14,7,14.5,0,0,0,2023,Tottenham Hotspur,1,10,15,5,1
+22,2022-12-26,12:30,Mon,Away,D,2,2,Brentford,1.1,2,15,8,19.7,1,0,0,2023,Tottenham Hotspur,0,3,12,0,0
+23,2023-01-01,14:00,Sun,Home,,,,Aston Villa,,,,,,,,,2023,Tottenham Hotspur,1,1,14,6,0
+24,2023-01-04,20:00,Wed,Away,,,,Crystal Palace,,,,,,,,,2023,Tottenham Hotspur,0,7,20,2,1
+26,2023-01-15,16:30,Sun,Home,,,,Arsenal,,,,,,,,,2023,Tottenham Hotspur,1,0,16,6,0
+27,2023-01-19,20:00,Thu,Away,,,,Manchester City,,,,,,,,,2023,Tottenham Hotspur,0,13,20,3,0
+28,2023-01-23,20:00,Mon,Away,,,,Fulham,,,,,,,,,2023,Tottenham Hotspur,0,9,20,0,1
+30,2023-02-05,16:30,Sun,Home,,,,Manchester City,,,,,,,,,2023,Tottenham Hotspur,1,13,16,6,1
+31,2023-02-11,15:00,Sat,Away,,,,Leicester City,,,,,,,,,2023,Tottenham Hotspur,0,11,15,5,0
+33,2023-02-19,16:30,Sun,Home,,,,West Ham,,,,,,,,,2023,Tottenham Hotspur,1,21,16,6,1
+34,2023-02-26,13:30,Sun,Home,,,,Chelsea,,,,,,,,,2023,Tottenham Hotspur,1,6,13,6,1
+36,2023-03-04,15:00,Sat,Away,,,,Wolves,,,,,,,,,2023,Tottenham Hotspur,0,22,15,5,0
+38,2023-03-11,15:00,Sat,Home,,,,Nott'ham Forest,,,,,,,,,2023,Tottenham Hotspur,1,17,15,5,1
+39,2023-03-18,15:00,Sat,Away,,,,Southampton,,,,,,,,,2023,Tottenham Hotspur,0,18,15,5,0
+40,2023-04-03,20:00,Mon,Away,,,,Everton,,,,,,,,,2023,Tottenham Hotspur,0,8,20,0,0
+41,2023-04-08,15:00,Sat,Home,,,,Brighton,,,,,,,,,2023,Tottenham Hotspur,1,4,15,5,1
+42,2023-04-15,15:00,Sat,Home,,,,Bournemouth,,,,,,,,,2023,Tottenham Hotspur,1,2,15,5,0
+43,2023-04-23,14:00,Sun,Away,,,,Newcastle Utd,,,,,,,,,2023,Tottenham Hotspur,0,15,14,6,0
+44,2023-04-27,20:15,Thu,Home,,,,Manchester Utd,,,,,,,,,2023,Tottenham Hotspur,1,14,20,3,0
+45,2023-04-30,16:30,Sun,Away,,,,Liverpool,,,,,,,,,2023,Tottenham Hotspur,0,12,16,6,0
+46,2023-05-06,15:00,Sat,Home,,,,Crystal Palace,,,,,,,,,2023,Tottenham Hotspur,1,7,15,5,1
+47,2023-05-13,15:00,Sat,Away,,,,Aston Villa,,,,,,,,,2023,Tottenham Hotspur,0,1,15,5,0
+48,2023-05-20,12:30,Sat,Home,,,,Brentford,,,,,,,,,2023,Tottenham Hotspur,1,3,12,5,0
+49,2023-05-28,16:30,Sun,Away,,,,Leeds United,,,,,,,,,2023,Tottenham Hotspur,0,10,16,6,1
+0,2022-08-07,14:00,Sun,Away,D,2,2,Leicester City,0.8,0.6,8,3,17,0,0,0,2023,Brentford,0,11,14,6,0
+1,2022-08-13,17:30,Sat,Home,W,4,0,Manchester Utd,1.6,0.9,13,7,18.6,1,0,0,2023,Brentford,1,14,17,5,1
+2,2022-08-20,15:00,Sat,Away,L,2,3,Fulham,1.8,2.4,13,5,14.1,0,0,0,2023,Brentford,0,9,15,5,0
+4,2022-08-27,15:00,Sat,Home,D,1,1,Everton,2.1,1.1,20,5,14.8,0,0,0,2023,Brentford,1,8,15,5,0
+5,2022-08-30,19:30,Tue,Away,D,1,1,Crystal Palace,1.4,1,9,3,10.7,0,0,0,2023,Brentford,0,7,19,1,0
+6,2022-09-03,15:00,Sat,Home,W,5,2,Leeds United,2.3,1.7,13,7,18.8,2,1,1,2023,Brentford,1,10,15,5,1
+7,2022-09-18,12:00,Sun,Home,L,0,3,Arsenal,0.5,1.5,5,2,13.9,1,0,0,2023,Brentford,1,0,12,6,0
+8,2022-10-01,15:00,Sat,Away,D,0,0,Bournemouth,0.9,0.4,13,4,15.2,1,0,0,2023,Brentford,0,2,15,5,0
+9,2022-10-08,15:00,Sat,Away,L,1,5,Newcastle Utd,1.2,1.5,5,2,18.2,0,1,1,2023,Brentford,0,15,15,5,0
+10,2022-10-14,20:00,Fri,Home,W,2,0,Brighton,1.5,1.9,6,1,16.3,0,1,1,2023,Brentford,1,4,20,4,1
+11,2022-10-19,19:30,Wed,Home,D,0,0,Chelsea,1.3,0.9,8,5,14.5,0,0,0,2023,Brentford,1,6,19,2,0
+12,2022-10-23,14:00,Sun,Away,L,0,4,Aston Villa,0.9,2.8,12,3,16.8,0,0,0,2023,Brentford,0,1,14,6,0
+13,2022-10-29,15:00,Sat,Home,D,1,1,Wolves,1.4,0.6,12,3,15.4,0,0,0,2023,Brentford,1,22,15,5,0
+14,2022-11-05,15:00,Sat,Away,D,2,2,Nott'ham Forest,1.5,1.5,5,1,20.3,0,1,1,2023,Brentford,0,17,15,5,0
+16,2022-11-12,12:30,Sat,Away,W,2,1,Manchester City,1.3,1.6,10,7,15.2,0,0,0,2023,Brentford,0,13,12,5,1
+17,2022-12-26,12:30,Mon,Home,D,2,2,Tottenham,2,1.1,9,4,10.2,0,0,0,2023,Brentford,1,19,12,0,0
+18,2022-12-30,19:45,Fri,Away,W,2,0,West Ham,1.6,1.3,9,6,13.4,1,0,0,2023,Brentford,0,21,19,4,1
+19,2023-01-02,17:30,Mon,Home,,,,Liverpool,,,,,,,,,2023,Brentford,1,12,17,0,1
+21,2023-01-14,17:30,Sat,Home,,,,Bournemouth,,,,,,,,,2023,Brentford,1,2,17,5,1
+22,2023-01-22,14:00,Sun,Away,,,,Leeds United,,,,,,,,,2023,Brentford,0,10,14,6,0
+23,2023-02-04,15:00,Sat,Home,,,,Southampton,,,,,,,,,2023,Brentford,1,18,15,5,1
+24,2023-02-11,15:00,Sat,Away,,,,Arsenal,,,,,,,,,2023,Brentford,0,0,15,5,0
+25,2023-02-18,15:00,Sat,Home,,,,Crystal Palace,,,,,,,,,2023,Brentford,1,7,15,5,0
+26,2023-03-06,20:00,Mon,Home,,,,Fulham,,,,,,,,,2023,Brentford,1,9,20,0,1
+27,2023-03-11,15:00,Sat,Away,,,,Everton,,,,,,,,,2023,Brentford,0,8,15,5,0
+28,2023-03-15,19:30,Wed,Away,,,,Southampton,,,,,,,,,2023,Brentford,0,18,19,2,1
+29,2023-03-18,15:00,Sat,Home,,,,Leicester City,,,,,,,,,2023,Brentford,1,11,15,5,0
+30,2023-04-01,15:00,Sat,Away,,,,Brighton,,,,,,,,,2023,Brentford,0,4,15,5,0
+31,2023-04-05,20:00,Wed,Away,,,,Manchester Utd,,,,,,,,,2023,Brentford,0,14,20,2,0
+32,2023-04-08,15:00,Sat,Home,,,,Newcastle Utd,,,,,,,,,2023,Brentford,1,15,15,5,0
+33,2023-04-15,15:00,Sat,Away,,,,Wolves,,,,,,,,,2023,Brentford,0,22,15,5,0
+34,2023-04-22,15:00,Sat,Home,,,,Aston Villa,,,,,,,,,2023,Brentford,1,1,15,5,0
+35,2023-04-26,19:45,Wed,Away,,,,Chelsea,,,,,,,,,2023,Brentford,0,6,19,2,1
+36,2023-04-29,15:00,Sat,Home,,,,Nott'ham Forest,,,,,,,,,2023,Brentford,1,17,15,5,1
+37,2023-05-06,17:30,Sat,Away,,,,Liverpool,,,,,,,,,2023,Brentford,0,12,17,5,0
+38,2023-05-14,14:00,Sun,Home,,,,West Ham,,,,,,,,,2023,Brentford,1,21,14,6,1
+39,2023-05-20,12:30,Sat,Away,,,,Tottenham,,,,,,,,,2023,Brentford,0,19,12,5,1
+40,2023-05-28,16:30,Sun,Home,,,,Manchester City,,,,,,,,,2023,Brentford,1,13,16,6,1
+0,2022-08-06,12:30,Sat,Home,D,2,2,Liverpool,1.2,1.2,8,2,18.4,0,1,1,2023,Fulham,1,12,12,5,0
+1,2022-08-13,15:00,Sat,Away,D,0,0,Wolves,1.5,0.9,8,2,15.7,0,0,1,2023,Fulham,0,22,15,5,0
+2,2022-08-20,15:00,Sat,Home,W,3,2,Brentford,2.4,1.8,18,9,15.5,1,0,0,2023,Fulham,1,3,15,5,1
+4,2022-08-27,17:30,Sat,Away,L,1,2,Arsenal,0.8,2.6,11,3,13.7,0,0,0,2023,Fulham,0,0,17,5,0
+5,2022-08-30,19:30,Tue,Home,W,2,1,Brighton,0.7,1.4,10,3,15.3,1,0,0,2023,Fulham,1,4,19,1,1
+6,2022-09-03,15:00,Sat,Away,L,1,2,Tottenham,0.7,2.9,9,3,17.1,0,0,0,2023,Fulham,0,19,15,5,0
+7,2022-09-16,20:00,Fri,Away,W,3,2,Nott'ham Forest,0.9,1.4,15,7,17.3,2,0,0,2023,Fulham,0,17,20,4,1
+8,2022-10-01,15:00,Sat,Home,L,1,4,Newcastle Utd,0.5,3.3,3,1,16.2,0,0,0,2023,Fulham,1,15,15,5,0
+9,2022-10-09,14:00,Sun,Away,L,1,3,West Ham,0.7,2.4,8,2,16.6,1,0,0,2023,Fulham,0,21,14,6,0
+10,2022-10-15,15:00,Sat,Home,D,2,2,Bournemouth,2.1,1,18,3,18.9,0,1,1,2023,Fulham,1,2,15,5,0
+11,2022-10-20,19:30,Thu,Home,W,3,0,Aston Villa,2.1,1.2,17,6,16.7,1,1,1,2023,Fulham,1,1,19,3,1
+12,2022-10-23,14:00,Sun,Away,W,3,2,Leeds United,1.8,1.6,11,4,11.9,0,0,0,2023,Fulham,0,10,14,6,1
+13,2022-10-29,17:30,Sat,Home,D,0,0,Everton,1.9,0.9,24,6,16.4,0,0,0,2023,Fulham,1,8,17,5,0
+14,2022-11-05,15:00,Sat,Away,L,1,2,Manchester City,1,2.1,3,1,26.2,0,1,1,2023,Fulham,0,13,15,5,0
+15,2022-11-13,16:30,Sun,Home,L,1,2,Manchester Utd,1.4,2.5,14,7,14,0,0,0,2023,Fulham,1,14,16,6,0
+16,2022-12-26,15:00,Mon,Away,W,3,0,Crystal Palace,2.5,0.4,23,10,13.4,1,0,0,2023,Fulham,0,7,15,0,1
+17,2022-12-31,15:00,Sat,Home,W,2,1,Southampton,1.5,0.8,7,1,18.8,0,0,1,2023,Fulham,1,18,15,5,1
+18,2023-01-03,19:45,Tue,Away,,,,Leicester City,,,,,,,,,2023,Fulham,0,11,19,1,1
+20,2023-01-12,20:00,Thu,Home,,,,Chelsea,,,,,,,,,2023,Fulham,1,6,20,3,1
+21,2023-01-15,14:00,Sun,Away,,,,Newcastle Utd,,,,,,,,,2023,Fulham,0,15,14,6,0
+22,2023-01-23,20:00,Mon,Home,,,,Tottenham,,,,,,,,,2023,Fulham,1,19,20,0,0
+24,2023-02-03,20:00,Fri,Away,,,,Chelsea,,,,,,,,,2023,Fulham,0,6,20,4,0
+26,2023-02-11,15:00,Sat,Home,,,,Nott'ham Forest,,,,,,,,,2023,Fulham,1,17,15,5,1
+27,2023-02-18,15:00,Sat,Away,,,,Brighton,,,,,,,,,2023,Fulham,0,4,15,5,1
+28,2023-02-24,20:00,Fri,Home,,,,Wolves,,,,,,,,,2023,Fulham,1,22,20,4,0
+30,2023-03-06,20:00,Mon,Away,,,,Brentford,,,,,,,,,2023,Fulham,0,3,20,0,0
+31,2023-03-12,14:00,Sun,Home,,,,Arsenal,,,,,,,,,2023,Fulham,1,0,14,6,0
+33,2023-04-01,15:00,Sat,Away,,,,Bournemouth,,,,,,,,,2023,Fulham,0,2,15,5,0
+34,2023-04-08,15:00,Sat,Home,,,,West Ham,,,,,,,,,2023,Fulham,1,21,15,5,0
+35,2023-04-15,15:00,Sat,Away,,,,Everton,,,,,,,,,2023,Fulham,0,8,15,5,1
+36,2023-04-22,12:30,Sat,Home,,,,Leeds United,,,,,,,,,2023,Fulham,1,10,12,5,1
+37,2023-04-25,19:45,Tue,Away,,,,Aston Villa,,,,,,,,,2023,Fulham,0,1,19,1,0
+38,2023-04-30,14:00,Sun,Home,,,,Manchester City,,,,,,,,,2023,Fulham,1,13,14,6,0
+39,2023-05-03,20:00,Wed,Away,,,,Liverpool,,,,,,,,,2023,Fulham,0,12,20,2,0
+40,2023-05-08,15:00,Mon,Home,,,,Leicester City,,,,,,,,,2023,Fulham,1,11,15,0,1
+41,2023-05-13,15:00,Sat,Away,,,,Southampton,,,,,,,,,2023,Fulham,0,18,15,5,1
+42,2023-05-20,15:00,Sat,Home,,,,Crystal Palace,,,,,,,,,2023,Fulham,1,7,15,5,0
+43,2023-05-28,16:30,Sun,Away,,,,Manchester Utd,,,,,,,,,2023,Fulham,0,14,16,6,0
+0,2022-08-05,20:00,Fri,Home,L,0,2,Arsenal,1.2,1,10,2,14.2,0,0,0,2023,Crystal Palace,1,0,20,4,0
+1,2022-08-15,20:00,Mon,Away,D,1,1,Liverpool,1,2,7,3,14.7,0,0,0,2023,Crystal Palace,0,12,20,0,0
+2,2022-08-20,15:00,Sat,Home,W,3,1,Aston Villa,2.6,0.9,16,8,15.6,1,0,1,2023,Crystal Palace,1,1,15,5,1
+4,2022-08-27,15:00,Sat,Away,L,2,4,Manchester City,0.1,2.2,2,2,20.6,0,0,0,2023,Crystal Palace,0,13,15,5,0
+5,2022-08-30,19:30,Tue,Home,D,1,1,Brentford,1,1.4,13,4,19.2,0,0,0,2023,Crystal Palace,1,3,19,1,0
+6,2022-09-03,15:00,Sat,Away,D,0,0,Newcastle Utd,1,2.8,19,9,20,0,0,0,2023,Crystal Palace,0,15,15,5,0
+7,2022-10-01,15:00,Sat,Home,L,1,2,Chelsea,0.4,1.1,7,3,20.1,0,0,0,2023,Crystal Palace,1,6,15,5,0
+8,2022-10-09,14:00,Sun,Home,W,2,1,Leeds United,1.1,1,13,5,17.7,2,0,0,2023,Crystal Palace,1,10,14,6,1
+9,2022-10-15,12:30,Sat,Away,D,0,0,Leicester City,0.4,1,8,1,21.2,0,0,0,2023,Crystal Palace,0,11,12,5,0
+10,2022-10-18,20:15,Tue,Home,W,2,1,Wolves,1.2,0.8,14,4,17.3,1,0,0,2023,Crystal Palace,1,22,20,1,1
+11,2022-10-22,15:00,Sat,Away,L,0,3,Everton,0.9,1.4,9,2,17.1,2,0,0,2023,Crystal Palace,0,8,15,5,0
+12,2022-10-29,15:00,Sat,Home,W,1,0,Southampton,0.9,1.3,12,3,20,1,0,0,2023,Crystal Palace,1,18,15,5,1
+13,2022-11-06,14:00,Sun,Away,W,2,1,West Ham,1,0.3,15,6,20.5,2,0,0,2023,Crystal Palace,0,21,14,6,1
+15,2022-11-12,15:00,Sat,Away,L,0,1,Nott'ham Forest,1.2,1.1,7,0,16.9,0,0,1,2023,Crystal Palace,0,17,15,5,0
+16,2022-12-26,15:00,Mon,Home,L,0,3,Fulham,0.4,2.5,4,0,13,0,0,0,2023,Crystal Palace,1,9,15,0,0
+17,2022-12-31,15:00,Sat,Away,W,2,0,Bournemouth,1.6,0.6,15,6,18.9,1,0,0,2023,Crystal Palace,0,2,15,5,1
+18,2023-01-04,20:00,Wed,Home,,,,Tottenham,,,,,,,,,2023,Crystal Palace,1,19,20,2,0
+20,2023-01-15,14:00,Sun,Away,,,,Chelsea,,,,,,,,,2023,Crystal Palace,0,6,14,6,0
+21,2023-01-18,20:00,Wed,Home,,,,Manchester Utd,,,,,,,,,2023,Crystal Palace,1,14,20,2,0
+22,2023-01-21,17:30,Sat,Home,,,,Newcastle Utd,,,,,,,,,2023,Crystal Palace,1,15,17,5,0
+23,2023-02-04,15:00,Sat,Away,,,,Manchester Utd,,,,,,,,,2023,Crystal Palace,0,14,15,5,0
+24,2023-02-11,15:00,Sat,Home,,,,Brighton,,,,,,,,,2023,Crystal Palace,1,4,15,5,0
+25,2023-02-18,15:00,Sat,Away,,,,Brentford,,,,,,,,,2023,Crystal Palace,0,3,15,5,0
+26,2023-02-25,19:45,Sat,Home,,,,Liverpool,,,,,,,,,2023,Crystal Palace,1,12,19,5,0
+27,2023-03-04,15:00,Sat,Away,,,,Aston Villa,,,,,,,,,2023,Crystal Palace,0,1,15,5,0
+28,2023-03-11,17:30,Sat,Home,,,,Manchester City,,,,,,,,,2023,Crystal Palace,1,13,17,5,0
+29,2023-03-15,19:30,Wed,Away,,,,Brighton,,,,,,,,,2023,Crystal Palace,0,4,19,2,0
+30,2023-03-19,14:00,Sun,Away,,,,Arsenal,,,,,,,,,2023,Crystal Palace,0,0,14,6,0
+31,2023-04-01,15:00,Sat,Home,,,,Leicester City,,,,,,,,,2023,Crystal Palace,1,11,15,5,1
+32,2023-04-09,14:00,Sun,Away,,,,Leeds United,,,,,,,,,2023,Crystal Palace,0,10,14,6,1
+33,2023-04-15,15:00,Sat,Away,,,,Southampton,,,,,,,,,2023,Crystal Palace,0,18,15,5,1
+34,2023-04-22,15:00,Sat,Home,,,,Everton,,,,,,,,,2023,Crystal Palace,1,8,15,5,0
+35,2023-04-25,19:30,Tue,Away,,,,Wolves,,,,,,,,,2023,Crystal Palace,0,22,19,1,0
+36,2023-04-29,12:30,Sat,Home,,,,West Ham,,,,,,,,,2023,Crystal Palace,1,21,12,5,1
+37,2023-05-06,15:00,Sat,Away,,,,Tottenham,,,,,,,,,2023,Crystal Palace,0,19,15,5,0
+38,2023-05-13,15:00,Sat,Home,,,,Bournemouth,,,,,,,,,2023,Crystal Palace,1,2,15,5,1
+39,2023-05-20,15:00,Sat,Away,,,,Fulham,,,,,,,,,2023,Crystal Palace,0,9,15,5,0
+40,2023-05-28,16:30,Sun,Home,,,,Nott'ham Forest,,,,,,,,,2023,Crystal Palace,1,17,16,6,0
+0,2022-08-06,17:30,Sat,Away,W,1,0,Everton,1.5,0.7,14,5,16.1,1,1,1,2023,Chelsea,0,8,17,5,1
+1,2022-08-14,16:30,Sun,Home,D,2,2,Tottenham,1.6,1,16,3,17.2,0,0,0,2023,Chelsea,1,19,16,6,0
+2,2022-08-21,14:00,Sun,Away,L,0,3,Leeds United,0.9,2.1,14,3,19.8,0,0,0,2023,Chelsea,0,10,14,6,0
+3,2022-08-27,15:00,Sat,Home,W,2,1,Leicester City,1.8,2.5,7,4,14.6,0,0,0,2023,Chelsea,1,11,15,5,1
+4,2022-08-30,19:45,Tue,Away,L,1,2,Southampton,1.1,1.1,10,4,14.5,0,0,0,2023,Chelsea,0,18,19,1,0
+5,2022-09-03,15:00,Sat,Home,W,2,1,West Ham,0.9,1.1,8,3,17.2,0,0,0,2023,Chelsea,1,21,15,5,1
+8,2022-10-01,15:00,Sat,Away,W,2,1,Crystal Palace,1.1,0.4,13,3,14.8,0,0,0,2023,Chelsea,0,7,15,5,1
+10,2022-10-08,15:00,Sat,Home,W,3,0,Wolves,1.9,1.1,20,7,14.7,0,0,0,2023,Chelsea,1,22,15,5,1
+12,2022-10-16,14:00,Sun,Away,W,2,0,Aston Villa,0.9,1.8,8,4,18,1,0,0,2023,Chelsea,0,1,14,6,1
+13,2022-10-19,19:30,Wed,Away,D,0,0,Brentford,0.9,1.3,14,5,21.4,0,0,0,2023,Chelsea,0,3,19,2,0
+14,2022-10-22,17:30,Sat,Home,D,1,1,Manchester Utd,1.1,0.8,5,1,19.7,0,1,1,2023,Chelsea,1,14,17,5,0
+16,2022-10-29,15:00,Sat,Away,L,1,4,Brighton,1.4,2.4,15,7,18.3,0,0,0,2023,Chelsea,0,4,15,5,0
+18,2022-11-06,12:00,Sun,Home,L,0,1,Arsenal,0.3,2.1,5,1,16,0,0,0,2023,Chelsea,1,0,12,6,0
+20,2022-11-12,17:30,Sat,Away,L,0,1,Newcastle Utd,0.3,1,5,2,14,0,0,0,2023,Chelsea,0,15,17,5,0
+21,2022-12-27,17:30,Tue,Home,W,2,0,Bournemouth,1.8,0.5,15,5,15.7,0,0,0,2023,Chelsea,1,2,17,1,1
+22,2023-01-01,16:30,Sun,Away,,,,Nott'ham Forest,,,,,,,,,2023,Chelsea,0,17,16,6,0
+23,2023-01-05,20:00,Thu,Home,,,,Manchester City,,,,,,,,,2023,Chelsea,1,13,20,3,0
+25,2023-01-12,20:00,Thu,Away,,,,Fulham,,,,,,,,,2023,Chelsea,0,9,20,3,0
+26,2023-01-15,14:00,Sun,Home,,,,Crystal Palace,,,,,,,,,2023,Chelsea,1,7,14,6,1
+27,2023-01-21,12:30,Sat,Away,,,,Liverpool,,,,,,,,,2023,Chelsea,0,12,12,5,0
+28,2023-02-03,20:00,Fri,Home,,,,Fulham,,,,,,,,,2023,Chelsea,1,9,20,4,0
+29,2023-02-11,12:30,Sat,Away,,,,West Ham,,,,,,,,,2023,Chelsea,0,21,12,5,0
+31,2023-02-18,15:00,Sat,Home,,,,Southampton,,,,,,,,,2023,Chelsea,1,18,15,5,0
+32,2023-02-26,13:30,Sun,Away,,,,Tottenham,,,,,,,,,2023,Chelsea,0,19,13,6,0
+33,2023-03-04,15:00,Sat,Home,,,,Leeds United,,,,,,,,,2023,Chelsea,1,10,15,5,1
+35,2023-03-11,15:00,Sat,Away,,,,Leicester City,,,,,,,,,2023,Chelsea,0,11,15,5,1
+36,2023-03-18,17:30,Sat,Home,,,,Everton,,,,,,,,,2023,Chelsea,1,8,17,5,0
+37,2023-04-01,17:30,Sat,Home,,,,Aston Villa,,,,,,,,,2023,Chelsea,1,1,17,5,0
+38,2023-04-04,20:00,Tue,Home,,,,Liverpool,,,,,,,,,2023,Chelsea,1,12,20,1,0
+39,2023-04-08,15:00,Sat,Away,,,,Wolves,,,,,,,,,2023,Chelsea,0,22,15,5,0
+41,2023-04-15,15:00,Sat,Home,,,,Brighton,,,,,,,,,2023,Chelsea,1,4,15,5,0
+43,2023-04-26,19:45,Wed,Home,,,,Brentford,,,,,,,,,2023,Chelsea,1,3,19,2,0
+44,2023-05-02,20:00,Tue,Away,,,,Arsenal,,,,,,,,,2023,Chelsea,0,0,20,1,0
+45,2023-05-06,15:00,Sat,Away,,,,Bournemouth,,,,,,,,,2023,Chelsea,0,2,15,5,1
+46,2023-05-13,15:00,Sat,Home,,,,Nott'ham Forest,,,,,,,,,2023,Chelsea,1,17,15,5,0
+47,2023-05-21,16:00,Sun,Away,,,,Manchester City,,,,,,,,,2023,Chelsea,0,13,16,6,0
+48,2023-05-25,20:00,Thu,Away,,,,Manchester Utd,,,,,,,,,2023,Chelsea,0,14,20,3,0
+49,2023-05-28,16:30,Sun,Home,,,,Newcastle Utd,,,,,,,,,2023,Chelsea,1,15,16,6,0
+0,2022-08-06,15:00,Sat,Away,L,1,2,Leeds United,1.3,0.8,15,6,18.9,0,0,0,2023,Wolverhampton Wanderers,0,10,15,5,0
+1,2022-08-13,15:00,Sat,Home,D,0,0,Fulham,0.9,1.5,7,1,18.7,1,0,0,2023,Wolverhampton Wanderers,1,9,15,5,0
+2,2022-08-20,12:30,Sat,Away,L,0,1,Tottenham,0.7,1.7,20,3,21.9,1,0,0,2023,Wolverhampton Wanderers,0,19,12,5,0
+4,2022-08-28,14:00,Sun,Home,D,1,1,Newcastle Utd,0.7,1.7,10,4,20.7,1,0,0,2023,Wolverhampton Wanderers,1,15,14,6,0
+5,2022-08-31,19:30,Wed,Away,D,0,0,Bournemouth,1.5,0.4,17,3,17.7,1,0,0,2023,Wolverhampton Wanderers,0,2,19,2,0
+6,2022-09-03,15:00,Sat,Home,W,1,0,Southampton,0.8,1.2,7,2,12.9,0,0,0,2023,Wolverhampton Wanderers,1,18,15,5,1
+7,2022-09-17,12:30,Sat,Home,L,0,3,Manchester City,0.4,1.1,6,1,19.6,2,0,0,2023,Wolverhampton Wanderers,1,13,12,5,0
+8,2022-10-01,17:30,Sat,Away,L,0,2,West Ham,0.7,0.9,15,4,21.6,0,0,0,2023,Wolverhampton Wanderers,0,21,17,5,0
+9,2022-10-08,15:00,Sat,Away,L,0,3,Chelsea,1.1,1.9,8,2,14.5,1,0,0,2023,Wolverhampton Wanderers,0,6,15,5,0
+10,2022-10-15,15:00,Sat,Home,W,1,0,Nott'ham Forest,1.3,1.5,8,1,16.8,0,1,1,2023,Wolverhampton Wanderers,1,17,15,5,1
+11,2022-10-18,20:15,Tue,Away,L,1,2,Crystal Palace,0.8,1.2,10,4,16.3,1,0,0,2023,Wolverhampton Wanderers,0,7,20,1,0
+12,2022-10-23,14:00,Sun,Home,L,0,4,Leicester City,2.1,0.9,21,5,15.7,1,0,0,2023,Wolverhampton Wanderers,1,11,14,6,0
+13,2022-10-29,15:00,Sat,Away,D,1,1,Brentford,0.6,1.4,13,4,20.4,0,0,0,2023,Wolverhampton Wanderers,0,3,15,5,0
+14,2022-11-05,15:00,Sat,Home,L,2,3,Brighton,1.2,1.5,7,4,18.3,0,1,1,2023,Wolverhampton Wanderers,1,4,15,5,0
+16,2022-11-12,19:45,Sat,Home,L,0,2,Arsenal,0.7,2.1,11,2,20,1,0,0,2023,Wolverhampton Wanderers,1,0,19,5,0
+18,2022-12-26,15:00,Mon,Away,W,2,1,Everton,0.8,1.7,7,4,18.6,0,0,0,2023,Wolverhampton Wanderers,0,8,15,0,1
+19,2022-12-31,12:30,Sat,Home,L,0,1,Manchester Utd,0.7,2,10,3,17.3,2,0,0,2023,Wolverhampton Wanderers,1,14,12,5,0
+20,2023-01-04,20:00,Wed,Away,,,,Aston Villa,,,,,,,,,2023,Wolverhampton Wanderers,0,1,20,2,0
+23,2023-01-14,15:00,Sat,Home,,,,West Ham,,,,,,,,,2023,Wolverhampton Wanderers,1,21,15,5,1
+25,2023-01-22,14:00,Sun,Away,,,,Manchester City,,,,,,,,,2023,Wolverhampton Wanderers,0,13,14,6,0
+26,2023-02-04,15:00,Sat,Home,,,,Liverpool,,,,,,,,,2023,Wolverhampton Wanderers,1,12,15,5,1
+27,2023-02-11,15:00,Sat,Away,,,,Southampton,,,,,,,,,2023,Wolverhampton Wanderers,0,18,15,5,1
+28,2023-02-18,15:00,Sat,Home,,,,Bournemouth,,,,,,,,,2023,Wolverhampton Wanderers,1,2,15,5,0
+29,2023-02-24,20:00,Fri,Away,,,,Fulham,,,,,,,,,2023,Wolverhampton Wanderers,0,9,20,4,0
+30,2023-03-01,20:00,Wed,Away,,,,Liverpool,,,,,,,,,2023,Wolverhampton Wanderers,0,12,20,2,0
+31,2023-03-04,15:00,Sat,Home,,,,Tottenham,,,,,,,,,2023,Wolverhampton Wanderers,1,19,15,5,1
+32,2023-03-12,16:30,Sun,Away,,,,Newcastle Utd,,,,,,,,,2023,Wolverhampton Wanderers,0,15,16,6,0
+33,2023-03-18,15:00,Sat,Home,,,,Leeds United,,,,,,,,,2023,Wolverhampton Wanderers,1,10,15,5,0
+34,2023-04-01,15:00,Sat,Away,,,,Nott'ham Forest,,,,,,,,,2023,Wolverhampton Wanderers,0,17,15,5,0
+35,2023-04-08,15:00,Sat,Home,,,,Chelsea,,,,,,,,,2023,Wolverhampton Wanderers,1,6,15,5,1
+36,2023-04-15,15:00,Sat,Home,,,,Brentford,,,,,,,,,2023,Wolverhampton Wanderers,1,3,15,5,1
+37,2023-04-22,15:00,Sat,Away,,,,Leicester City,,,,,,,,,2023,Wolverhampton Wanderers,0,11,15,5,0
+38,2023-04-25,19:30,Tue,Home,,,,Crystal Palace,,,,,,,,,2023,Wolverhampton Wanderers,1,7,19,1,1
+39,2023-04-29,15:00,Sat,Away,,,,Brighton,,,,,,,,,2023,Wolverhampton Wanderers,0,4,15,5,0
+40,2023-05-06,15:00,Sat,Home,,,,Aston Villa,,,,,,,,,2023,Wolverhampton Wanderers,1,1,15,5,1
+41,2023-05-13,15:00,Sat,Away,,,,Manchester Utd,,,,,,,,,2023,Wolverhampton Wanderers,0,14,15,5,0
+42,2023-05-20,15:00,Sat,Home,,,,Everton,,,,,,,,,2023,Wolverhampton Wanderers,1,8,15,5,0
+43,2023-05-28,16:30,Sun,Away,,,,Arsenal,,,,,,,,,2023,Wolverhampton Wanderers,0,0,16,6,0
+0,2022-08-07,16:30,Sun,Home,L,0,2,Manchester City,0.5,2.2,6,1,16.3,0,0,0,2023,West Ham United,1,13,16,6,0
+1,2022-08-14,14:00,Sun,Away,L,0,1,Nott'ham Forest,2.1,1.3,18,3,19.3,2,0,1,2023,West Ham United,0,17,14,6,0
+3,2022-08-21,14:00,Sun,Home,L,0,2,Brighton,0.8,1.7,13,3,16.5,0,0,0,2023,West Ham United,1,4,14,6,0
+5,2022-08-28,14:00,Sun,Away,W,1,0,Aston Villa,0.6,0.5,7,2,24.8,1,0,0,2023,West Ham United,0,1,14,6,1
+6,2022-08-31,19:45,Wed,Home,D,1,1,Tottenham,1.2,0.6,14,4,16.3,0,0,0,2023,West Ham United,1,19,19,2,0
+7,2022-09-03,15:00,Sat,Away,L,1,2,Chelsea,1.1,0.9,6,3,15.9,0,0,0,2023,West Ham United,0,6,15,5,0
+10,2022-09-18,14:15,Sun,Away,L,0,1,Everton,1,0.4,14,4,15.2,0,0,0,2023,West Ham United,0,8,14,6,0
+11,2022-10-01,17:30,Sat,Home,W,2,0,Wolves,0.9,0.7,18,5,20.3,1,0,0,2023,West Ham United,1,22,17,5,1
+13,2022-10-09,14:00,Sun,Home,W,3,1,Fulham,2.4,0.7,16,7,16.4,0,1,1,2023,West Ham United,1,9,14,6,1
+15,2022-10-16,14:00,Sun,Away,D,1,1,Southampton,1.7,0.5,25,4,18.8,0,0,0,2023,West Ham United,0,18,14,6,0
+16,2022-10-19,19:30,Wed,Away,L,0,1,Liverpool,1.7,1.7,7,2,15.2,0,0,1,2023,West Ham United,0,12,19,2,0
+17,2022-10-24,20:00,Mon,Home,W,2,0,Bournemouth,1.9,0.4,19,3,21.1,1,1,1,2023,West Ham United,1,2,20,0,1
+19,2022-10-30,16:15,Sun,Away,L,0,1,Manchester Utd,1.1,1.2,13,4,22.3,0,0,0,2023,West Ham United,0,14,16,6,0
+21,2022-11-06,14:00,Sun,Home,L,1,2,Crystal Palace,0.3,1,5,2,16.7,0,0,0,2023,West Ham United,1,7,14,6,0
+23,2022-11-12,15:00,Sat,Home,L,0,2,Leicester City,1.4,1.8,18,6,16.4,0,0,0,2023,West Ham United,1,11,15,5,0
+24,2022-12-26,20:00,Mon,Away,L,1,3,Arsenal,1,2.1,7,3,24.2,0,1,1,2023,West Ham United,0,0,20,0,0
+25,2022-12-30,19:45,Fri,Home,L,0,2,Brentford,1.3,1.6,20,5,18.2,2,0,0,2023,West Ham United,1,3,19,4,0
+26,2023-01-04,19:45,Wed,Away,,,,Leeds United,,,,,,,,,2023,West Ham United,0,10,19,2,0
+28,2023-01-14,15:00,Sat,Away,,,,Wolves,,,,,,,,,2023,West Ham United,0,22,15,5,0
+29,2023-01-21,15:00,Sat,Home,,,,Everton,,,,,,,,,2023,West Ham United,1,8,15,5,1
+31,2023-02-04,17:30,Sat,Away,,,,Newcastle Utd,,,,,,,,,2023,West Ham United,0,15,17,5,0
+32,2023-02-11,12:30,Sat,Home,,,,Chelsea,,,,,,,,,2023,West Ham United,1,6,12,5,0
+33,2023-02-19,16:30,Sun,Away,,,,Tottenham,,,,,,,,,2023,West Ham United,0,19,16,6,0
+34,2023-02-25,15:00,Sat,Home,,,,Nott'ham Forest,,,,,,,,,2023,West Ham United,1,17,15,5,1
+36,2023-03-04,15:00,Sat,Away,,,,Brighton,,,,,,,,,2023,West Ham United,0,4,15,5,0
+38,2023-03-12,14:00,Sun,Home,,,,Aston Villa,,,,,,,,,2023,West Ham United,1,1,14,6,0
+40,2023-04-02,14:00,Sun,Home,,,,Southampton,,,,,,,,,2023,West Ham United,1,18,14,6,1
+41,2023-04-05,20:00,Wed,Home,,,,Newcastle Utd,,,,,,,,,2023,West Ham United,1,15,20,2,0
+42,2023-04-08,15:00,Sat,Away,,,,Fulham,,,,,,,,,2023,West Ham United,0,9,15,5,1
+44,2023-04-16,14:00,Sun,Home,,,,Arsenal,,,,,,,,,2023,West Ham United,1,0,14,6,0
+46,2023-04-23,14:00,Sun,Away,,,,Bournemouth,,,,,,,,,2023,West Ham United,0,2,14,6,1
+47,2023-04-26,19:45,Wed,Home,,,,Liverpool,,,,,,,,,2023,West Ham United,1,12,19,2,0
+48,2023-04-29,12:30,Sat,Away,,,,Crystal Palace,,,,,,,,,2023,West Ham United,0,7,12,5,0
+49,2023-05-03,20:00,Wed,Away,,,,Manchester City,,,,,,,,,2023,West Ham United,0,13,20,2,0
+50,2023-05-07,19:00,Sun,Home,,,,Manchester Utd,,,,,,,,,2023,West Ham United,1,14,19,6,1
+52,2023-05-14,14:00,Sun,Away,,,,Brentford,,,,,,,,,2023,West Ham United,0,3,14,6,0
+54,2023-05-21,13:30,Sun,Home,,,,Leeds United,,,,,,,,,2023,West Ham United,1,10,13,6,1
+55,2023-05-28,16:30,Sun,Away,,,,Leicester City,,,,,,,,,2023,West Ham United,0,11,16,6,0
+0,2022-08-06,15:00,Sat,Home,W,2,0,Aston Villa,0.6,0.7,7,3,15.7,0,0,0,2023,Bournemouth,1,1,15,5,1
+1,2022-08-13,15:00,Sat,Away,L,0,4,Manchester City,0.1,1.7,3,1,20.6,0,0,0,2023,Bournemouth,0,13,15,5,0
+2,2022-08-20,17:30,Sat,Home,L,0,3,Arsenal,0.3,1.3,6,1,18.5,1,0,0,2023,Bournemouth,1,0,17,5,0
+4,2022-08-27,15:00,Sat,Away,L,0,9,Liverpool,0.3,3.3,5,2,18.2,0,0,0,2023,Bournemouth,0,12,15,5,0
+5,2022-08-31,19:30,Wed,Home,D,0,0,Wolves,0.4,1.5,5,2,16.1,0,0,0,2023,Bournemouth,1,22,19,2,0
+6,2022-09-03,15:00,Sat,Away,W,3,2,Nott'ham Forest,0.8,1.9,8,3,17.5,0,0,0,2023,Bournemouth,0,17,15,5,1
+7,2022-09-17,15:00,Sat,Away,D,1,1,Newcastle Utd,0.7,1.9,10,3,18.1,0,0,0,2023,Bournemouth,0,15,15,5,0
+8,2022-10-01,15:00,Sat,Home,D,0,0,Brentford,0.4,0.9,7,0,15.5,1,0,0,2023,Bournemouth,1,3,15,5,0
+9,2022-10-08,15:00,Sat,Home,W,2,1,Leicester City,1.1,1,10,4,15,1,0,0,2023,Bournemouth,1,11,15,5,1
+10,2022-10-15,15:00,Sat,Away,D,2,2,Fulham,1,2.1,10,6,13,0,0,0,2023,Bournemouth,0,9,15,5,0
+11,2022-10-19,19:30,Wed,Home,L,0,1,Southampton,1,1,15,3,17.6,1,0,0,2023,Bournemouth,1,18,19,2,0
+12,2022-10-24,20:00,Mon,Away,L,0,2,West Ham,0.4,1.9,5,3,13.6,0,0,0,2023,Bournemouth,0,21,20,0,0
+13,2022-10-29,15:00,Sat,Home,L,2,3,Tottenham,0.5,2,6,4,14,0,0,0,2023,Bournemouth,1,19,15,5,0
+14,2022-11-05,15:00,Sat,Away,L,3,4,Leeds United,1.5,2.2,9,5,12.4,0,0,0,2023,Bournemouth,0,10,15,5,0
+16,2022-11-12,15:00,Sat,Home,W,3,0,Everton,2.4,0.8,16,8,13.6,0,0,0,2023,Bournemouth,1,8,15,5,1
+18,2022-12-27,17:30,Tue,Away,L,0,2,Chelsea,0.5,1.8,9,4,21,2,0,0,2023,Bournemouth,0,6,17,1,0
+19,2022-12-31,15:00,Sat,Home,L,0,2,Crystal Palace,0.6,1.6,6,2,14.8,0,0,0,2023,Bournemouth,1,7,15,5,0
+20,2023-01-03,20:00,Tue,Away,,,,Manchester Utd,,,,,,,,,2023,Bournemouth,0,14,20,1,0
+22,2023-01-14,17:30,Sat,Away,,,,Brentford,,,,,,,,,2023,Bournemouth,0,3,17,5,0
+23,2023-01-21,15:00,Sat,Home,,,,Nott'ham Forest,,,,,,,,,2023,Bournemouth,1,17,15,5,0
+24,2023-02-04,15:00,Sat,Away,,,,Brighton,,,,,,,,,2023,Bournemouth,0,4,15,5,0
+25,2023-02-11,17:30,Sat,Home,,,,Newcastle Utd,,,,,,,,,2023,Bournemouth,1,15,17,5,0
+26,2023-02-18,15:00,Sat,Away,,,,Wolves,,,,,,,,,2023,Bournemouth,0,22,15,5,1
+27,2023-02-25,17:30,Sat,Home,,,,Manchester City,,,,,,,,,2023,Bournemouth,1,13,17,5,0
+28,2023-03-04,15:00,Sat,Away,,,,Arsenal,,,,,,,,,2023,Bournemouth,0,0,15,5,0
+29,2023-03-11,12:30,Sat,Home,,,,Liverpool,,,,,,,,,2023,Bournemouth,1,12,12,5,1
+30,2023-03-18,15:00,Sat,Away,,,,Aston Villa,,,,,,,,,2023,Bournemouth,0,1,15,5,0
+31,2023-04-01,15:00,Sat,Home,,,,Fulham,,,,,,,,,2023,Bournemouth,1,9,15,5,1
+32,2023-04-04,19:45,Tue,Home,,,,Brighton,,,,,,,,,2023,Bournemouth,1,4,19,1,0
+33,2023-04-08,15:00,Sat,Away,,,,Leicester City,,,,,,,,,2023,Bournemouth,0,11,15,5,1
+34,2023-04-15,15:00,Sat,Away,,,,Tottenham,,,,,,,,,2023,Bournemouth,0,19,15,5,1
+35,2023-04-23,14:00,Sun,Home,,,,West Ham,,,,,,,,,2023,Bournemouth,1,21,14,6,0
+36,2023-04-27,19:45,Thu,Away,,,,Southampton,,,,,,,,,2023,Bournemouth,0,18,19,3,1
+37,2023-04-30,14:00,Sun,Home,,,,Leeds United,,,,,,,,,2023,Bournemouth,1,10,14,6,1
+38,2023-05-06,15:00,Sat,Home,,,,Chelsea,,,,,,,,,2023,Bournemouth,1,6,15,5,0
+39,2023-05-13,15:00,Sat,Away,,,,Crystal Palace,,,,,,,,,2023,Bournemouth,0,7,15,5,0
+40,2023-05-20,15:00,Sat,Home,,,,Manchester Utd,,,,,,,,,2023,Bournemouth,1,14,15,5,0
+41,2023-05-28,16:30,Sun,Away,,,,Everton,,,,,,,,,2023,Bournemouth,0,8,16,6,0
+0,2022-08-06,15:00,Sat,Away,L,0,2,Newcastle Utd,0.3,1.7,5,0,16,0,0,0,2023,Nottingham Forest,0,15,15,5,0
+1,2022-08-14,14:00,Sun,Home,W,1,0,West Ham,1.3,2.1,13,6,14.1,1,0,0,2023,Nottingham Forest,1,21,14,6,1
+2,2022-08-20,15:00,Sat,Away,D,1,1,Everton,1,1.5,14,5,19.3,1,0,0,2023,Nottingham Forest,0,8,15,5,0
+4,2022-08-28,16:30,Sun,Home,L,0,2,Tottenham,0.9,2.4,17,1,20,1,0,0,2023,Nottingham Forest,1,19,16,6,0
+5,2022-08-31,19:30,Wed,Away,L,0,6,Manchester City,0.7,3.3,8,1,18.4,1,0,0,2023,Nottingham Forest,0,13,19,2,0
+6,2022-09-03,15:00,Sat,Home,L,2,3,Bournemouth,1.9,0.8,10,2,17.5,0,1,1,2023,Nottingham Forest,1,2,15,5,0
+7,2022-09-16,20:00,Fri,Home,L,2,3,Fulham,1.4,0.9,11,3,16.4,1,0,0,2023,Nottingham Forest,1,9,20,4,0
+8,2022-10-03,20:00,Mon,Away,L,0,4,Leicester City,1.1,1.3,10,3,15.7,0,0,0,2023,Nottingham Forest,0,11,20,0,0
+9,2022-10-10,20:00,Mon,Home,D,1,1,Aston Villa,0.3,0.7,6,3,18.7,0,0,0,2023,Nottingham Forest,1,1,20,0,0
+10,2022-10-15,15:00,Sat,Away,L,0,1,Wolves,1.5,1.3,9,1,19.9,1,0,1,2023,Nottingham Forest,0,22,15,5,0
+11,2022-10-18,19:30,Tue,Away,D,0,0,Brighton,0.1,1.7,3,0,11.5,0,0,0,2023,Nottingham Forest,0,4,19,1,0
+12,2022-10-22,12:30,Sat,Home,W,1,0,Liverpool,1.9,1.6,10,7,15.9,0,0,0,2023,Nottingham Forest,1,12,12,5,1
+13,2022-10-30,14:00,Sun,Away,L,0,5,Arsenal,0.4,2.3,5,2,20.4,0,0,0,2023,Nottingham Forest,0,0,14,6,0
+14,2022-11-05,15:00,Sat,Home,D,2,2,Brentford,1.5,1.5,15,6,17.8,0,0,0,2023,Nottingham Forest,1,3,15,5,0
+16,2022-11-12,15:00,Sat,Home,W,1,0,Crystal Palace,1.1,1.2,9,2,15.2,1,0,0,2023,Nottingham Forest,1,7,15,5,1
+18,2022-12-27,20:00,Tue,Away,L,0,3,Manchester Utd,0.7,2.4,8,3,15.2,0,0,0,2023,Nottingham Forest,0,14,20,1,0
+19,2023-01-01,16:30,Sun,Home,,,,Chelsea,,,,,,,,,2023,Nottingham Forest,1,6,16,6,0
+20,2023-01-04,19:30,Wed,Away,,,,Southampton,,,,,,,,,2023,Nottingham Forest,0,18,19,2,1
+23,2023-01-14,15:00,Sat,Home,,,,Leicester City,,,,,,,,,2023,Nottingham Forest,1,11,15,5,1
+24,2023-01-21,15:00,Sat,Away,,,,Bournemouth,,,,,,,,,2023,Nottingham Forest,0,2,15,5,0
+27,2023-02-05,14:00,Sun,Home,,,,Leeds United,,,,,,,,,2023,Nottingham Forest,1,10,14,6,1
+28,2023-02-11,15:00,Sat,Away,,,,Fulham,,,,,,,,,2023,Nottingham Forest,0,9,15,5,0
+29,2023-02-18,15:00,Sat,Home,,,,Manchester City,,,,,,,,,2023,Nottingham Forest,1,13,15,5,0
+30,2023-02-25,15:00,Sat,Away,,,,West Ham,,,,,,,,,2023,Nottingham Forest,0,21,15,5,0
+31,2023-03-05,14:00,Sun,Home,,,,Everton,,,,,,,,,2023,Nottingham Forest,1,8,14,6,0
+32,2023-03-11,15:00,Sat,Away,,,,Tottenham,,,,,,,,,2023,Nottingham Forest,0,19,15,5,0
+33,2023-03-17,20:00,Fri,Home,,,,Newcastle Utd,,,,,,,,,2023,Nottingham Forest,1,15,20,4,0
+34,2023-04-01,15:00,Sat,Home,,,,Wolves,,,,,,,,,2023,Nottingham Forest,1,22,15,5,0
+35,2023-04-04,19:45,Tue,Away,,,,Leeds United,,,,,,,,,2023,Nottingham Forest,0,10,19,1,0
+36,2023-04-08,15:00,Sat,Away,,,,Aston Villa,,,,,,,,,2023,Nottingham Forest,0,1,15,5,0
+37,2023-04-16,16:30,Sun,Home,,,,Manchester Utd,,,,,,,,,2023,Nottingham Forest,1,14,16,6,0
+38,2023-04-22,15:00,Sat,Away,,,,Liverpool,,,,,,,,,2023,Nottingham Forest,0,12,15,5,0
+39,2023-04-26,19:30,Wed,Home,,,,Brighton,,,,,,,,,2023,Nottingham Forest,1,4,19,2,1
+40,2023-04-29,15:00,Sat,Away,,,,Brentford,,,,,,,,,2023,Nottingham Forest,0,3,15,5,0
+41,2023-05-08,20:00,Mon,Home,,,,Southampton,,,,,,,,,2023,Nottingham Forest,1,18,20,0,1
+42,2023-05-13,15:00,Sat,Away,,,,Chelsea,,,,,,,,,2023,Nottingham Forest,0,6,15,5,0
+43,2023-05-20,17:30,Sat,Home,,,,Arsenal,,,,,,,,,2023,Nottingham Forest,1,0,17,5,1
+44,2023-05-28,16:30,Sun,Away,,,,Crystal Palace,,,,,,,,,2023,Nottingham Forest,0,7,16,6,0
+0,2022-08-06,17:30,Sat,Home,L,0,1,Chelsea,0.7,1.5,8,3,13.5,0,0,0,2023,Everton,1,6,17,5,0
+1,2022-08-13,12:30,Sat,Away,L,1,2,Aston Villa,1.6,2.3,15,4,14.8,0,0,0,2023,Everton,0,1,12,5,0
+2,2022-08-20,15:00,Sat,Home,D,1,1,Nott'ham Forest,1.5,1,19,8,20.8,1,0,0,2023,Everton,1,17,15,5,0
+4,2022-08-27,15:00,Sat,Away,D,1,1,Brentford,1.1,2.1,14,7,16.7,0,0,0,2023,Everton,0,3,15,5,0
+5,2022-08-30,20:00,Tue,Away,D,1,1,Leeds United,1,1,7,2,19.1,1,0,0,2023,Everton,0,10,20,1,0
+6,2022-09-03,12:30,Sat,Home,D,0,0,Liverpool,1.7,2.1,14,3,15.5,0,0,0,2023,Everton,1,12,12,5,0
+7,2022-09-18,14:15,Sun,Home,W,1,0,West Ham,0.4,1,7,2,21.4,0,0,0,2023,Everton,1,21,14,6,1
+8,2022-10-01,15:00,Sat,Away,W,2,1,Southampton,2,1.7,12,5,17.4,1,0,0,2023,Everton,0,18,15,5,1
+9,2022-10-09,19:00,Sun,Home,L,1,2,Manchester Utd,0.6,1.4,11,2,17.4,0,0,0,2023,Everton,1,14,19,6,0
+10,2022-10-15,17:30,Sat,Away,L,0,2,Tottenham,0.4,2.2,4,0,13.5,0,0,0,2023,Everton,0,19,17,5,0
+11,2022-10-19,19:30,Wed,Away,L,0,1,Newcastle Utd,0.2,1.5,1,0,7.5,0,0,0,2023,Everton,0,15,19,2,0
+12,2022-10-22,15:00,Sat,Home,W,3,0,Crystal Palace,1.4,0.9,9,6,16.8,0,0,0,2023,Everton,1,7,15,5,1
+13,2022-10-29,17:30,Sat,Away,D,0,0,Fulham,0.9,1.9,9,4,12.2,0,0,0,2023,Everton,0,9,17,5,0
+14,2022-11-05,17:30,Sat,Home,L,0,2,Leicester City,1.2,2.3,12,2,12.9,0,0,0,2023,Everton,1,11,17,5,0
+16,2022-11-12,15:00,Sat,Away,L,0,3,Bournemouth,0.8,2.4,15,3,18,0,0,0,2023,Everton,0,2,15,5,0
+17,2022-12-26,15:00,Mon,Home,L,1,2,Wolves,1.7,0.8,12,5,19.2,2,0,0,2023,Everton,1,22,15,0,0
+18,2022-12-31,15:00,Sat,Away,D,1,1,Manchester City,0.1,1.7,2,1,25.1,0,0,0,2023,Everton,0,13,15,5,0
+19,2023-01-03,19:45,Tue,Home,,,,Brighton,,,,,,,,,2023,Everton,1,4,19,1,0
+21,2023-01-14,15:00,Sat,Home,,,,Southampton,,,,,,,,,2023,Everton,1,18,15,5,0
+22,2023-01-21,15:00,Sat,Away,,,,West Ham,,,,,,,,,2023,Everton,0,21,15,5,0
+23,2023-02-04,12:30,Sat,Home,,,,Arsenal,,,,,,,,,2023,Everton,1,0,12,5,1
+24,2023-02-13,20:00,Mon,Away,,,,Liverpool,,,,,,,,,2023,Everton,0,12,20,0,0
+25,2023-02-18,15:00,Sat,Home,,,,Leeds United,,,,,,,,,2023,Everton,1,10,15,5,1
+26,2023-02-25,15:00,Sat,Home,,,,Aston Villa,,,,,,,,,2023,Everton,1,1,15,5,0
+27,2023-03-01,19:45,Wed,Away,,,,Arsenal,,,,,,,,,2023,Everton,0,0,19,2,0
+28,2023-03-05,14:00,Sun,Away,,,,Nott'ham Forest,,,,,,,,,2023,Everton,0,17,14,6,0
+29,2023-03-11,15:00,Sat,Home,,,,Brentford,,,,,,,,,2023,Everton,1,3,15,5,1
+30,2023-03-18,17:30,Sat,Away,,,,Chelsea,,,,,,,,,2023,Everton,0,6,17,5,0
+31,2023-04-03,20:00,Mon,Home,,,,Tottenham,,,,,,,,,2023,Everton,1,19,20,0,0
+32,2023-04-08,12:30,Sat,Away,,,,Manchester Utd,,,,,,,,,2023,Everton,0,14,12,5,0
+33,2023-04-15,15:00,Sat,Home,,,,Fulham,,,,,,,,,2023,Everton,1,9,15,5,0
+34,2023-04-22,15:00,Sat,Away,,,,Crystal Palace,,,,,,,,,2023,Everton,0,7,15,5,0
+35,2023-04-27,19:45,Thu,Home,,,,Newcastle Utd,,,,,,,,,2023,Everton,1,15,19,3,0
+36,2023-05-01,20:00,Mon,Away,,,,Leicester City,,,,,,,,,2023,Everton,0,11,20,0,0
+37,2023-05-08,17:30,Mon,Away,,,,Brighton,,,,,,,,,2023,Everton,0,4,17,0,1
+38,2023-05-14,14:00,Sun,Home,,,,Manchester City,,,,,,,,,2023,Everton,1,13,14,6,0
+39,2023-05-20,15:00,Sat,Away,,,,Wolves,,,,,,,,,2023,Everton,0,22,15,5,0
+40,2023-05-28,16:30,Sun,Home,,,,Bournemouth,,,,,,,,,2023,Everton,1,2,16,6,1
+0,2022-08-07,14:00,Sun,Home,D,2,2,Brentford,0.6,0.8,14,5,23.1,0,0,0,2023,Leicester City,1,3,14,6,0
+1,2022-08-13,15:00,Sat,Away,L,2,4,Arsenal,0.5,2.7,6,2,14.6,0,0,0,2023,Leicester City,0,0,15,5,0
+2,2022-08-20,15:00,Sat,Home,L,1,2,Southampton,0.3,0.9,6,1,17.8,1,0,0,2023,Leicester City,1,18,15,5,0
+4,2022-08-27,15:00,Sat,Away,L,1,2,Chelsea,2.5,1.8,17,5,17.9,0,0,0,2023,Leicester City,0,6,15,5,0
+5,2022-09-01,20:00,Thu,Home,L,0,1,Manchester Utd,0.7,1.5,10,2,23.5,2,0,0,2023,Leicester City,1,14,20,3,0
+6,2022-09-04,14:00,Sun,Away,L,2,5,Brighton,1.4,2.6,6,4,14.8,0,0,0,2023,Leicester City,0,4,14,6,0
+7,2022-09-17,17:30,Sat,Away,L,2,6,Tottenham,1.8,2.2,18,6,22.7,0,1,1,2023,Leicester City,0,19,17,5,0
+8,2022-10-03,20:00,Mon,Home,W,4,0,Nott'ham Forest,1.3,1.1,17,7,17.7,1,0,0,2023,Leicester City,1,17,20,0,1
+9,2022-10-08,15:00,Sat,Away,L,1,2,Bournemouth,1,1.1,9,5,13.2,1,0,0,2023,Leicester City,0,2,15,5,0
+10,2022-10-15,12:30,Sat,Home,D,0,0,Crystal Palace,1,0.4,14,5,19.4,1,0,0,2023,Leicester City,1,7,12,5,0
+11,2022-10-20,20:15,Thu,Home,W,2,0,Leeds United,0.8,1.3,5,1,17.7,0,0,0,2023,Leicester City,1,10,20,3,1
+12,2022-10-23,14:00,Sun,Away,W,4,0,Wolves,0.9,2.1,5,4,14.7,0,0,0,2023,Leicester City,0,22,14,6,1
+13,2022-10-29,12:30,Sat,Home,L,0,1,Manchester City,0.7,1,10,5,16.4,0,0,0,2023,Leicester City,1,13,12,5,0
+14,2022-11-05,17:30,Sat,Away,W,2,0,Everton,2.3,1.2,22,8,17.5,0,0,0,2023,Leicester City,0,8,17,5,1
+16,2022-11-12,15:00,Sat,Away,W,2,0,West Ham,1.8,1.4,8,5,21.3,0,0,1,2023,Leicester City,0,21,15,5,1
+18,2022-12-26,15:00,Mon,Home,L,0,3,Newcastle Utd,0.5,1.9,8,2,20.1,0,0,0,2023,Leicester City,1,15,15,0,0
+19,2022-12-30,20:00,Fri,Away,L,1,2,Liverpool,1,2.2,7,2,12.1,0,0,0,2023,Leicester City,0,12,20,4,0
+20,2023-01-03,19:45,Tue,Home,,,,Fulham,,,,,,,,,2023,Leicester City,1,9,19,1,0
+23,2023-01-14,15:00,Sat,Away,,,,Nott'ham Forest,,,,,,,,,2023,Leicester City,0,17,15,5,0
+24,2023-01-21,15:00,Sat,Home,,,,Brighton,,,,,,,,,2023,Leicester City,1,4,15,5,0
+26,2023-02-04,15:00,Sat,Away,,,,Aston Villa,,,,,,,,,2023,Leicester City,0,1,15,5,1
+27,2023-02-11,15:00,Sat,Home,,,,Tottenham,,,,,,,,,2023,Leicester City,1,19,15,5,1
+28,2023-02-19,14:00,Sun,Away,,,,Manchester Utd,,,,,,,,,2023,Leicester City,0,14,14,6,0
+29,2023-02-25,15:00,Sat,Home,,,,Arsenal,,,,,,,,,2023,Leicester City,1,0,15,5,0
+31,2023-03-04,17:30,Sat,Away,,,,Southampton,,,,,,,,,2023,Leicester City,0,18,17,5,0
+32,2023-03-11,15:00,Sat,Home,,,,Chelsea,,,,,,,,,2023,Leicester City,1,6,15,5,0
+33,2023-03-18,15:00,Sat,Away,,,,Brentford,,,,,,,,,2023,Leicester City,0,3,15,5,0
+34,2023-04-01,15:00,Sat,Away,,,,Crystal Palace,,,,,,,,,2023,Leicester City,0,7,15,5,0
+35,2023-04-04,19:45,Tue,Home,,,,Aston Villa,,,,,,,,,2023,Leicester City,1,1,19,1,0
+36,2023-04-08,15:00,Sat,Home,,,,Bournemouth,,,,,,,,,2023,Leicester City,1,2,15,5,0
+37,2023-04-15,17:30,Sat,Away,,,,Manchester City,,,,,,,,,2023,Leicester City,0,13,17,5,0
+38,2023-04-22,15:00,Sat,Home,,,,Wolves,,,,,,,,,2023,Leicester City,1,22,15,5,1
+39,2023-04-25,20:00,Tue,Away,,,,Leeds United,,,,,,,,,2023,Leicester City,0,10,20,1,0
+40,2023-05-01,20:00,Mon,Home,,,,Everton,,,,,,,,,2023,Leicester City,1,8,20,0,0
+41,2023-05-08,15:00,Mon,Away,,,,Fulham,,,,,,,,,2023,Leicester City,0,9,15,0,0
+42,2023-05-15,20:00,Mon,Home,,,,Liverpool,,,,,,,,,2023,Leicester City,1,12,20,0,0
+43,2023-05-22,20:00,Mon,Away,,,,Newcastle Utd,,,,,,,,,2023,Leicester City,0,15,20,0,0
+44,2023-05-28,16:30,Sun,Home,,,,West Ham,,,,,,,,,2023,Leicester City,1,21,16,6,1
+0,2022-08-06,15:00,Sat,Home,W,2,1,Wolves,0.8,1.3,12,4,18.6,1,0,0,2023,Leeds United,1,22,15,5,1
+1,2022-08-13,15:00,Sat,Away,D,2,2,Southampton,1.8,1.2,13,5,12,0,0,0,2023,Leeds United,0,18,15,5,0
+2,2022-08-21,14:00,Sun,Home,W,3,0,Chelsea,2.1,0.9,12,6,16.3,0,0,0,2023,Leeds United,1,6,14,6,1
+4,2022-08-27,15:00,Sat,Away,L,0,1,Brighton,1.8,2,10,2,18,1,0,0,2023,Leeds United,0,4,15,5,0
+5,2022-08-30,20:00,Tue,Home,D,1,1,Everton,1,1,14,5,16.9,0,0,0,2023,Leeds United,1,8,20,1,0
+6,2022-09-03,15:00,Sat,Away,L,2,5,Brentford,1.7,2.3,17,6,21.9,1,0,0,2023,Leeds United,0,3,15,5,0
+7,2022-10-02,16:30,Sun,Home,D,0,0,Aston Villa,0.4,2.2,6,1,16.8,0,0,0,2023,Leeds United,1,1,16,6,0
+8,2022-10-09,14:00,Sun,Away,L,1,2,Crystal Palace,1,1.1,10,4,18.1,0,0,0,2023,Leeds United,0,7,14,6,0
+9,2022-10-16,14:00,Sun,Home,L,0,1,Arsenal,1.8,0.5,15,4,18.1,0,0,1,2023,Leeds United,1,0,14,6,0
+10,2022-10-20,20:15,Thu,Away,L,0,2,Leicester City,1.3,0.8,14,2,18.3,0,0,0,2023,Leeds United,0,11,20,3,0
+11,2022-10-23,14:00,Sun,Home,L,2,3,Fulham,1.6,1.8,14,5,16.3,0,0,0,2023,Leeds United,1,9,14,6,0
+12,2022-10-29,19:45,Sat,Away,W,2,1,Liverpool,1.8,1.7,14,6,19.4,3,0,0,2023,Leeds United,0,12,19,5,1
+13,2022-11-05,15:00,Sat,Home,W,4,3,Bournemouth,2.2,1.5,17,3,15.9,0,1,1,2023,Leeds United,1,2,15,5,1
+15,2022-11-12,15:00,Sat,Away,L,3,4,Tottenham,1.1,1.8,12,5,16.2,2,0,0,2023,Leeds United,0,19,15,5,0
+16,2022-12-28,20:00,Wed,Home,L,1,3,Manchester City,0.6,4.3,9,1,19.3,2,0,0,2023,Leeds United,1,13,20,2,0
+17,2022-12-31,15:00,Sat,Away,D,0,0,Newcastle Utd,0.4,2.2,8,1,17.9,1,0,0,2023,Leeds United,0,15,15,5,0
+18,2023-01-04,19:45,Wed,Home,,,,West Ham,,,,,,,,,2023,Leeds United,1,21,19,2,0
+20,2023-01-13,20:00,Fri,Away,,,,Aston Villa,,,,,,,,,2023,Leeds United,0,1,20,4,0
+22,2023-01-22,14:00,Sun,Home,,,,Brentford,,,,,,,,,2023,Leeds United,1,3,14,6,0
+24,2023-02-05,14:00,Sun,Away,,,,Nott'ham Forest,,,,,,,,,2023,Leeds United,0,17,14,6,0
+25,2023-02-08,20:00,Wed,Away,,,,Manchester Utd,,,,,,,,,2023,Leeds United,0,14,20,2,0
+26,2023-02-12,14:00,Sun,Home,,,,Manchester Utd,,,,,,,,,2023,Leeds United,1,14,14,6,0
+27,2023-02-18,15:00,Sat,Away,,,,Everton,,,,,,,,,2023,Leeds United,0,8,15,5,0
+28,2023-02-25,15:00,Sat,Home,,,,Southampton,,,,,,,,,2023,Leeds United,1,18,15,5,1
+30,2023-03-04,15:00,Sat,Away,,,,Chelsea,,,,,,,,,2023,Leeds United,0,6,15,5,0
+31,2023-03-11,15:00,Sat,Home,,,,Brighton,,,,,,,,,2023,Leeds United,1,4,15,5,0
+32,2023-03-18,15:00,Sat,Away,,,,Wolves,,,,,,,,,2023,Leeds United,0,22,15,5,1
+33,2023-04-01,15:00,Sat,Away,,,,Arsenal,,,,,,,,,2023,Leeds United,0,0,15,5,0
+34,2023-04-04,19:45,Tue,Home,,,,Nott'ham Forest,,,,,,,,,2023,Leeds United,1,17,19,1,1
+35,2023-04-09,14:00,Sun,Home,,,,Crystal Palace,,,,,,,,,2023,Leeds United,1,7,14,6,0
+36,2023-04-17,20:00,Mon,Home,,,,Liverpool,,,,,,,,,2023,Leeds United,1,12,20,0,0
+37,2023-04-22,12:30,Sat,Away,,,,Fulham,,,,,,,,,2023,Leeds United,0,9,12,5,0
+38,2023-04-25,20:00,Tue,Home,,,,Leicester City,,,,,,,,,2023,Leeds United,1,11,20,1,0
+39,2023-04-30,14:00,Sun,Away,,,,Bournemouth,,,,,,,,,2023,Leeds United,0,2,14,6,0
+40,2023-05-06,15:00,Sat,Away,,,,Manchester City,,,,,,,,,2023,Leeds United,0,13,15,5,0
+41,2023-05-13,12:30,Sat,Home,,,,Newcastle Utd,,,,,,,,,2023,Leeds United,1,15,12,5,0
+42,2023-05-21,13:30,Sun,Away,,,,West Ham,,,,,,,,,2023,Leeds United,0,21,13,6,0
+43,2023-05-28,16:30,Sun,Home,,,,Tottenham,,,,,,,,,2023,Leeds United,1,19,16,6,0
+0,2022-08-06,15:00,Sat,Away,L,1,4,Tottenham,0.5,1.5,10,2,17.1,0,0,0,2023,Southampton,0,19,15,5,0
+1,2022-08-13,15:00,Sat,Home,D,2,2,Leeds United,1.2,1.8,14,4,18.1,1,0,0,2023,Southampton,1,10,15,5,0
+2,2022-08-20,15:00,Sat,Away,W,2,1,Leicester City,0.9,0.3,9,3,15,0,0,0,2023,Southampton,0,11,15,5,1
+4,2022-08-27,12:30,Sat,Home,L,0,1,Manchester Utd,1.4,1.1,17,4,13.8,0,0,0,2023,Southampton,1,14,12,5,0
+5,2022-08-30,19:45,Tue,Home,W,2,1,Chelsea,1.1,1.1,9,5,17.8,0,0,0,2023,Southampton,1,6,19,1,1
+6,2022-09-03,15:00,Sat,Away,L,0,1,Wolves,1.2,0.8,12,1,16.4,1,0,0,2023,Southampton,0,22,15,5,0
+7,2022-09-16,20:00,Fri,Away,L,0,1,Aston Villa,0.3,1.5,7,1,20.2,0,0,0,2023,Southampton,0,1,20,4,0
+8,2022-10-01,15:00,Sat,Home,L,1,2,Everton,1.7,2,22,6,16.4,1,0,0,2023,Southampton,1,8,15,5,0
+9,2022-10-08,15:00,Sat,Away,L,0,4,Manchester City,0.2,2.4,5,0,28.1,0,0,0,2023,Southampton,0,13,15,5,0
+10,2022-10-16,14:00,Sun,Home,D,1,1,West Ham,0.5,1.7,10,8,19.6,0,0,0,2023,Southampton,1,21,14,6,0
+11,2022-10-19,19:30,Wed,Away,W,1,0,Bournemouth,1,1,9,3,13,0,0,0,2023,Southampton,0,2,19,2,1
+12,2022-10-23,14:00,Sun,Home,D,1,1,Arsenal,0.7,1,10,3,19.4,0,0,0,2023,Southampton,1,0,14,6,0
+13,2022-10-29,15:00,Sat,Away,L,0,1,Crystal Palace,1.3,0.9,14,4,18.1,0,0,0,2023,Southampton,0,7,15,5,0
+14,2022-11-06,14:00,Sun,Home,L,1,4,Newcastle Utd,1.7,0.9,16,5,17.6,1,0,0,2023,Southampton,1,15,14,6,0
+16,2022-11-12,15:00,Sat,Away,L,1,3,Liverpool,1.1,1.9,9,5,11.9,0,0,0,2023,Southampton,0,12,15,5,0
+18,2022-12-26,15:00,Mon,Home,L,1,3,Brighton,1.9,0.6,13,3,16.1,1,0,1,2023,Southampton,1,4,15,0,0
+19,2022-12-31,15:00,Sat,Away,L,1,2,Fulham,0.8,1.5,9,3,24.5,1,0,0,2023,Southampton,0,9,15,5,0
+20,2023-01-04,19:30,Wed,Home,,,,Nott'ham Forest,,,,,,,,,2023,Southampton,1,17,19,2,0
+23,2023-01-14,15:00,Sat,Away,,,,Everton,,,,,,,,,2023,Southampton,0,8,15,5,1
+24,2023-01-21,15:00,Sat,Home,,,,Aston Villa,,,,,,,,,2023,Southampton,1,1,15,5,0
+28,2023-02-04,15:00,Sat,Away,,,,Brentford,,,,,,,,,2023,Southampton,0,3,15,5,0
+29,2023-02-11,15:00,Sat,Home,,,,Wolves,,,,,,,,,2023,Southampton,1,22,15,5,0
+30,2023-02-18,15:00,Sat,Away,,,,Chelsea,,,,,,,,,2023,Southampton,0,6,15,5,1
+31,2023-02-25,15:00,Sat,Away,,,,Leeds United,,,,,,,,,2023,Southampton,0,10,15,5,0
+33,2023-03-04,17:30,Sat,Home,,,,Leicester City,,,,,,,,,2023,Southampton,1,11,17,5,1
+34,2023-03-12,14:00,Sun,Away,,,,Manchester Utd,,,,,,,,,2023,Southampton,0,14,14,6,0
+35,2023-03-15,19:30,Wed,Home,,,,Brentford,,,,,,,,,2023,Southampton,1,3,19,2,0
+36,2023-03-18,15:00,Sat,Home,,,,Tottenham,,,,,,,,,2023,Southampton,1,19,15,5,0
+37,2023-04-02,14:00,Sun,Away,,,,West Ham,,,,,,,,,2023,Southampton,0,21,14,6,0
+38,2023-04-08,17:30,Sat,Home,,,,Manchester City,,,,,,,,,2023,Southampton,1,13,17,5,0
+39,2023-04-15,15:00,Sat,Home,,,,Crystal Palace,,,,,,,,,2023,Southampton,1,7,15,5,0
+40,2023-04-21,20:00,Fri,Away,,,,Arsenal,,,,,,,,,2023,Southampton,0,0,20,4,0
+41,2023-04-27,19:45,Thu,Home,,,,Bournemouth,,,,,,,,,2023,Southampton,1,2,19,3,0
+42,2023-04-30,14:00,Sun,Away,,,,Newcastle Utd,,,,,,,,,2023,Southampton,0,15,14,6,0
+43,2023-05-08,20:00,Mon,Away,,,,Nott'ham Forest,,,,,,,,,2023,Southampton,0,17,20,0,0
+44,2023-05-13,15:00,Sat,Home,,,,Fulham,,,,,,,,,2023,Southampton,1,9,15,5,0
+45,2023-05-21,14:00,Sun,Away,,,,Brighton,,,,,,,,,2023,Southampton,0,4,14,6,0
+46,2023-05-28,16:30,Sun,Home,,,,Liverpool,,,,,,,,,2023,Southampton,1,12,16,6,0
+1,2021-08-15,16:30,Sun,Away,L,0,1,Tottenham,1.8,1,18,4,17.3,1,0,0,2022,Manchester City,0,19,16,6,0
+2,2021-08-21,15:00,Sat,Home,W,5,0,Norwich City,2.6,0.1,16,4,18.5,1,0,0,2022,Manchester City,1,16,15,5,1
+3,2021-08-28,12:30,Sat,Home,W,5,0,Arsenal,4.4,0.2,25,10,14.8,0,0,0,2022,Manchester City,1,0,12,5,1
+4,2021-09-11,15:00,Sat,Away,W,1,0,Leicester City,2.8,0.6,25,8,14.3,0,0,0,2022,Manchester City,0,11,15,5,1
+6,2021-09-18,15:00,Sat,Home,D,0,0,Southampton,1,0.4,16,1,16.4,1,0,0,2022,Manchester City,1,18,15,5,0
+8,2021-09-25,12:30,Sat,Away,W,1,0,Chelsea,1.7,0.2,15,3,17.1,0,0,0,2022,Manchester City,0,6,12,5,1
+10,2021-10-03,16:30,Sun,Away,D,2,2,Liverpool,1.2,0.9,12,3,17,1,0,0,2022,Manchester City,0,12,16,6,0
+11,2021-10-16,15:00,Sat,Home,W,2,0,Burnley,2.1,0.9,15,6,14.4,0,0,0,2022,Manchester City,1,5,15,5,1
+13,2021-10-23,17:30,Sat,Away,W,4,1,Brighton,3.8,1.3,23,12,16,1,0,0,2022,Manchester City,0,4,17,5,1
+15,2021-10-30,15:00,Sat,Home,L,0,2,Crystal Palace,0.7,0.7,14,3,17.7,0,0,0,2022,Manchester City,1,7,15,5,0
+17,2021-11-06,12:30,Sat,Away,W,2,0,Manchester Utd,1.6,0.9,16,5,14.7,0,0,0,2022,Manchester City,0,14,12,5,1
+18,2021-11-21,14:00,Sun,Home,W,3,0,Everton,2.5,0.2,17,7,16.4,1,0,0,2022,Manchester City,1,8,14,6,1
+20,2021-11-28,14:00,Sun,Home,W,2,1,West Ham,2.1,0.2,19,8,16,0,0,0,2022,Manchester City,1,21,14,6,1
+21,2021-12-01,20:15,Wed,Away,W,2,1,Aston Villa,1,0.8,17,7,19.2,1,0,0,2022,Manchester City,0,1,20,2,1
+22,2021-12-04,17:30,Sat,Away,W,3,1,Watford,3.1,0.8,26,12,14.4,0,0,0,2022,Manchester City,0,20,17,5,1
+24,2021-12-11,12:30,Sat,Home,W,1,0,Wolves,3.2,0.2,23,8,15.7,0,1,1,2022,Manchester City,1,22,12,5,1
+25,2021-12-14,20:00,Tue,Home,W,7,0,Leeds United,3.1,0.3,31,15,17.3,2,0,0,2022,Manchester City,1,10,20,1,1
+26,2021-12-19,14:15,Sun,Away,W,4,0,Newcastle Utd,2.9,0.3,18,7,12.9,0,0,0,2022,Manchester City,0,15,14,6,1
+27,2021-12-26,15:00,Sun,Home,W,6,3,Leicester City,3.6,2.7,15,6,17.5,1,2,2,2022,Manchester City,1,11,15,6,1
+28,2021-12-29,20:15,Wed,Away,W,1,0,Brentford,1.1,0.4,12,3,19.8,0,0,0,2022,Manchester City,0,3,20,2,1
+29,2022-01-01,12:30,Sat,Away,W,2,1,Arsenal,2,0.8,14,1,18.7,0,1,1,2022,Manchester City,0,0,12,5,1
+31,2022-01-15,12:30,Sat,Home,W,1,0,Chelsea,1,0.3,11,6,16.5,1,0,0,2022,Manchester City,1,6,12,5,1
+32,2022-01-22,17:30,Sat,Away,D,1,1,Southampton,1.8,0.8,20,5,17.5,0,0,0,2022,Manchester City,0,18,17,5,0
+34,2022-02-09,19:45,Wed,Home,W,2,0,Brentford,1.9,0.4,14,6,19.8,0,1,1,2022,Manchester City,1,3,19,2,1
+35,2022-02-12,17:30,Sat,Away,W,4,0,Norwich City,4.6,0.4,21,8,11.8,0,0,1,2022,Manchester City,0,16,17,5,1
+37,2022-02-19,17:30,Sat,Home,L,2,3,Tottenham,2.1,1.4,20,3,16.2,0,1,1,2022,Manchester City,1,19,17,5,0
+38,2022-02-26,17:30,Sat,Away,W,1,0,Everton,1.8,0.5,13,8,16.3,0,0,0,2022,Manchester City,0,8,17,5,1
+40,2022-03-06,16:30,Sun,Home,W,4,1,Manchester Utd,2.7,0.5,24,10,15.2,1,0,0,2022,Manchester City,1,14,16,6,1
+42,2022-03-14,20:00,Mon,Away,D,0,0,Crystal Palace,2.8,0.6,19,4,17.2,0,0,0,2022,Manchester City,0,7,20,0,0
+44,2022-04-02,15:00,Sat,Away,W,2,0,Burnley,1.8,0.1,18,6,16.5,0,0,0,2022,Manchester City,0,5,15,5,1
+46,2022-04-10,16:30,Sun,Home,D,2,2,Liverpool,1.3,1.3,11,4,17.8,1,0,0,2022,Manchester City,1,12,16,6,0
+49,2022-04-20,20:00,Wed,Home,W,3,0,Brighton,1.3,0.2,17,5,20,0,0,0,2022,Manchester City,1,4,20,2,1
+50,2022-04-23,15:00,Sat,Home,W,5,1,Watford,3.6,0.5,20,7,14.6,0,1,1,2022,Manchester City,1,20,15,5,1
+52,2022-04-30,17:30,Sat,Away,W,4,0,Leeds United,2.4,1.3,19,6,16.2,0,0,0,2022,Manchester City,0,10,17,5,1
+54,2022-05-08,16:30,Sun,Home,W,5,0,Newcastle Utd,3.1,0.8,21,9,16,1,0,0,2022,Manchester City,1,15,16,6,1
+55,2022-05-11,20:15,Wed,Away,W,5,1,Wolves,2.3,0.5,15,5,14.7,0,0,0,2022,Manchester City,0,22,20,2,1
+56,2022-05-15,14:00,Sun,Away,D,2,2,West Ham,2.4,1.1,30,7,18.6,2,0,1,2022,Manchester City,0,21,14,6,0
+57,2022-05-22,16:00,Sun,Home,W,3,2,Aston Villa,3.4,0.2,24,5,14.2,1,0,0,2022,Manchester City,1,1,16,6,1
+0,2021-08-14,17:30,Sat,Away,W,3,0,Norwich City,1.6,1.4,19,6,17.3,1,0,0,2022,Liverpool,0,16,17,5,1
+1,2021-08-21,12:30,Sat,Home,W,2,0,Burnley,2.7,0.9,27,8,16.1,0,0,0,2022,Liverpool,1,5,12,5,1
+2,2021-08-28,17:30,Sat,Home,D,1,1,Chelsea,2.5,0.6,23,6,16.2,0,1,1,2022,Liverpool,1,6,17,5,0
+3,2021-09-12,16:30,Sun,Away,W,3,0,Leeds United,4.3,1.2,30,8,16.1,1,0,0,2022,Liverpool,0,10,16,6,1
+5,2021-09-18,15:00,Sat,Home,W,3,0,Crystal Palace,3.1,0.6,25,10,16.4,1,0,0,2022,Liverpool,1,7,15,5,1
+7,2021-09-25,17:30,Sat,Away,D,3,3,Brentford,2.8,2.1,16,5,17,1,0,0,2022,Liverpool,0,3,17,5,0
+9,2021-10-03,16:30,Sun,Home,D,2,2,Manchester City,0.9,1.2,6,3,15,1,0,0,2022,Liverpool,1,13,16,6,0
+10,2021-10-16,12:30,Sat,Away,W,5,0,Watford,3.3,0.5,19,8,16,0,0,0,2022,Liverpool,0,20,12,5,1
+12,2021-10-24,16:30,Sun,Away,W,5,0,Manchester Utd,3.4,1.6,19,8,16.6,0,0,0,2022,Liverpool,0,14,16,6,1
+14,2021-10-30,15:00,Sat,Home,D,2,2,Brighton,1.5,1,14,3,20.8,0,0,0,2022,Liverpool,1,4,15,5,0
+16,2021-11-07,16:30,Sun,Away,L,2,3,West Ham,1.2,1,16,5,16.7,1,0,0,2022,Liverpool,0,21,16,6,0
+17,2021-11-20,17:30,Sat,Home,W,4,0,Arsenal,4.3,0.4,19,9,13.4,0,0,0,2022,Liverpool,1,0,17,5,1
+19,2021-11-27,15:00,Sat,Home,W,4,0,Southampton,2.9,1,20,6,15.5,0,0,0,2022,Liverpool,1,18,15,5,1
+20,2021-12-01,20:15,Wed,Away,W,4,1,Everton,2.4,0.7,16,7,16.5,1,0,0,2022,Liverpool,0,8,20,2,1
+21,2021-12-04,15:00,Sat,Away,W,1,0,Wolves,2.7,0.1,17,4,13.6,0,0,0,2022,Liverpool,0,22,15,5,1
+23,2021-12-11,15:00,Sat,Home,W,1,0,Aston Villa,2.2,0.2,19,4,16.1,0,1,1,2022,Liverpool,1,1,15,5,1
+24,2021-12-16,20:00,Thu,Home,W,3,1,Newcastle Utd,2.7,0.3,23,8,16.4,0,0,0,2022,Liverpool,1,15,20,3,1
+25,2021-12-19,16:30,Sun,Away,D,2,2,Tottenham,1.1,3,18,6,16.7,0,0,0,2022,Liverpool,0,19,16,6,0
+27,2021-12-28,20:00,Tue,Away,L,0,1,Leicester City,2.3,0.4,20,3,15,0,0,1,2022,Liverpool,0,11,20,1,0
+28,2022-01-02,16:30,Sun,Away,D,2,2,Chelsea,1.3,1.2,10,6,17.9,0,0,0,2022,Liverpool,0,6,16,6,0
+31,2022-01-16,14:00,Sun,Home,W,3,0,Brentford,2.7,0.7,27,13,16.7,0,0,0,2022,Liverpool,1,3,14,6,1
+33,2022-01-23,14:00,Sun,Away,W,3,1,Crystal Palace,1.9,2.2,13,6,21.6,0,1,1,2022,Liverpool,0,7,14,6,1
+35,2022-02-10,19:45,Thu,Home,W,2,0,Leicester City,1.8,0.5,22,11,15.7,0,0,0,2022,Liverpool,1,11,19,3,1
+36,2022-02-13,14:00,Sun,Away,W,1,0,Burnley,1.7,1.5,12,4,14.4,0,0,0,2022,Liverpool,0,5,14,6,1
+38,2022-02-19,15:00,Sat,Home,W,3,1,Norwich City,3.6,0.6,29,7,17.8,0,0,0,2022,Liverpool,1,16,15,5,1
+39,2022-02-23,19:45,Wed,Home,W,6,0,Leeds United,5.9,0.2,21,12,17.7,0,2,2,2022,Liverpool,1,10,19,2,1
+42,2022-03-05,17:30,Sat,Home,W,1,0,West Ham,2.4,1.3,22,5,19.1,1,0,0,2022,Liverpool,1,21,17,5,1
+44,2022-03-12,12:30,Sat,Away,W,2,0,Brighton,2.2,0.5,17,8,15.2,0,1,1,2022,Liverpool,0,4,12,5,1
+45,2022-03-16,20:15,Wed,Away,W,2,0,Arsenal,0.8,0.5,9,3,14.4,0,0,0,2022,Liverpool,0,0,20,2,1
+47,2022-04-02,12:30,Sat,Home,W,2,0,Watford,2.2,0.6,19,2,18.7,0,1,1,2022,Liverpool,1,20,12,5,1
+49,2022-04-10,16:30,Sun,Away,D,2,2,Manchester City,1.3,1.3,6,4,22.9,0,0,0,2022,Liverpool,0,13,16,6,0
+52,2022-04-19,20:00,Tue,Home,W,4,0,Manchester Utd,2,0.1,14,5,15.5,0,0,0,2022,Liverpool,1,14,20,1,1
+53,2022-04-24,16:30,Sun,Home,W,2,0,Everton,1.7,0.4,18,4,15.3,0,0,0,2022,Liverpool,1,8,16,6,1
+55,2022-04-30,12:30,Sat,Away,W,1,0,Newcastle Utd,2.3,0.2,24,10,17.7,2,0,0,2022,Liverpool,0,15,12,5,1
+57,2022-05-07,19:45,Sat,Home,D,1,1,Tottenham,1.3,0.9,22,3,19.6,1,0,0,2022,Liverpool,1,19,19,5,0
+58,2022-05-10,20:00,Tue,Away,W,2,1,Aston Villa,1.8,1.4,17,5,17,2,0,0,2022,Liverpool,0,1,20,1,1
+60,2022-05-17,19:45,Tue,Away,W,2,1,Southampton,1.3,0.1,24,5,18.6,0,0,0,2022,Liverpool,0,18,19,1,1
+61,2022-05-22,16:00,Sun,Home,W,3,1,Wolves,2.7,1.3,29,7,15.6,0,0,0,2022,Liverpool,1,22,16,6,1
+1,2021-08-14,15:00,Sat,Home,W,3,0,Crystal Palace,0.7,0.2,13,6,21,4,0,0,2022,Chelsea,1,7,15,5,1
+2,2021-08-22,16:30,Sun,Away,W,2,0,Arsenal,3.1,0.3,22,5,16,0,0,0,2022,Chelsea,0,0,16,6,1
+3,2021-08-28,17:30,Sat,Away,D,1,1,Liverpool,0.6,2.5,6,3,12.5,0,0,0,2022,Chelsea,0,12,17,5,0
+4,2021-09-11,17:30,Sat,Home,W,3,0,Aston Villa,1.3,1.2,12,4,22.6,0,0,0,2022,Chelsea,1,1,17,5,1
+6,2021-09-19,16:30,Sun,Away,W,3,0,Tottenham,2.1,0.5,20,9,14.5,0,0,0,2022,Chelsea,0,19,16,6,1
+8,2021-09-25,12:30,Sat,Home,L,0,1,Manchester City,0.2,1.7,5,0,27.9,1,0,0,2022,Chelsea,1,13,12,5,0
+10,2021-10-02,15:00,Sat,Home,W,3,1,Southampton,3.3,1.3,20,9,12.8,0,0,0,2022,Chelsea,1,18,15,5,1
+11,2021-10-16,17:30,Sat,Away,W,1,0,Brentford,0.3,1.4,5,1,24.7,2,0,0,2022,Chelsea,0,3,17,5,1
+13,2021-10-23,12:30,Sat,Home,W,7,0,Norwich City,3.1,0.1,22,12,19.8,0,1,1,2022,Chelsea,1,16,12,5,1
+15,2021-10-30,15:00,Sat,Away,W,3,0,Newcastle Utd,2.2,0.2,18,5,20.5,1,1,1,2022,Chelsea,0,15,15,5,1
+17,2021-11-06,15:00,Sat,Home,D,1,1,Burnley,1.8,0.7,25,4,16,0,0,0,2022,Chelsea,1,5,15,5,0
+18,2021-11-20,12:30,Sat,Away,W,3,0,Leicester City,2,0.4,16,7,16.7,2,0,0,2022,Chelsea,0,11,12,5,1
+20,2021-11-28,16:30,Sun,Home,D,1,1,Manchester Utd,2.7,0.9,23,5,16.8,0,1,1,2022,Chelsea,1,14,16,6,0
+21,2021-12-01,19:30,Wed,Away,W,2,1,Watford,0.9,1,8,4,15.1,0,0,0,2022,Chelsea,0,20,19,2,1
+22,2021-12-04,12:30,Sat,Away,L,2,3,West Ham,1.1,1.8,19,7,17.5,0,0,0,2022,Chelsea,0,21,12,5,0
+24,2021-12-11,15:00,Sat,Home,W,3,2,Leeds United,2.5,1.4,14,4,20,2,2,2,2022,Chelsea,1,10,15,5,1
+25,2021-12-16,19:45,Thu,Home,D,1,1,Everton,2.9,0.6,23,10,14.7,2,0,0,2022,Chelsea,1,8,19,3,0
+26,2021-12-19,14:00,Sun,Away,D,0,0,Wolves,0.9,0.2,8,1,14.9,0,0,0,2022,Chelsea,0,22,14,6,0
+28,2021-12-26,17:30,Sun,Away,W,3,1,Aston Villa,2.6,0.4,8,2,17.6,1,2,2,2022,Chelsea,0,1,17,6,1
+29,2021-12-29,19:30,Wed,Home,D,1,1,Brighton,0.7,0.9,11,5,13.6,0,0,0,2022,Chelsea,1,4,19,2,0
+30,2022-01-02,16:30,Sun,Home,D,2,2,Liverpool,1.2,1.3,15,6,18,3,0,0,2022,Chelsea,1,12,16,6,0
+34,2022-01-15,12:30,Sat,Away,L,0,1,Manchester City,0.3,1,4,1,19.1,0,0,0,2022,Chelsea,0,13,12,5,0
+35,2022-01-18,20:00,Tue,Away,D,1,1,Brighton,0.7,0.7,15,3,21.1,1,0,0,2022,Chelsea,0,4,20,1,0
+36,2022-01-23,16:30,Sun,Home,W,2,0,Tottenham,1.2,0.5,15,7,15.9,0,0,0,2022,Chelsea,1,19,16,6,1
+38,2022-02-19,15:00,Sat,Away,W,1,0,Crystal Palace,0.9,0.5,9,3,17,1,0,0,2022,Chelsea,0,7,15,5,1
+42,2022-03-05,15:00,Sat,Away,W,4,0,Burnley,2.3,0.7,11,5,18.1,0,0,0,2022,Chelsea,0,5,15,5,1
+43,2022-03-10,19:30,Thu,Away,W,3,1,Norwich City,1.8,1,15,7,12.7,1,0,0,2022,Chelsea,0,16,19,3,1
+44,2022-03-13,14:00,Sun,Home,W,1,0,Newcastle Utd,1.1,0.3,8,3,16.4,1,0,0,2022,Chelsea,1,15,14,6,1
+47,2022-04-02,15:00,Sat,Home,L,1,4,Brentford,1.3,1.8,21,8,20.1,0,0,0,2022,Chelsea,1,3,15,5,0
+49,2022-04-09,15:00,Sat,Away,W,6,0,Southampton,4.2,0.5,24,14,15.3,0,0,0,2022,Chelsea,0,18,15,5,1
+52,2022-04-20,19:45,Wed,Home,L,2,4,Arsenal,0.7,2,11,2,15.9,0,0,0,2022,Chelsea,1,0,19,2,0
+53,2022-04-24,14:00,Sun,Home,W,1,0,West Ham,3,0.5,25,4,19,0,0,1,2022,Chelsea,1,21,14,6,1
+54,2022-04-28,19:45,Thu,Away,D,1,1,Manchester Utd,1.9,0.5,21,6,17.4,0,0,0,2022,Chelsea,0,14,19,3,0
+55,2022-05-01,14:00,Sun,Away,L,0,1,Everton,0.8,0.8,17,5,17.9,0,0,0,2022,Chelsea,0,8,14,6,0
+56,2022-05-07,15:00,Sat,Home,D,2,2,Wolves,1.7,2,18,5,18.2,2,1,1,2022,Chelsea,1,22,15,5,0
+57,2022-05-11,19:30,Wed,Away,W,3,0,Leeds United,1.3,0.4,17,3,16.9,0,0,0,2022,Chelsea,0,10,19,2,1
+59,2022-05-19,20:00,Thu,Home,D,1,1,Leicester City,1.6,0.1,20,7,20,2,0,0,2022,Chelsea,1,11,20,3,0
+60,2022-05-22,16:00,Sun,Home,W,2,1,Watford,2.2,0.6,19,8,16.9,0,0,0,2022,Chelsea,1,20,16,6,1
+0,2021-08-15,16:30,Sun,Home,W,1,0,Manchester City,1,1.8,13,2,20.3,0,0,0,2022,Tottenham Hotspur,1,13,16,6,1
+2,2021-08-22,14:00,Sun,Away,W,1,0,Wolves,1.7,1.7,7,5,14.6,0,1,1,2022,Tottenham Hotspur,0,22,14,6,1
+4,2021-08-29,14:00,Sun,Home,W,1,0,Watford,1,0.8,15,8,18.8,3,0,0,2022,Tottenham Hotspur,1,20,14,6,1
+5,2021-09-11,12:30,Sat,Away,L,0,3,Crystal Palace,0.1,2.1,2,1,19.1,0,0,0,2022,Tottenham Hotspur,0,7,12,5,0
+7,2021-09-19,16:30,Sun,Home,L,0,3,Chelsea,0.5,2.1,8,2,20,1,0,0,2022,Tottenham Hotspur,1,6,16,6,0
+9,2021-09-26,16:30,Sun,Away,L,1,3,Arsenal,1,1.1,10,4,16.3,0,0,0,2022,Tottenham Hotspur,0,0,16,6,0
+11,2021-10-03,14:00,Sun,Home,W,2,1,Aston Villa,1.3,1.2,17,7,20.5,2,0,0,2022,Tottenham Hotspur,1,1,14,6,1
+12,2021-10-17,16:30,Sun,Away,W,3,2,Newcastle Utd,1.7,0.4,14,4,17.9,1,0,0,2022,Tottenham Hotspur,0,15,16,6,1
+14,2021-10-24,14:00,Sun,Away,L,0,1,West Ham,0.7,1.3,7,4,17.8,0,0,0,2022,Tottenham Hotspur,0,21,14,6,0
+16,2021-10-30,17:30,Sat,Home,L,0,3,Manchester Utd,1,1.5,9,0,16.6,1,0,0,2022,Tottenham Hotspur,1,14,17,5,0
+18,2021-11-07,14:00,Sun,Away,D,0,0,Everton,0.7,0.6,8,0,19.5,0,0,0,2022,Tottenham Hotspur,0,8,14,6,0
+19,2021-11-21,16:30,Sun,Home,W,2,1,Leeds United,2.1,1.4,13,4,17.5,1,0,0,2022,Tottenham Hotspur,1,10,16,6,1
+21,2021-12-02,19:30,Thu,Home,W,2,0,Brentford,1.9,0.3,11,6,9.8,0,0,0,2022,Tottenham Hotspur,1,3,19,3,1
+22,2021-12-05,14:00,Sun,Home,W,3,0,Norwich City,1.6,1.2,17,7,18.5,0,0,0,2022,Tottenham Hotspur,1,16,14,6,1
+24,2021-12-19,16:30,Sun,Home,D,2,2,Liverpool,3,1.1,10,5,10.4,0,0,0,2022,Tottenham Hotspur,1,12,16,6,0
+26,2021-12-26,15:00,Sun,Home,W,3,0,Crystal Palace,2.3,0.2,17,6,14.5,0,0,0,2022,Tottenham Hotspur,1,7,15,6,1
+27,2021-12-28,15:00,Tue,Away,D,1,1,Southampton,2.3,0.4,20,10,15.8,1,1,1,2022,Tottenham Hotspur,0,18,15,1,0
+28,2022-01-01,15:00,Sat,Away,W,1,0,Watford,2.2,0.3,21,9,17.6,0,0,0,2022,Tottenham Hotspur,0,20,15,5,1
+32,2022-01-19,19:30,Wed,Away,W,3,2,Leicester City,3.1,1.2,27,8,16.4,1,0,0,2022,Tottenham Hotspur,0,11,19,2,1
+33,2022-01-23,16:30,Sun,Away,L,0,2,Chelsea,0.5,1.2,6,3,16.6,0,0,0,2022,Tottenham Hotspur,0,6,16,6,0
+35,2022-02-09,19:45,Wed,Home,L,2,3,Southampton,1.4,2.2,8,3,15.3,0,0,0,2022,Tottenham Hotspur,1,18,19,2,0
+36,2022-02-13,14:00,Sun,Home,L,0,2,Wolves,1.2,1.3,17,7,15.9,2,0,0,2022,Tottenham Hotspur,1,22,14,6,0
+37,2022-02-19,17:30,Sat,Away,W,3,2,Manchester City,1.4,2.1,6,5,15,0,0,0,2022,Tottenham Hotspur,0,13,17,5,1
+38,2022-02-23,19:30,Wed,Away,L,0,1,Burnley,0.7,0.9,12,2,17.4,0,0,0,2022,Tottenham Hotspur,0,5,19,2,0
+39,2022-02-26,12:30,Sat,Away,W,4,0,Leeds United,1.9,1.5,15,10,14.2,0,0,0,2022,Tottenham Hotspur,0,10,12,5,1
+41,2022-03-07,20:00,Mon,Home,W,5,0,Everton,2.5,0.2,14,7,13.5,0,0,0,2022,Tottenham Hotspur,1,8,20,0,1
+42,2022-03-12,17:30,Sat,Away,L,2,3,Manchester Utd,1.5,1,9,1,19.8,1,1,1,2022,Tottenham Hotspur,0,14,17,5,0
+43,2022-03-16,19:30,Wed,Away,W,2,0,Brighton,2.2,0.7,17,7,19,1,0,0,2022,Tottenham Hotspur,0,4,19,2,1
+44,2022-03-20,16:30,Sun,Home,W,3,1,West Ham,3,0.6,17,4,16.6,0,0,0,2022,Tottenham Hotspur,1,21,16,6,1
+45,2022-04-03,16:30,Sun,Home,W,5,1,Newcastle Utd,3.1,0.5,19,6,16,1,0,0,2022,Tottenham Hotspur,1,15,16,6,1
+46,2022-04-09,17:30,Sat,Away,W,4,0,Aston Villa,1.1,1.6,11,5,18.8,0,0,0,2022,Tottenham Hotspur,0,1,17,5,1
+47,2022-04-16,12:30,Sat,Home,L,0,1,Brighton,0.5,0.6,5,0,20.8,0,0,0,2022,Tottenham Hotspur,1,4,12,5,0
+48,2022-04-23,17:30,Sat,Away,D,0,0,Brentford,0.6,0.9,9,0,16.7,0,0,0,2022,Tottenham Hotspur,0,3,17,5,0
+49,2022-05-01,14:00,Sun,Home,W,3,1,Leicester City,1.2,0.5,13,7,14.2,0,0,0,2022,Tottenham Hotspur,1,11,14,6,1
+50,2022-05-07,19:45,Sat,Away,D,1,1,Liverpool,0.9,1.3,8,3,17.5,0,0,0,2022,Tottenham Hotspur,0,12,19,5,0
+51,2022-05-12,19:45,Thu,Home,W,3,0,Arsenal,2.7,0.5,15,5,14.3,0,1,1,2022,Tottenham Hotspur,1,0,19,3,1
+52,2022-05-15,12:00,Sun,Home,W,1,0,Burnley,2.2,0.7,20,6,20.3,0,1,1,2022,Tottenham Hotspur,1,5,12,6,1
+53,2022-05-22,16:00,Sun,Away,W,5,0,Norwich City,3.4,0.5,19,12,14.9,0,0,0,2022,Tottenham Hotspur,0,16,16,6,1
+0,2021-08-13,20:00,Fri,Away,L,0,2,Brentford,1.3,1.2,22,4,19,1,0,0,2022,Arsenal,0,3,20,4,0
+1,2021-08-22,16:30,Sun,Home,L,0,2,Chelsea,0.3,3.1,6,3,18.7,0,0,0,2022,Arsenal,1,6,16,6,0
+3,2021-08-28,12:30,Sat,Away,L,0,5,Manchester City,0.2,4.4,1,0,6.8,0,0,0,2022,Arsenal,0,13,12,5,0
+4,2021-09-11,15:00,Sat,Home,W,1,0,Norwich City,2.7,0.7,30,6,16.9,1,0,0,2022,Arsenal,1,16,15,5,1
+5,2021-09-18,15:00,Sat,Away,W,1,0,Burnley,1.1,1,13,3,20.7,1,0,0,2022,Arsenal,0,5,15,5,1
+7,2021-09-26,16:30,Sun,Home,W,3,1,Tottenham,1.1,1,12,7,17.7,0,0,0,2022,Arsenal,1,19,16,6,1
+8,2021-10-02,17:30,Sat,Away,D,0,0,Brighton,0.4,1.1,8,2,21.1,1,0,0,2022,Arsenal,0,4,17,5,0
+9,2021-10-18,20:00,Mon,Home,D,2,2,Crystal Palace,1.7,0.7,17,6,17.6,1,0,0,2022,Arsenal,1,7,20,0,0
+10,2021-10-22,20:00,Fri,Home,W,3,1,Aston Villa,2.7,1.4,21,8,17.3,1,0,1,2022,Arsenal,1,1,20,4,1
+12,2021-10-30,12:30,Sat,Away,W,2,0,Leicester City,0.7,1.3,9,5,16.7,0,0,0,2022,Arsenal,0,11,12,5,1
+13,2021-11-07,14:00,Sun,Home,W,1,0,Watford,1.6,0.5,13,5,21.1,1,0,1,2022,Arsenal,1,20,14,6,1
+14,2021-11-20,17:30,Sat,Away,L,0,4,Liverpool,0.4,4.3,5,3,19.9,0,0,0,2022,Arsenal,0,12,17,5,0
+15,2021-11-27,12:30,Sat,Home,W,2,0,Newcastle Utd,2.5,0.3,24,6,17.8,1,0,0,2022,Arsenal,1,15,12,5,1
+16,2021-12-02,20:15,Thu,Away,L,2,3,Manchester Utd,1.4,1.9,17,7,16.5,1,0,0,2022,Arsenal,0,14,20,3,0
+17,2021-12-06,20:00,Mon,Away,L,1,2,Everton,1,0.9,10,3,16.1,0,0,0,2022,Arsenal,0,8,20,0,0
+18,2021-12-11,15:00,Sat,Home,W,3,0,Southampton,1.8,0.6,15,5,15.7,0,0,0,2022,Arsenal,1,18,15,5,1
+19,2021-12-15,20:00,Wed,Home,W,2,0,West Ham,2.8,0.4,20,7,19.6,2,0,1,2022,Arsenal,1,21,20,2,1
+20,2021-12-18,17:30,Sat,Away,W,4,1,Leeds United,3.5,1.6,21,12,16.7,0,0,0,2022,Arsenal,0,10,17,5,1
+22,2021-12-26,15:00,Sun,Away,W,5,0,Norwich City,2.5,0.1,15,5,17.7,1,1,1,2022,Arsenal,0,16,15,6,1
+23,2022-01-01,12:30,Sat,Home,L,1,2,Manchester City,0.8,2,7,2,15.6,0,0,0,2022,Arsenal,1,13,12,5,0
+27,2022-01-23,14:00,Sun,Home,D,0,0,Burnley,1.2,0.4,20,5,18.8,2,0,0,2022,Arsenal,1,5,14,6,0
+28,2022-02-10,19:45,Thu,Away,W,1,0,Wolves,1.8,0.8,12,2,17.2,0,0,0,2022,Arsenal,0,22,19,3,1
+29,2022-02-19,15:00,Sat,Home,W,2,1,Brentford,1.7,0.6,24,7,16,0,0,0,2022,Arsenal,1,3,15,5,1
+30,2022-02-24,19:45,Thu,Home,W,2,1,Wolves,3.1,1,26,5,15.6,1,0,0,2022,Arsenal,1,22,19,3,1
+31,2022-03-06,14:00,Sun,Away,W,3,2,Watford,1,1,16,4,17.3,0,0,0,2022,Arsenal,0,20,14,6,1
+32,2022-03-13,16:30,Sun,Home,W,2,0,Leicester City,2.4,0.4,20,6,16.2,0,1,1,2022,Arsenal,1,11,16,6,1
+33,2022-03-16,20:15,Wed,Home,L,0,2,Liverpool,0.5,0.8,9,2,22.5,0,0,0,2022,Arsenal,1,12,20,2,0
+34,2022-03-19,12:30,Sat,Away,W,1,0,Aston Villa,1.3,0.5,10,3,19.5,0,0,0,2022,Arsenal,0,1,12,5,1
+35,2022-04-04,20:00,Mon,Away,L,0,3,Crystal Palace,0.8,1.5,12,3,18.5,0,0,0,2022,Arsenal,0,7,20,0,0
+36,2022-04-09,15:00,Sat,Home,L,1,2,Brighton,1.9,0.6,20,4,16.7,2,0,0,2022,Arsenal,1,4,15,5,0
+37,2022-04-16,15:00,Sat,Away,L,0,1,Southampton,1.7,0.8,23,6,18.3,1,0,0,2022,Arsenal,0,18,15,5,0
+38,2022-04-20,19:45,Wed,Away,W,4,2,Chelsea,2,0.7,13,3,19.5,0,1,1,2022,Arsenal,0,6,19,2,1
+39,2022-04-23,12:30,Sat,Home,W,3,1,Manchester Utd,2.3,1.8,13,6,19.3,1,1,1,2022,Arsenal,1,14,12,5,1
+40,2022-05-01,16:30,Sun,Away,W,2,1,West Ham,0.9,0.5,13,7,19.3,0,0,0,2022,Arsenal,0,21,16,6,1
+41,2022-05-08,14:00,Sun,Home,W,2,1,Leeds United,2,0.3,19,9,14.3,2,0,0,2022,Arsenal,1,10,14,6,1
+42,2022-05-12,19:45,Thu,Away,L,0,3,Tottenham,0.5,2.7,9,5,24,0,0,0,2022,Arsenal,0,19,19,3,0
+43,2022-05-16,20:00,Mon,Away,L,0,2,Newcastle Utd,0.6,1.6,11,2,21.1,0,0,0,2022,Arsenal,0,15,20,0,0
+44,2022-05-22,16:00,Sun,Home,W,5,1,Everton,4.2,1.1,25,8,17,0,1,1,2022,Arsenal,1,8,16,6,1
+0,2021-08-14,12:30,Sat,Home,W,5,1,Leeds United,1.5,0.5,16,8,18.2,0,0,0,2022,Manchester United,1,10,12,5,1
+1,2021-08-22,14:00,Sun,Away,D,1,1,Southampton,1.8,0.7,15,3,15.1,1,0,0,2022,Manchester United,0,18,14,6,0
+2,2021-08-29,16:30,Sun,Away,W,1,0,Wolves,0.6,2.1,10,3,18.8,1,0,0,2022,Manchester United,0,22,16,6,1
+3,2021-09-11,15:00,Sat,Home,W,4,1,Newcastle Utd,2.5,0.4,21,6,20.5,0,0,0,2022,Manchester United,1,15,15,5,1
+5,2021-09-19,14:00,Sun,Away,W,2,1,West Ham,2,1.6,17,10,17.1,0,0,0,2022,Manchester United,0,21,14,6,1
+7,2021-09-25,12:30,Sat,Home,L,0,1,Aston Villa,2.2,1,27,4,19.7,2,0,1,2022,Manchester United,1,1,12,5,0
+9,2021-10-02,12:30,Sat,Home,D,1,1,Everton,1,1.3,13,6,15.1,0,0,0,2022,Manchester United,1,8,12,5,0
+10,2021-10-16,15:00,Sat,Away,L,2,4,Leicester City,1.2,2.4,18,6,21,0,0,0,2022,Manchester United,0,11,15,5,0
+12,2021-10-24,16:30,Sun,Home,L,0,5,Liverpool,1.6,3.4,12,3,15.5,0,0,0,2022,Manchester United,1,12,16,6,0
+13,2021-10-30,17:30,Sat,Away,W,3,0,Tottenham,1.5,1,10,4,17.9,0,0,0,2022,Manchester United,0,19,17,5,1
+15,2021-11-06,12:30,Sat,Home,L,0,2,Manchester City,0.9,1.6,5,1,17.3,0,0,0,2022,Manchester United,1,13,12,5,0
+16,2021-11-20,15:00,Sat,Away,L,1,4,Watford,1.4,2.7,9,3,14.9,0,0,0,2022,Manchester United,0,20,15,5,0
+18,2021-11-28,16:30,Sun,Away,D,1,1,Chelsea,0.9,2.7,3,2,20.7,0,0,0,2022,Manchester United,0,6,16,6,0
+19,2021-12-02,20:15,Thu,Home,W,3,2,Arsenal,1.9,1.4,13,9,19.7,0,1,1,2022,Manchester United,1,0,20,3,1
+20,2021-12-05,14:00,Sun,Home,W,1,0,Crystal Palace,0.9,0.5,16,3,19.2,2,0,0,2022,Manchester United,1,7,14,6,1
+22,2021-12-11,17:30,Sat,Away,W,1,0,Norwich City,2,1.2,12,4,19.2,2,1,1,2022,Manchester United,0,16,17,5,1
+23,2021-12-27,20:00,Mon,Away,D,1,1,Newcastle Utd,1.6,1.3,13,3,17.9,0,0,0,2022,Manchester United,0,15,20,0,0
+24,2021-12-30,20:15,Thu,Home,W,3,1,Burnley,2.4,1.1,18,6,17.5,1,0,0,2022,Manchester United,1,5,20,3,1
+25,2022-01-03,17:30,Mon,Home,L,0,1,Wolves,0.8,0.7,9,2,20.8,1,0,0,2022,Manchester United,1,22,17,0,0
+27,2022-01-15,17:30,Sat,Away,D,2,2,Aston Villa,1,1.9,13,6,17.5,1,0,0,2022,Manchester United,0,1,17,5,0
+28,2022-01-19,20:00,Wed,Away,W,3,1,Brentford,2.3,2.3,13,5,17.8,0,0,0,2022,Manchester United,0,3,20,2,1
+29,2022-01-22,15:00,Sat,Home,W,1,0,West Ham,1.9,0.3,18,3,18.3,1,0,0,2022,Manchester United,1,21,15,5,1
+31,2022-02-08,20:00,Tue,Away,D,1,1,Burnley,1.8,0.4,22,5,15.9,0,0,0,2022,Manchester United,0,5,20,1,0
+32,2022-02-12,12:30,Sat,Home,D,1,1,Southampton,2.1,0.8,12,7,11.7,0,0,0,2022,Manchester United,1,18,12,5,0
+33,2022-02-15,20:15,Tue,Home,W,2,0,Brighton,1.7,0.7,19,7,19.7,2,0,0,2022,Manchester United,1,4,20,1,1
+34,2022-02-20,14:00,Sun,Away,W,4,2,Leeds United,2.2,1.8,15,9,14.3,0,0,0,2022,Manchester United,0,10,14,6,1
+36,2022-02-26,15:00,Sat,Home,D,0,0,Watford,2.8,0.6,22,3,16.9,1,0,0,2022,Manchester United,1,20,15,5,0
+37,2022-03-06,16:30,Sun,Away,L,1,4,Manchester City,0.5,2.7,5,2,14.1,0,0,0,2022,Manchester United,0,13,16,6,0
+38,2022-03-12,17:30,Sat,Home,W,3,2,Tottenham,1,1.5,10,6,16.1,0,0,0,2022,Manchester United,1,19,17,5,1
+40,2022-04-02,17:30,Sat,Home,D,1,1,Leicester City,0.9,0.8,11,5,14.7,0,0,0,2022,Manchester United,1,11,17,5,0
+41,2022-04-09,12:30,Sat,Away,L,0,1,Everton,0.8,0.4,12,4,17.5,0,0,0,2022,Manchester United,0,8,12,5,0
+42,2022-04-16,15:00,Sat,Home,W,3,2,Norwich City,1.9,1.5,20,9,17.3,1,0,0,2022,Manchester United,1,16,15,5,1
+43,2022-04-19,20:00,Tue,Away,L,0,4,Liverpool,0.1,2,2,1,21,0,0,0,2022,Manchester United,0,12,20,1,0
+44,2022-04-23,12:30,Sat,Away,L,1,3,Arsenal,1.8,2.3,13,5,18.1,0,0,1,2022,Manchester United,0,0,12,5,0
+45,2022-04-28,19:45,Thu,Home,D,1,1,Chelsea,0.5,1.9,6,3,15.9,0,0,0,2022,Manchester United,1,6,19,3,0
+46,2022-05-02,20:00,Mon,Home,W,3,0,Brentford,2,0.6,8,4,20.3,1,1,1,2022,Manchester United,1,3,20,0,1
+47,2022-05-07,17:30,Sat,Away,L,0,4,Brighton,0.9,2.3,15,5,19.4,1,0,0,2022,Manchester United,0,4,17,5,0
+48,2022-05-22,16:00,Sun,Away,L,0,1,Crystal Palace,0.7,0.6,10,4,19.8,1,0,0,2022,Manchester United,0,7,16,6,0
+0,2021-08-15,14:00,Sun,Away,W,4,2,Newcastle Utd,2.7,1.8,17,7,17.1,1,0,1,2022,West Ham United,0,15,14,6,1
+1,2021-08-23,20:00,Mon,Home,W,4,1,Leicester City,2.3,0.6,19,7,13.9,0,0,0,2022,West Ham United,1,11,20,0,1
+2,2021-08-28,15:00,Sat,Home,D,2,2,Crystal Palace,1.3,1.1,14,4,15.2,0,0,0,2022,West Ham United,1,7,15,5,0
+3,2021-09-11,15:00,Sat,Away,D,0,0,Southampton,0.7,0.7,13,3,20,1,0,0,2022,West Ham United,0,18,15,5,0
+5,2021-09-19,14:00,Sun,Home,L,1,2,Manchester Utd,1.6,2,12,3,22,0,0,1,2022,West Ham United,1,14,14,6,0
+7,2021-09-25,15:00,Sat,Away,W,2,1,Leeds United,1.6,1.2,20,6,18.2,2,0,0,2022,West Ham United,0,10,15,5,1
+9,2021-10-03,14:00,Sun,Home,L,1,2,Brentford,1.5,1.2,18,5,16.7,1,0,0,2022,West Ham United,1,3,14,6,0
+10,2021-10-17,14:00,Sun,Away,W,1,0,Everton,1.2,0.9,16,4,16.5,0,0,0,2022,West Ham United,0,8,14,6,1
+12,2021-10-24,14:00,Sun,Home,W,1,0,Tottenham,1.3,0.7,13,4,14.8,0,0,0,2022,West Ham United,1,19,14,6,1
+14,2021-10-31,16:30,Sun,Away,W,4,1,Aston Villa,2.3,0.7,21,8,16.5,3,0,0,2022,West Ham United,0,1,16,6,1
+16,2021-11-07,16:30,Sun,Home,W,3,2,Liverpool,1,1.2,7,3,14.5,0,0,0,2022,West Ham United,1,12,16,6,1
+17,2021-11-20,15:00,Sat,Away,L,0,1,Wolves,0.4,1.4,8,3,20.2,0,0,0,2022,West Ham United,0,22,15,5,0
+19,2021-11-28,14:00,Sun,Away,L,1,2,Manchester City,0.2,2.1,5,3,21.4,1,0,0,2022,West Ham United,0,13,14,6,0
+20,2021-12-01,19:30,Wed,Home,D,1,1,Brighton,1.3,1.3,14,5,22.6,0,0,0,2022,West Ham United,1,4,19,2,0
+21,2021-12-04,12:30,Sat,Home,W,3,2,Chelsea,1.8,1.1,10,3,20.1,0,1,1,2022,West Ham United,1,6,12,5,1
+23,2021-12-12,14:00,Sun,Away,D,0,0,Burnley,0.8,0.8,16,3,18.6,0,0,0,2022,West Ham United,0,5,14,6,0
+24,2021-12-15,20:00,Wed,Away,L,0,2,Arsenal,0.4,2.8,7,1,22.3,1,0,0,2022,West Ham United,0,0,20,2,0
+26,2021-12-26,15:00,Sun,Home,L,2,3,Southampton,1.6,1.2,11,4,17.2,0,0,0,2022,West Ham United,1,18,15,6,0
+27,2021-12-28,15:00,Tue,Away,W,4,1,Watford,3.6,1.6,12,5,16,0,1,1,2022,West Ham United,0,20,15,1,1
+28,2022-01-01,17:30,Sat,Away,W,3,2,Crystal Palace,2.2,2.4,9,4,14.5,0,1,1,2022,West Ham United,0,7,17,5,1
+30,2022-01-12,19:45,Wed,Home,W,2,0,Norwich City,2.5,0.3,13,5,15.1,0,0,0,2022,West Ham United,1,16,19,2,1
+31,2022-01-16,14:00,Sun,Home,L,2,3,Leeds United,2.4,2.2,15,5,12.6,0,0,0,2022,West Ham United,1,10,14,6,0
+32,2022-01-22,15:00,Sat,Away,L,0,1,Manchester Utd,0.3,1.9,6,1,17.9,0,0,0,2022,West Ham United,0,14,15,5,0
+34,2022-02-08,19:45,Tue,Home,W,1,0,Watford,0.8,0.3,9,2,13.2,0,0,0,2022,West Ham United,1,20,19,1,1
+35,2022-02-13,16:30,Sun,Away,D,2,2,Leicester City,1.1,1.4,8,3,16.1,0,0,0,2022,West Ham United,0,11,16,6,0
+36,2022-02-19,12:30,Sat,Home,D,1,1,Newcastle Utd,0.6,0.8,11,3,14.4,0,0,0,2022,West Ham United,1,15,12,5,0
+37,2022-02-27,14:00,Sun,Home,W,1,0,Wolves,1.8,0.7,13,4,16.7,1,0,0,2022,West Ham United,1,22,14,6,1
+39,2022-03-05,17:30,Sat,Away,L,0,1,Liverpool,1.3,2.4,13,4,14.9,0,0,0,2022,West Ham United,0,12,17,5,0
+41,2022-03-13,14:00,Sun,Home,W,2,1,Aston Villa,1.2,1.1,11,4,16.3,0,0,0,2022,West Ham United,1,1,14,6,1
+43,2022-03-20,16:30,Sun,Away,L,1,3,Tottenham,0.6,3,6,1,9.1,0,0,0,2022,West Ham United,0,19,16,6,0
+44,2022-04-03,14:00,Sun,Home,W,2,1,Everton,1.2,0.7,11,5,19.9,2,0,0,2022,West Ham United,1,8,14,6,1
+46,2022-04-10,14:00,Sun,Away,L,0,2,Brentford,0.3,1.4,5,1,17.5,0,0,0,2022,West Ham United,0,3,14,6,0
+48,2022-04-17,14:15,Sun,Home,D,1,1,Burnley,2.2,1.8,21,6,14.7,0,0,0,2022,West Ham United,1,5,14,6,0
+49,2022-04-24,14:00,Sun,Away,L,0,1,Chelsea,0.5,3,6,2,13.4,0,0,0,2022,West Ham United,0,6,14,6,0
+51,2022-05-01,16:30,Sun,Home,L,1,2,Arsenal,0.5,0.9,8,3,14,0,0,0,2022,West Ham United,1,0,16,6,0
+53,2022-05-08,14:00,Sun,Away,W,4,0,Norwich City,3,0.8,12,4,14.4,0,1,1,2022,West Ham United,0,16,14,6,1
+54,2022-05-15,14:00,Sun,Home,D,2,2,Manchester City,1.1,2.4,6,2,13.7,0,0,0,2022,West Ham United,1,13,14,6,0
+55,2022-05-22,16:00,Sun,Away,L,1,3,Brighton,0.2,1.6,7,2,22,0,0,0,2022,West Ham United,0,4,16,6,0
+1,2021-08-14,15:00,Sat,Home,W,1,0,Wolves,0.5,1.3,9,5,17.1,0,0,0,2022,Leicester City,1,22,15,5,1
+2,2021-08-23,20:00,Mon,Away,L,1,4,West Ham,0.6,2.3,5,1,14.3,0,0,0,2022,Leicester City,0,21,20,0,0
+3,2021-08-28,15:00,Sat,Away,W,2,1,Norwich City,1.5,1.5,9,3,16,0,0,0,2022,Leicester City,0,16,15,5,1
+4,2021-09-11,15:00,Sat,Home,L,0,1,Manchester City,0.6,2.8,6,1,12.1,0,0,0,2022,Leicester City,1,13,15,5,0
+6,2021-09-19,14:00,Sun,Away,L,1,2,Brighton,1.6,1.7,14,3,19.9,0,0,0,2022,Leicester City,0,4,14,6,0
+8,2021-09-25,15:00,Sat,Home,D,2,2,Burnley,2.4,0.5,22,4,16.8,0,0,0,2022,Leicester City,1,5,15,5,0
+10,2021-10-03,14:00,Sun,Away,D,2,2,Crystal Palace,1.2,1.5,9,5,17.9,0,0,0,2022,Leicester City,0,7,14,6,0
+11,2021-10-16,15:00,Sat,Home,W,4,2,Manchester Utd,2.4,1.2,22,11,18.4,1,0,0,2022,Leicester City,1,14,15,5,1
+13,2021-10-24,14:00,Sun,Away,W,2,1,Brentford,1.5,1,10,6,21.9,0,0,0,2022,Leicester City,0,3,14,6,1
+15,2021-10-30,12:30,Sat,Home,L,0,2,Arsenal,1.3,0.7,16,8,17.3,2,0,0,2022,Leicester City,1,0,12,5,0
+17,2021-11-07,14:00,Sun,Away,D,1,1,Leeds United,0.7,1.3,9,3,16.5,0,0,0,2022,Leicester City,0,10,14,6,0
+18,2021-11-20,12:30,Sat,Home,L,0,3,Chelsea,0.4,2,4,3,24.4,0,0,0,2022,Leicester City,1,6,12,5,0
+20,2021-11-28,14:00,Sun,Home,W,4,2,Watford,2.1,2.8,18,8,14.6,0,0,0,2022,Leicester City,1,20,14,6,1
+21,2021-12-01,19:30,Wed,Away,D,2,2,Southampton,1.5,1.5,15,6,17.3,0,0,0,2022,Leicester City,0,18,19,2,0
+22,2021-12-05,16:30,Sun,Away,L,1,2,Aston Villa,1.1,2.1,12,4,15.9,0,0,0,2022,Leicester City,0,1,16,6,0
+24,2021-12-12,14:00,Sun,Home,W,4,0,Newcastle Utd,2.6,1,7,4,19.1,1,1,1,2022,Leicester City,1,15,14,6,1
+26,2021-12-26,15:00,Sun,Away,L,3,6,Manchester City,2.7,3.6,14,8,16.9,1,0,0,2022,Leicester City,0,13,15,6,0
+27,2021-12-28,20:00,Tue,Home,W,1,0,Liverpool,0.4,2.3,6,1,14.9,0,0,0,2022,Leicester City,1,12,20,1,1
+29,2022-01-19,19:30,Wed,Home,L,2,3,Tottenham,1.2,3.1,14,4,18.2,0,0,0,2022,Leicester City,1,19,19,2,0
+30,2022-01-23,14:00,Sun,Home,D,1,1,Brighton,1.4,1.1,15,5,19.8,1,0,0,2022,Leicester City,1,4,14,6,0
+32,2022-02-10,19:45,Thu,Away,L,0,2,Liverpool,0.5,1.8,5,1,17.3,1,0,0,2022,Leicester City,0,12,19,3,0
+33,2022-02-13,16:30,Sun,Home,D,2,2,West Ham,1.4,1.1,12,1,19.6,0,1,1,2022,Leicester City,1,21,16,6,0
+35,2022-02-20,16:30,Sun,Away,L,1,2,Wolves,1.7,0.5,17,7,19.6,1,0,0,2022,Leicester City,0,22,16,6,0
+37,2022-03-01,19:45,Tue,Away,W,2,0,Burnley,1.5,0.9,22,6,17.7,1,0,0,2022,Leicester City,0,5,19,1,1
+38,2022-03-05,12:30,Sat,Home,W,1,0,Leeds United,0.4,1.7,7,4,19.1,0,0,0,2022,Leicester City,1,10,12,5,1
+40,2022-03-13,16:30,Sun,Away,L,0,2,Arsenal,0.4,2.4,6,3,15.1,0,0,0,2022,Leicester City,0,0,16,6,0
+42,2022-03-20,14:00,Sun,Home,W,2,1,Brentford,1,1.3,12,4,19.2,1,0,0,2022,Leicester City,1,3,14,6,1
+43,2022-04-02,17:30,Sat,Away,D,1,1,Manchester Utd,0.8,0.9,11,3,16.7,0,0,0,2022,Leicester City,0,14,17,5,0
+45,2022-04-10,14:00,Sun,Home,W,2,1,Crystal Palace,1,1.4,12,3,21.1,2,0,0,2022,Leicester City,1,7,14,6,1
+47,2022-04-17,14:15,Sun,Away,L,1,2,Newcastle Utd,0.6,1.8,8,2,16.4,0,0,0,2022,Leicester City,0,15,14,6,0
+48,2022-04-20,19:45,Wed,Away,D,1,1,Everton,0.9,1.8,11,3,16.5,0,0,0,2022,Leicester City,0,8,19,2,0
+49,2022-04-23,15:00,Sat,Home,D,0,0,Aston Villa,0.3,0.9,5,2,24.2,2,0,0,2022,Leicester City,1,1,15,5,0
+51,2022-05-01,14:00,Sun,Away,L,1,3,Tottenham,0.5,1.2,6,2,20.4,0,0,0,2022,Leicester City,0,19,14,6,0
+53,2022-05-08,14:00,Sun,Home,L,1,2,Everton,1.5,1.1,16,8,19.8,0,0,0,2022,Leicester City,1,8,14,6,0
+54,2022-05-11,19:45,Wed,Home,W,3,0,Norwich City,2,1.1,20,8,18.5,0,0,0,2022,Leicester City,1,16,19,2,1
+55,2022-05-15,14:00,Sun,Away,W,5,1,Watford,2.5,1.4,13,7,16.4,0,0,0,2022,Leicester City,0,20,14,6,1
+56,2022-05-19,20:00,Thu,Away,D,1,1,Chelsea,0.1,1.6,2,1,25.1,0,0,0,2022,Leicester City,0,6,20,3,0
+57,2022-05-22,16:00,Sun,Home,W,4,1,Southampton,3.4,1.1,12,6,12.8,0,0,0,2022,Leicester City,1,18,16,6,1
+0,2021-08-14,15:00,Sat,Away,W,2,1,Burnley,1,1.5,14,6,14.9,1,0,0,2022,Brighton and Hove Albion,0,5,15,5,1
+1,2021-08-21,17:30,Sat,Home,W,2,0,Watford,1.3,0.5,13,3,16.9,0,0,0,2022,Brighton and Hove Albion,1,20,17,5,1
+3,2021-08-28,15:00,Sat,Home,L,0,2,Everton,0.7,1.4,14,3,22.3,2,0,0,2022,Brighton and Hove Albion,1,8,15,5,0
+4,2021-09-11,15:00,Sat,Away,W,1,0,Brentford,0.3,0.4,4,2,19,0,0,0,2022,Brighton and Hove Albion,0,3,15,5,1
+5,2021-09-19,14:00,Sun,Home,W,2,1,Leicester City,1.7,1.6,11,4,16.9,2,1,1,2022,Brighton and Hove Albion,1,11,14,6,1
+7,2021-09-27,20:00,Mon,Away,D,1,1,Crystal Palace,0.8,1.4,8,4,15.8,0,0,0,2022,Brighton and Hove Albion,0,7,20,0,0
+8,2021-10-02,17:30,Sat,Home,D,0,0,Arsenal,1.1,0.4,21,2,17.7,0,0,0,2022,Brighton and Hove Albion,1,0,17,5,0
+9,2021-10-16,15:00,Sat,Away,D,0,0,Norwich City,0.8,1.2,11,3,16.1,0,0,0,2022,Brighton and Hove Albion,0,16,15,5,0
+10,2021-10-23,17:30,Sat,Home,L,1,4,Manchester City,1.3,3.8,9,4,18.9,0,1,1,2022,Brighton and Hove Albion,1,13,17,5,0
+12,2021-10-30,15:00,Sat,Away,D,2,2,Liverpool,1,1.5,9,6,17,0,0,0,2022,Brighton and Hove Albion,0,12,15,5,0
+13,2021-11-06,17:30,Sat,Home,D,1,1,Newcastle Utd,1.5,0.3,13,4,17.9,0,1,1,2022,Brighton and Hove Albion,1,15,17,5,0
+14,2021-11-20,15:00,Sat,Away,L,0,2,Aston Villa,0.4,0.7,6,2,17.7,0,0,0,2022,Brighton and Hove Albion,0,1,15,5,0
+15,2021-11-27,17:30,Sat,Home,D,0,0,Leeds United,2.1,0.6,20,4,16.6,0,0,0,2022,Brighton and Hove Albion,1,10,17,5,0
+16,2021-12-01,19:30,Wed,Away,D,1,1,West Ham,1.3,1.3,9,3,16,1,0,0,2022,Brighton and Hove Albion,0,21,19,2,0
+17,2021-12-04,15:00,Sat,Away,D,1,1,Southampton,1.6,1.6,14,4,18.7,1,0,0,2022,Brighton and Hove Albion,0,18,15,5,0
+18,2021-12-15,19:30,Wed,Home,L,0,1,Wolves,1.2,1,12,2,17.8,2,0,0,2022,Brighton and Hove Albion,1,22,19,2,0
+19,2021-12-26,20:00,Sun,Home,W,2,0,Brentford,0.8,0.7,15,5,21.7,3,0,0,2022,Brighton and Hove Albion,1,3,20,6,1
+20,2021-12-29,19:30,Wed,Away,D,1,1,Chelsea,0.9,0.7,18,6,20.2,1,0,0,2022,Brighton and Hove Albion,0,6,19,2,0
+21,2022-01-02,14:00,Sun,Away,W,3,2,Everton,1.7,1.6,12,5,19.1,0,0,0,2022,Brighton and Hove Albion,0,8,14,6,1
+23,2022-01-14,20:00,Fri,Home,D,1,1,Crystal Palace,2,0.2,18,3,18.2,0,0,1,2022,Brighton and Hove Albion,1,7,20,4,0
+24,2022-01-18,20:00,Tue,Home,D,1,1,Chelsea,0.7,0.7,10,2,16.2,0,0,0,2022,Brighton and Hove Albion,1,6,20,1,0
+25,2022-01-23,14:00,Sun,Away,D,1,1,Leicester City,1.1,1.4,14,4,17.9,0,0,0,2022,Brighton and Hove Albion,0,11,14,6,0
+27,2022-02-12,15:00,Sat,Away,W,2,0,Watford,1.6,0.5,11,5,12.3,0,0,0,2022,Brighton and Hove Albion,0,20,15,5,1
+28,2022-02-15,20:15,Tue,Away,L,0,2,Manchester Utd,0.7,1.7,10,3,18.9,0,0,0,2022,Brighton and Hove Albion,0,14,20,1,0
+29,2022-02-19,15:00,Sat,Home,L,0,3,Burnley,0.6,0.7,11,1,19.5,0,0,0,2022,Brighton and Hove Albion,1,5,15,5,0
+30,2022-02-26,15:00,Sat,Home,L,0,2,Aston Villa,0.7,1,12,1,19.4,0,0,0,2022,Brighton and Hove Albion,1,1,15,5,0
+31,2022-03-05,15:00,Sat,Away,L,1,2,Newcastle Utd,1.5,1.7,15,4,14.2,0,0,0,2022,Brighton and Hove Albion,0,15,15,5,0
+32,2022-03-12,12:30,Sat,Home,L,0,2,Liverpool,0.5,2.2,8,3,18.4,0,0,0,2022,Brighton and Hove Albion,1,12,12,5,0
+33,2022-03-16,19:30,Wed,Home,L,0,2,Tottenham,0.7,2.2,15,0,18.3,0,0,0,2022,Brighton and Hove Albion,1,19,19,2,0
+34,2022-04-02,15:00,Sat,Home,D,0,0,Norwich City,2.8,0.4,30,4,18.7,1,0,1,2022,Brighton and Hove Albion,1,16,15,5,0
+35,2022-04-09,15:00,Sat,Away,W,2,1,Arsenal,0.6,1.9,8,3,23.1,0,0,0,2022,Brighton and Hove Albion,0,0,15,5,1
+36,2022-04-16,12:30,Sat,Away,W,1,0,Tottenham,0.6,0.5,12,4,17,0,0,0,2022,Brighton and Hove Albion,0,19,12,5,1
+37,2022-04-20,20:00,Wed,Away,L,0,3,Manchester City,0.2,1.3,2,1,19,1,0,0,2022,Brighton and Hove Albion,0,13,20,2,0
+38,2022-04-24,14:00,Sun,Home,D,2,2,Southampton,1.7,0.9,8,5,11.4,0,0,0,2022,Brighton and Hove Albion,1,18,14,6,0
+39,2022-04-30,15:00,Sat,Away,W,3,0,Wolves,2.6,0.7,15,8,21.4,0,1,2,2022,Brighton and Hove Albion,0,22,15,5,1
+40,2022-05-07,17:30,Sat,Home,W,4,0,Manchester Utd,2.3,0.9,17,5,15.9,0,0,0,2022,Brighton and Hove Albion,1,14,17,5,1
+41,2022-05-15,14:00,Sun,Away,D,1,1,Leeds United,2.2,1.6,15,6,14.3,0,0,0,2022,Brighton and Hove Albion,0,10,14,6,0
+42,2022-05-22,16:00,Sun,Home,W,3,1,West Ham,1.6,0.2,18,7,16.4,0,0,0,2022,Brighton and Hove Albion,1,21,16,6,1
+0,2021-08-14,15:00,Sat,Away,L,0,1,Leicester City,1.3,0.5,17,3,17.9,0,0,0,2022,Wolverhampton Wanderers,0,11,15,5,0
+1,2021-08-22,14:00,Sun,Home,L,0,1,Tottenham,1.7,1.7,25,6,20.3,0,0,0,2022,Wolverhampton Wanderers,1,19,14,6,0
+3,2021-08-29,16:30,Sun,Home,L,0,1,Manchester Utd,2.1,0.6,15,5,15.9,0,0,0,2022,Wolverhampton Wanderers,1,14,16,6,0
+4,2021-09-11,15:00,Sat,Away,W,2,0,Watford,2.2,0.2,14,5,16.4,1,0,0,2022,Wolverhampton Wanderers,0,20,15,5,1
+5,2021-09-18,12:30,Sat,Home,L,0,2,Brentford,0.6,2.5,11,0,22.8,1,0,0,2022,Wolverhampton Wanderers,1,3,12,5,0
+7,2021-09-26,14:00,Sun,Away,W,1,0,Southampton,1,1,5,3,13.5,0,0,0,2022,Wolverhampton Wanderers,0,18,14,6,1
+8,2021-10-02,15:00,Sat,Home,W,2,1,Newcastle Utd,1,0.6,7,3,19.7,0,0,0,2022,Wolverhampton Wanderers,1,15,15,5,1
+9,2021-10-16,15:00,Sat,Away,W,3,2,Aston Villa,2,1,9,4,14.4,1,0,0,2022,Wolverhampton Wanderers,0,1,15,5,1
+10,2021-10-23,15:00,Sat,Away,D,1,1,Leeds United,0.9,1.6,8,4,16.5,1,0,0,2022,Wolverhampton Wanderers,0,10,15,5,0
+11,2021-11-01,20:00,Mon,Home,W,2,1,Everton,1.7,1.5,10,4,15.6,1,0,0,2022,Wolverhampton Wanderers,1,8,20,0,1
+12,2021-11-06,15:00,Sat,Away,L,0,2,Crystal Palace,0.3,1.9,4,2,18.8,1,0,0,2022,Wolverhampton Wanderers,0,7,15,5,0
+13,2021-11-20,15:00,Sat,Home,W,1,0,West Ham,1.4,0.4,15,5,19.1,0,0,0,2022,Wolverhampton Wanderers,1,21,15,5,1
+14,2021-11-27,15:00,Sat,Away,D,0,0,Norwich City,0.3,1.6,5,2,17,0,0,0,2022,Wolverhampton Wanderers,0,16,15,5,0
+15,2021-12-01,19:30,Wed,Home,D,0,0,Burnley,0.7,0.2,16,2,20.1,0,0,0,2022,Wolverhampton Wanderers,1,5,19,2,0
+16,2021-12-04,15:00,Sat,Home,L,0,1,Liverpool,0.1,2.7,3,1,23.7,0,0,0,2022,Wolverhampton Wanderers,1,12,15,5,0
+17,2021-12-11,12:30,Sat,Away,L,0,1,Manchester City,0.2,3.2,2,1,10.2,0,0,0,2022,Wolverhampton Wanderers,0,13,12,5,0
+18,2021-12-15,19:30,Wed,Away,W,1,0,Brighton,1,1.2,8,5,18,1,0,0,2022,Wolverhampton Wanderers,0,4,19,2,1
+19,2021-12-19,14:00,Sun,Home,D,0,0,Chelsea,0.2,0.9,4,1,27.4,0,0,0,2022,Wolverhampton Wanderers,1,6,14,6,0
+20,2022-01-03,17:30,Mon,Away,W,1,0,Manchester Utd,0.7,0.8,19,6,20.4,1,0,0,2022,Wolverhampton Wanderers,0,14,17,0,1
+22,2022-01-15,15:00,Sat,Home,W,3,1,Southampton,2.5,0.8,8,4,15.4,0,1,1,2022,Wolverhampton Wanderers,1,18,15,5,1
+23,2022-01-22,15:00,Sat,Away,W,2,1,Brentford,0.2,1.1,7,2,21.7,0,0,0,2022,Wolverhampton Wanderers,0,3,15,5,1
+25,2022-02-10,19:45,Thu,Home,L,0,1,Arsenal,0.8,1.8,15,4,19.1,2,0,0,2022,Wolverhampton Wanderers,1,0,19,3,0
+26,2022-02-13,14:00,Sun,Away,W,2,0,Tottenham,1.3,1.2,11,7,15.9,0,0,0,2022,Wolverhampton Wanderers,0,19,14,6,1
+27,2022-02-20,16:30,Sun,Home,W,2,1,Leicester City,0.5,1.7,11,3,19.4,1,0,0,2022,Wolverhampton Wanderers,1,11,16,6,1
+28,2022-02-24,19:45,Thu,Away,L,1,2,Arsenal,1,3.1,6,2,14.8,0,0,0,2022,Wolverhampton Wanderers,0,0,19,3,0
+29,2022-02-27,14:00,Sun,Away,L,0,1,West Ham,0.7,1.8,14,1,21.1,0,0,0,2022,Wolverhampton Wanderers,0,21,14,6,0
+30,2022-03-05,15:00,Sat,Home,L,0,2,Crystal Palace,0.7,2.7,12,5,19.8,0,0,0,2022,Wolverhampton Wanderers,1,7,15,5,0
+31,2022-03-10,19:30,Thu,Home,W,4,0,Watford,0.7,0.6,10,5,18.9,0,0,0,2022,Wolverhampton Wanderers,1,20,19,3,1
+32,2022-03-13,14:00,Sun,Away,W,1,0,Everton,0.8,0.4,14,3,21.7,0,0,0,2022,Wolverhampton Wanderers,0,8,14,6,1
+33,2022-03-18,20:00,Fri,Home,L,2,3,Leeds United,1.2,2,14,8,20.9,0,0,0,2022,Wolverhampton Wanderers,1,10,20,4,0
+34,2022-04-02,15:00,Sat,Home,W,2,1,Aston Villa,1.3,2.1,11,4,15,0,0,0,2022,Wolverhampton Wanderers,1,1,15,5,1
+35,2022-04-08,20:00,Fri,Away,L,0,1,Newcastle Utd,0.4,1.5,5,2,18.2,0,0,0,2022,Wolverhampton Wanderers,0,15,20,4,0
+36,2022-04-24,14:00,Sun,Away,L,0,1,Burnley,0.6,1.4,10,4,19,0,0,0,2022,Wolverhampton Wanderers,0,5,14,6,0
+37,2022-04-30,15:00,Sat,Home,L,0,3,Brighton,0.7,2.6,11,1,18.7,1,0,0,2022,Wolverhampton Wanderers,1,4,15,5,0
+38,2022-05-07,15:00,Sat,Away,D,2,2,Chelsea,2,1.7,14,4,15.6,0,0,0,2022,Wolverhampton Wanderers,0,6,15,5,0
+39,2022-05-11,20:15,Wed,Home,L,1,5,Manchester City,0.5,2.3,7,3,16.9,0,0,0,2022,Wolverhampton Wanderers,1,13,20,2,0
+40,2022-05-15,14:00,Sun,Home,D,1,1,Norwich City,0.9,1.1,17,4,20.8,1,0,0,2022,Wolverhampton Wanderers,1,16,14,6,0
+41,2022-05-22,16:00,Sun,Away,L,1,3,Liverpool,1.3,2.7,7,5,14.7,0,0,0,2022,Wolverhampton Wanderers,0,12,16,6,0
+0,2021-08-15,14:00,Sun,Home,L,2,4,West Ham,1.8,2.7,17,3,16.3,0,0,0,2022,Newcastle United,1,21,14,6,0
+1,2021-08-21,15:00,Sat,Away,L,0,2,Aston Villa,0.7,1.2,9,1,16.1,0,0,0,2022,Newcastle United,0,1,15,5,0
+3,2021-08-28,15:00,Sat,Home,D,2,2,Southampton,1,3.6,10,4,16.5,1,0,0,2022,Newcastle United,1,18,15,5,0
+4,2021-09-11,15:00,Sat,Away,L,1,4,Manchester Utd,0.4,2.5,12,3,22.5,0,0,0,2022,Newcastle United,0,14,15,5,0
+5,2021-09-17,20:00,Fri,Home,D,1,1,Leeds United,1.3,1.5,17,7,19.2,0,0,0,2022,Newcastle United,1,10,20,4,0
+6,2021-09-25,15:00,Sat,Away,D,1,1,Watford,1.9,0.9,20,6,17.9,1,0,0,2022,Newcastle United,0,20,15,5,0
+7,2021-10-02,15:00,Sat,Away,L,1,2,Wolves,0.6,1,8,2,16.5,1,0,0,2022,Newcastle United,0,22,15,5,0
+8,2021-10-17,16:30,Sun,Home,L,2,3,Tottenham,0.4,1.7,7,1,17.4,0,0,0,2022,Newcastle United,1,19,16,6,0
+9,2021-10-23,15:00,Sat,Away,D,1,1,Crystal Palace,0.3,1.9,6,1,14.2,0,0,0,2022,Newcastle United,0,7,15,5,0
+10,2021-10-30,15:00,Sat,Home,L,0,3,Chelsea,0.2,2.2,6,1,19.7,0,0,0,2022,Newcastle United,1,6,15,5,0
+11,2021-11-06,17:30,Sat,Away,D,1,1,Brighton,0.3,1.5,6,1,18.1,0,0,0,2022,Newcastle United,0,4,17,5,0
+12,2021-11-20,15:00,Sat,Home,D,3,3,Brentford,1.5,0.9,23,8,16.1,0,0,0,2022,Newcastle United,1,3,15,5,0
+13,2021-11-27,12:30,Sat,Away,L,0,2,Arsenal,0.3,2.5,9,5,24.5,0,0,0,2022,Newcastle United,0,0,12,5,0
+14,2021-11-30,19:30,Tue,Home,D,1,1,Norwich City,1.1,1.2,8,0,22.6,0,1,1,2022,Newcastle United,1,16,19,1,0
+15,2021-12-04,15:00,Sat,Home,W,1,0,Burnley,1,0.6,19,4,17.9,0,0,0,2022,Newcastle United,1,5,15,5,1
+16,2021-12-12,14:00,Sun,Away,L,0,4,Leicester City,1,2.6,12,3,18.1,0,0,0,2022,Newcastle United,0,11,14,6,0
+17,2021-12-16,20:00,Thu,Away,L,1,3,Liverpool,0.3,2.7,5,3,31.4,2,0,0,2022,Newcastle United,0,12,20,3,0
+18,2021-12-19,14:15,Sun,Home,L,0,4,Manchester City,0.3,2.9,5,1,19.9,0,0,0,2022,Newcastle United,1,13,14,6,0
+19,2021-12-27,20:00,Mon,Home,D,1,1,Manchester Utd,1.3,1.6,13,8,22.6,0,0,0,2022,Newcastle United,1,14,20,0,0
+21,2022-01-15,15:00,Sat,Home,D,1,1,Watford,1.2,1.4,12,1,14.6,0,0,0,2022,Newcastle United,1,20,15,5,0
+22,2022-01-22,15:00,Sat,Away,W,1,0,Leeds United,0.9,0.7,15,3,19.7,1,0,0,2022,Newcastle United,0,10,15,5,1
+23,2022-02-08,19:45,Tue,Home,W,3,1,Everton,1.9,0.7,20,9,14,1,0,0,2022,Newcastle United,1,8,19,1,1
+24,2022-02-13,14:00,Sun,Home,W,1,0,Aston Villa,0.5,0.6,10,2,21.5,1,0,0,2022,Newcastle United,1,1,14,6,1
+25,2022-02-19,12:30,Sat,Away,D,1,1,West Ham,0.8,0.6,14,3,16,0,0,0,2022,Newcastle United,0,21,12,5,0
+26,2022-02-26,15:00,Sat,Away,W,2,0,Brentford,2.7,0.4,26,11,15.7,2,0,0,2022,Newcastle United,0,3,15,5,1
+27,2022-03-05,15:00,Sat,Home,W,2,1,Brighton,1.7,1.5,10,4,12.2,0,0,0,2022,Newcastle United,1,4,15,5,1
+28,2022-03-10,19:30,Thu,Away,W,2,1,Southampton,0.6,1.1,8,3,16.4,0,0,0,2022,Newcastle United,0,18,19,3,1
+29,2022-03-13,14:00,Sun,Away,L,0,1,Chelsea,0.3,1.1,7,2,18.2,0,0,0,2022,Newcastle United,0,6,14,6,0
+30,2022-03-17,19:45,Thu,Away,L,0,1,Everton,0.9,0.7,17,6,20.7,1,0,0,2022,Newcastle United,0,8,19,3,0
+31,2022-04-03,16:30,Sun,Away,L,1,5,Tottenham,0.5,3.1,8,1,18,1,0,0,2022,Newcastle United,0,19,16,6,0
+32,2022-04-08,20:00,Fri,Home,W,1,0,Wolves,1.5,0.4,11,3,19.7,1,1,1,2022,Newcastle United,1,22,20,4,1
+33,2022-04-17,14:15,Sun,Home,W,2,1,Leicester City,1.8,0.6,16,7,15.4,1,0,0,2022,Newcastle United,1,11,14,6,1
+34,2022-04-20,19:45,Wed,Home,W,1,0,Crystal Palace,0.9,0.5,13,4,18.1,0,0,0,2022,Newcastle United,1,7,19,2,1
+35,2022-04-23,15:00,Sat,Away,W,3,0,Norwich City,1.9,0.6,13,7,15.6,0,0,0,2022,Newcastle United,0,16,15,5,1
+36,2022-04-30,12:30,Sat,Home,L,0,1,Liverpool,0.2,2.3,4,2,28.3,1,0,0,2022,Newcastle United,1,12,12,5,0
+37,2022-05-08,16:30,Sun,Away,L,0,5,Manchester City,0.8,3.1,7,3,16.5,0,0,0,2022,Newcastle United,0,13,16,6,0
+38,2022-05-16,20:00,Mon,Home,W,2,0,Arsenal,1.6,0.6,16,4,19.1,0,0,0,2022,Newcastle United,1,0,20,0,1
+39,2022-05-22,16:00,Sun,Away,W,2,1,Burnley,1.8,1.6,7,5,23,0,1,1,2022,Newcastle United,0,5,16,6,1
+0,2021-08-14,15:00,Sat,Away,L,0,3,Chelsea,0.2,0.7,4,1,10.8,0,0,0,2022,Crystal Palace,0,6,15,5,0
+1,2021-08-21,15:00,Sat,Home,D,0,0,Brentford,0.5,0.9,7,2,15.9,0,0,0,2022,Crystal Palace,1,3,15,5,0
+3,2021-08-28,15:00,Sat,Away,D,2,2,West Ham,1.1,1.3,9,2,15.2,0,0,0,2022,Crystal Palace,0,21,15,5,0
+4,2021-09-11,12:30,Sat,Home,W,3,0,Tottenham,2.1,0.1,17,3,17.5,1,1,1,2022,Crystal Palace,1,19,12,5,1
+5,2021-09-18,15:00,Sat,Away,L,0,3,Liverpool,0.6,3.1,13,2,19,1,0,0,2022,Crystal Palace,0,12,15,5,0
+6,2021-09-27,20:00,Mon,Home,D,1,1,Brighton,1.4,0.8,7,2,24.1,1,1,1,2022,Crystal Palace,1,4,20,0,0
+7,2021-10-03,14:00,Sun,Home,D,2,2,Leicester City,1.5,1.2,18,4,15.3,0,0,0,2022,Crystal Palace,1,11,14,6,0
+8,2021-10-18,20:00,Mon,Away,D,2,2,Arsenal,0.7,1.7,9,6,21.4,0,0,0,2022,Crystal Palace,0,0,20,0,0
+9,2021-10-23,15:00,Sat,Home,D,1,1,Newcastle Utd,1.9,0.3,15,3,15.6,0,0,0,2022,Crystal Palace,1,15,15,5,0
+10,2021-10-30,15:00,Sat,Away,W,2,0,Manchester City,0.7,0.7,8,3,15.3,0,0,0,2022,Crystal Palace,0,13,15,5,1
+11,2021-11-06,15:00,Sat,Home,W,2,0,Wolves,1.9,0.3,13,6,13.2,0,0,0,2022,Crystal Palace,1,22,15,5,1
+12,2021-11-20,15:00,Sat,Away,D,3,3,Burnley,1.9,1.5,18,8,16.4,1,0,0,2022,Crystal Palace,0,5,15,5,0
+13,2021-11-27,15:00,Sat,Home,L,1,2,Aston Villa,1,0.5,8,3,13.9,0,0,0,2022,Crystal Palace,1,1,15,5,0
+14,2021-11-30,20:15,Tue,Away,L,0,1,Leeds United,1.1,1.4,9,1,18.1,1,0,0,2022,Crystal Palace,0,10,20,1,0
+15,2021-12-05,14:00,Sun,Away,L,0,1,Manchester Utd,0.5,0.9,8,2,19.2,0,0,0,2022,Crystal Palace,0,14,14,6,0
+16,2021-12-12,16:30,Sun,Home,W,3,1,Everton,1.8,1,17,6,16.8,1,0,0,2022,Crystal Palace,1,8,16,6,1
+17,2021-12-15,19:30,Wed,Home,D,2,2,Southampton,1.2,0.6,9,6,10.9,0,0,0,2022,Crystal Palace,1,18,19,2,0
+18,2021-12-26,15:00,Sun,Away,L,0,3,Tottenham,0.2,2.3,4,0,17.7,0,0,0,2022,Crystal Palace,0,19,15,6,0
+19,2021-12-28,15:00,Tue,Home,W,3,0,Norwich City,1.9,0.9,18,5,13.3,0,1,1,2022,Crystal Palace,1,16,15,1,1
+20,2022-01-01,17:30,Sat,Home,L,2,3,West Ham,2.4,2.2,22,6,15.8,2,0,0,2022,Crystal Palace,1,21,17,5,0
+22,2022-01-14,20:00,Fri,Away,D,1,1,Brighton,0.2,2,3,1,22.2,0,0,0,2022,Crystal Palace,0,4,20,4,0
+23,2022-01-23,14:00,Sun,Home,L,1,3,Liverpool,2.2,1.9,8,5,12.2,0,0,0,2022,Crystal Palace,1,12,14,6,0
+25,2022-02-09,19:45,Wed,Away,D,1,1,Norwich City,1.3,0.4,12,5,22.3,1,0,1,2022,Crystal Palace,0,16,19,2,0
+26,2022-02-12,15:00,Sat,Away,D,0,0,Brentford,0.3,1.6,6,3,21.6,0,0,0,2022,Crystal Palace,0,3,15,5,0
+27,2022-02-19,15:00,Sat,Home,L,0,1,Chelsea,0.5,0.9,7,0,14.6,0,0,0,2022,Crystal Palace,1,6,15,5,0
+28,2022-02-23,19:30,Wed,Away,W,4,1,Watford,1.1,1.4,7,5,15.1,0,0,0,2022,Crystal Palace,0,20,19,2,1
+29,2022-02-26,15:00,Sat,Home,D,1,1,Burnley,1,0.2,11,4,18.7,2,0,0,2022,Crystal Palace,1,5,15,5,0
+31,2022-03-05,15:00,Sat,Away,W,2,0,Wolves,2.7,0.7,11,7,15.1,0,1,1,2022,Crystal Palace,0,22,15,5,1
+32,2022-03-14,20:00,Mon,Home,D,0,0,Manchester City,0.6,2.8,7,1,14.7,0,0,0,2022,Crystal Palace,1,13,20,0,0
+34,2022-04-04,20:00,Mon,Home,W,3,0,Arsenal,1.5,0.8,5,4,21,1,1,1,2022,Crystal Palace,1,0,20,0,1
+35,2022-04-10,14:00,Sun,Away,L,1,2,Leicester City,1.4,1,10,2,14,0,0,1,2022,Crystal Palace,0,11,14,6,0
+37,2022-04-20,19:45,Wed,Away,L,0,1,Newcastle Utd,0.5,0.9,10,2,15.4,0,0,0,2022,Crystal Palace,0,15,19,2,0
+38,2022-04-25,20:00,Mon,Home,D,0,0,Leeds United,1.9,0.5,17,7,13.6,0,0,0,2022,Crystal Palace,1,10,20,0,0
+39,2022-04-30,15:00,Sat,Away,W,2,1,Southampton,1.1,0.6,14,5,13.9,0,0,0,2022,Crystal Palace,0,18,15,5,1
+40,2022-05-07,15:00,Sat,Home,W,1,0,Watford,2.2,0.4,14,6,15.8,1,1,1,2022,Crystal Palace,1,20,15,5,1
+41,2022-05-15,14:00,Sun,Away,D,1,1,Aston Villa,1.4,1,16,4,17.6,0,0,0,2022,Crystal Palace,0,1,14,6,0
+42,2022-05-19,19:45,Thu,Away,L,2,3,Everton,1.1,0.8,7,5,14.2,0,0,0,2022,Crystal Palace,0,8,19,3,0
+43,2022-05-22,16:00,Sun,Home,W,1,0,Manchester Utd,0.6,0.7,6,3,14.1,0,0,0,2022,Crystal Palace,1,14,16,6,1
+0,2021-08-13,20:00,Fri,Home,W,2,0,Arsenal,1.2,1.3,8,3,12.1,0,0,0,2022,Brentford,1,0,20,4,1
+1,2021-08-21,15:00,Sat,Away,D,0,0,Crystal Palace,0.9,0.5,14,3,18,1,0,0,2022,Brentford,0,7,15,5,0
+3,2021-08-28,15:00,Sat,Away,D,1,1,Aston Villa,0.9,0.7,9,2,15.6,0,0,0,2022,Brentford,0,1,15,5,0
+4,2021-09-11,15:00,Sat,Home,L,0,1,Brighton,0.4,0.3,7,1,20.3,0,0,0,2022,Brentford,1,4,15,5,0
+5,2021-09-18,12:30,Sat,Away,W,2,0,Wolves,2.5,0.6,8,2,18.7,0,1,1,2022,Brentford,0,22,12,5,1
+7,2021-09-25,17:30,Sat,Home,D,3,3,Liverpool,2.1,2.8,12,3,12,0,0,0,2022,Brentford,1,12,17,5,0
+8,2021-10-03,14:00,Sun,Away,W,2,1,West Ham,1.2,1.5,13,6,13.9,1,0,0,2022,Brentford,0,21,14,6,1
+9,2021-10-16,17:30,Sat,Home,L,0,1,Chelsea,1.4,0.3,17,6,14.5,0,0,0,2022,Brentford,1,6,17,5,0
+10,2021-10-24,14:00,Sun,Home,L,1,2,Leicester City,1,1.5,15,5,16.3,0,0,0,2022,Brentford,1,11,14,6,0
+12,2021-10-30,15:00,Sat,Away,L,1,3,Burnley,0.8,2.3,12,4,18.2,1,0,0,2022,Brentford,0,5,15,5,0
+13,2021-11-06,15:00,Sat,Home,L,1,2,Norwich City,2.5,1.2,19,7,10.8,0,0,0,2022,Brentford,1,16,15,5,0
+14,2021-11-20,15:00,Sat,Away,D,3,3,Newcastle Utd,0.9,1.5,10,3,18.5,1,0,0,2022,Brentford,0,15,15,5,0
+15,2021-11-28,14:00,Sun,Home,W,1,0,Everton,1.2,1,5,3,18.9,0,1,1,2022,Brentford,1,8,14,6,1
+16,2021-12-02,19:30,Thu,Away,L,0,2,Tottenham,0.3,1.9,6,2,17.1,0,0,0,2022,Brentford,0,19,19,3,0
+17,2021-12-05,14:00,Sun,Away,D,2,2,Leeds United,1,1.2,9,3,16.7,1,0,0,2022,Brentford,0,10,14,6,0
+18,2021-12-10,20:00,Fri,Home,W,2,1,Watford,1.6,0.5,13,4,15.5,0,1,1,2022,Brentford,1,20,20,4,1
+20,2021-12-26,20:00,Sun,Away,L,0,2,Brighton,0.7,0.8,16,5,17.1,0,0,0,2022,Brentford,0,4,20,6,0
+21,2021-12-29,20:15,Wed,Home,L,0,1,Manchester City,0.4,1.1,6,2,24.6,0,0,0,2022,Brentford,1,13,20,2,0
+22,2022-01-02,14:00,Sun,Home,W,2,1,Aston Villa,0.6,0.8,10,4,17.7,0,0,0,2022,Brentford,1,1,14,6,1
+24,2022-01-11,19:45,Tue,Away,L,1,4,Southampton,0.5,1.4,5,4,12.8,0,0,0,2022,Brentford,0,18,19,1,0
+25,2022-01-16,14:00,Sun,Away,L,0,3,Liverpool,0.7,2.7,6,1,21.2,0,0,0,2022,Brentford,0,12,14,6,0
+26,2022-01-19,20:00,Wed,Home,L,1,3,Manchester Utd,2.3,2.3,18,9,16.7,0,0,0,2022,Brentford,1,14,20,2,0
+27,2022-01-22,15:00,Sat,Home,L,1,2,Wolves,1.1,0.2,11,1,13.6,1,0,0,2022,Brentford,1,22,15,5,0
+29,2022-02-09,19:45,Wed,Away,L,0,2,Manchester City,0.4,1.9,6,2,18.3,0,0,0,2022,Brentford,0,13,19,2,0
+30,2022-02-12,15:00,Sat,Home,D,0,0,Crystal Palace,1.6,0.3,9,2,12.9,0,0,0,2022,Brentford,1,7,15,5,0
+31,2022-02-19,15:00,Sat,Away,L,1,2,Arsenal,0.6,1.7,6,2,20.7,0,0,0,2022,Brentford,0,0,15,5,0
+32,2022-02-26,15:00,Sat,Home,L,0,2,Newcastle Utd,0.4,2.7,6,1,16.5,0,0,0,2022,Brentford,1,15,15,5,0
+33,2022-03-05,15:00,Sat,Away,W,3,1,Norwich City,2,1,8,4,21.4,0,2,2,2022,Brentford,0,16,15,5,1
+34,2022-03-12,15:00,Sat,Home,W,2,0,Burnley,1.9,0.7,12,2,21.5,0,1,1,2022,Brentford,1,5,15,5,1
+35,2022-03-20,14:00,Sun,Away,L,1,2,Leicester City,1.3,1,15,6,14.9,0,0,0,2022,Brentford,0,11,14,6,0
+36,2022-04-02,15:00,Sat,Away,W,4,1,Chelsea,1.8,1.3,17,6,13.5,1,0,0,2022,Brentford,0,6,15,5,1
+37,2022-04-10,14:00,Sun,Home,W,2,0,West Ham,1.4,0.3,15,7,15.8,0,0,0,2022,Brentford,1,21,14,6,1
+38,2022-04-16,15:00,Sat,Away,W,2,1,Watford,1.9,1.7,16,5,19.7,0,0,0,2022,Brentford,0,20,15,5,1
+39,2022-04-23,17:30,Sat,Home,D,0,0,Tottenham,0.9,0.6,15,1,15.3,1,0,0,2022,Brentford,1,19,17,5,0
+40,2022-05-02,20:00,Mon,Away,L,0,3,Manchester Utd,0.6,2,12,4,18.9,1,0,0,2022,Brentford,0,14,20,0,0
+41,2022-05-07,15:00,Sat,Home,W,3,0,Southampton,2.6,1.4,18,5,13.9,1,0,0,2022,Brentford,1,18,15,5,1
+42,2022-05-15,16:30,Sun,Away,W,3,2,Everton,1.4,2.1,18,6,18.1,1,0,0,2022,Brentford,0,8,16,6,1
+43,2022-05-22,16:00,Sun,Home,L,1,2,Leeds United,0.8,1.3,14,5,13.7,0,0,0,2022,Brentford,1,10,16,6,0
+0,2021-08-14,15:00,Sat,Away,L,2,3,Watford,1.2,1.2,10,1,22.8,1,1,1,2022,Aston Villa,0,20,15,5,0
+1,2021-08-21,15:00,Sat,Home,W,2,0,Newcastle Utd,1.2,0.7,9,1,19.5,0,1,1,2022,Aston Villa,1,15,15,5,1
+3,2021-08-28,15:00,Sat,Home,D,1,1,Brentford,0.7,0.9,7,5,13.8,0,0,0,2022,Aston Villa,1,3,15,5,0
+4,2021-09-11,17:30,Sat,Away,L,0,3,Chelsea,1.2,1.3,18,6,18.6,0,0,0,2022,Aston Villa,0,6,17,5,0
+5,2021-09-18,17:30,Sat,Home,W,3,0,Everton,0.8,0.7,15,3,19.3,1,0,0,2022,Aston Villa,1,8,17,5,1
+7,2021-09-25,12:30,Sat,Away,W,1,0,Manchester Utd,1,2.2,7,3,14.1,1,0,0,2022,Aston Villa,0,14,12,5,1
+8,2021-10-03,14:00,Sun,Away,L,1,2,Tottenham,1.2,1.3,14,3,18,0,0,0,2022,Aston Villa,0,19,14,6,0
+9,2021-10-16,15:00,Sat,Home,L,2,3,Wolves,1,2,14,5,18,0,0,0,2022,Aston Villa,1,22,15,5,0
+10,2021-10-22,20:00,Fri,Away,L,1,3,Arsenal,1.4,2.7,10,4,17.2,1,0,0,2022,Aston Villa,0,0,20,4,0
+11,2021-10-31,16:30,Sun,Home,L,1,4,West Ham,0.7,2.3,9,3,16.4,0,0,0,2022,Aston Villa,1,21,16,6,0
+12,2021-11-05,20:00,Fri,Away,L,0,1,Southampton,0.6,0.6,14,3,19.5,1,0,0,2022,Aston Villa,0,18,20,4,0
+13,2021-11-20,15:00,Sat,Home,W,2,0,Brighton,0.7,0.4,9,5,16.5,0,0,0,2022,Aston Villa,1,4,15,5,1
+14,2021-11-27,15:00,Sat,Away,W,2,1,Crystal Palace,0.5,1,10,3,20.5,2,0,0,2022,Aston Villa,0,7,15,5,1
+15,2021-12-01,20:15,Wed,Home,L,1,2,Manchester City,0.8,1,9,3,13.1,0,0,0,2022,Aston Villa,1,13,20,2,0
+16,2021-12-05,16:30,Sun,Home,W,2,1,Leicester City,2.1,1.1,13,4,13.9,0,0,0,2022,Aston Villa,1,11,16,6,1
+17,2021-12-11,15:00,Sat,Away,L,0,1,Liverpool,0.2,2.2,4,0,23.6,1,0,0,2022,Aston Villa,0,12,15,5,0
+18,2021-12-14,19:45,Tue,Away,W,2,0,Norwich City,2,0.5,17,6,16.7,0,0,0,2022,Aston Villa,0,16,19,1,1
+19,2021-12-26,17:30,Sun,Home,L,1,3,Chelsea,0.4,2.6,8,1,18.8,0,0,0,2022,Aston Villa,1,6,17,6,0
+20,2022-01-02,14:00,Sun,Away,L,1,2,Brentford,0.8,0.6,16,5,17.1,0,0,0,2022,Aston Villa,0,3,14,6,0
+22,2022-01-15,17:30,Sat,Home,D,2,2,Manchester Utd,1.9,1,13,9,12.7,0,0,0,2022,Aston Villa,1,14,17,5,0
+23,2022-01-22,12:30,Sat,Away,W,1,0,Everton,0.8,1.6,8,3,19.8,2,0,0,2022,Aston Villa,0,8,12,5,1
+24,2022-02-09,20:00,Wed,Home,D,3,3,Leeds United,1.6,1.8,12,4,15.7,0,0,0,2022,Aston Villa,1,10,20,2,0
+25,2022-02-13,14:00,Sun,Away,L,0,1,Newcastle Utd,0.6,0.5,11,1,19.9,1,0,0,2022,Aston Villa,0,15,14,6,0
+26,2022-02-19,15:00,Sat,Home,L,0,1,Watford,1.3,1.2,20,1,21,1,0,0,2022,Aston Villa,1,20,15,5,0
+27,2022-02-26,15:00,Sat,Away,W,2,0,Brighton,1,0.7,9,4,17.5,1,0,0,2022,Aston Villa,0,4,15,5,1
+28,2022-03-05,15:00,Sat,Home,W,4,0,Southampton,2.5,1.1,14,9,15.7,0,0,0,2022,Aston Villa,1,18,15,5,1
+29,2022-03-10,19:45,Thu,Away,W,3,0,Leeds United,1.5,0.2,15,9,19.6,1,0,0,2022,Aston Villa,0,10,19,3,1
+30,2022-03-13,14:00,Sun,Away,L,1,2,West Ham,1.1,1.2,13,7,14.9,1,0,0,2022,Aston Villa,0,21,14,6,0
+31,2022-03-19,12:30,Sat,Home,L,0,1,Arsenal,0.5,1.3,8,1,16.8,2,0,0,2022,Aston Villa,1,0,12,5,0
+32,2022-04-02,15:00,Sat,Away,L,1,2,Wolves,2.1,1.3,14,4,20,1,1,1,2022,Aston Villa,0,22,15,5,0
+33,2022-04-09,17:30,Sat,Home,L,0,4,Tottenham,1.6,1.1,19,8,16.3,1,0,0,2022,Aston Villa,1,19,17,5,0
+34,2022-04-23,15:00,Sat,Away,D,0,0,Leicester City,0.9,0.3,11,3,17.9,0,0,0,2022,Aston Villa,0,11,15,5,0
+35,2022-04-30,15:00,Sat,Home,W,2,0,Norwich City,1.8,0.5,21,6,15.7,0,0,0,2022,Aston Villa,1,16,15,5,1
+36,2022-05-07,15:00,Sat,Away,W,3,1,Burnley,2.1,1.9,12,7,18.3,1,0,0,2022,Aston Villa,0,5,15,5,1
+37,2022-05-10,20:00,Tue,Home,L,1,2,Liverpool,1.4,1.8,9,4,13.7,0,0,0,2022,Aston Villa,1,12,20,1,0
+38,2022-05-15,14:00,Sun,Home,D,1,1,Crystal Palace,1,1.4,13,4,18.7,0,0,0,2022,Aston Villa,1,7,14,6,0
+39,2022-05-19,20:00,Thu,Home,D,1,1,Burnley,1.5,1.6,22,9,19.4,0,0,0,2022,Aston Villa,1,5,20,3,0
+40,2022-05-22,16:00,Sun,Away,L,2,3,Manchester City,0.2,3.4,4,2,16.8,0,0,0,2022,Aston Villa,0,13,16,6,0
+0,2021-08-14,15:00,Sat,Away,L,1,3,Everton,0.8,2.4,6,3,15.5,0,0,0,2022,Southampton,0,8,15,5,0
+1,2021-08-22,14:00,Sun,Home,D,1,1,Manchester Utd,0.7,1.8,8,3,21.5,2,0,0,2022,Southampton,1,14,14,6,0
+3,2021-08-28,15:00,Sat,Away,D,2,2,Newcastle Utd,3.6,1,21,5,19.2,1,1,1,2022,Southampton,0,15,15,5,0
+4,2021-09-11,15:00,Sat,Home,D,0,0,West Ham,0.7,0.7,11,2,14.2,0,0,0,2022,Southampton,1,21,15,5,0
+5,2021-09-18,15:00,Sat,Away,D,0,0,Manchester City,0.4,1,10,2,19.8,0,0,0,2022,Southampton,0,13,15,5,0
+7,2021-09-26,14:00,Sun,Home,L,0,1,Wolves,1,1,18,6,20.7,1,0,0,2022,Southampton,1,22,14,6,0
+8,2021-10-02,15:00,Sat,Away,L,1,3,Chelsea,1.3,3.3,5,1,24,0,1,1,2022,Southampton,0,6,15,5,0
+9,2021-10-16,15:00,Sat,Home,W,1,0,Leeds United,1.9,0.2,19,4,18.7,1,0,0,2022,Southampton,1,10,15,5,1
+10,2021-10-23,15:00,Sat,Home,D,2,2,Burnley,1.6,0.7,16,4,16.9,0,0,0,2022,Southampton,1,5,15,5,0
+12,2021-10-30,15:00,Sat,Away,W,1,0,Watford,1.8,1,12,1,15,0,0,0,2022,Southampton,0,20,15,5,1
+13,2021-11-05,20:00,Fri,Home,W,1,0,Aston Villa,0.6,0.6,9,3,15.6,0,0,0,2022,Southampton,1,1,20,4,1
+14,2021-11-20,15:00,Sat,Away,L,1,2,Norwich City,1,0.5,17,5,18.8,0,0,0,2022,Southampton,0,16,15,5,0
+15,2021-11-27,15:00,Sat,Away,L,0,4,Liverpool,1,2.9,7,3,10.5,0,0,0,2022,Southampton,0,12,15,5,0
+16,2021-12-01,19:30,Wed,Home,D,2,2,Leicester City,1.5,1.5,15,7,14.9,0,0,0,2022,Southampton,1,11,19,2,0
+17,2021-12-04,15:00,Sat,Home,D,1,1,Brighton,1.6,1.6,14,4,17.6,1,0,0,2022,Southampton,1,4,15,5,0
+18,2021-12-11,15:00,Sat,Away,L,0,3,Arsenal,0.6,1.8,11,6,22.1,3,0,0,2022,Southampton,0,0,15,5,0
+19,2021-12-15,19:30,Wed,Away,D,2,2,Crystal Palace,0.6,1.2,15,4,21.3,1,0,0,2022,Southampton,0,7,19,2,0
+20,2021-12-26,15:00,Sun,Away,W,3,2,West Ham,1.2,1.6,10,5,22.8,0,1,1,2022,Southampton,0,21,15,6,1
+21,2021-12-28,15:00,Tue,Home,D,1,1,Tottenham,0.4,2.3,9,2,20.7,0,0,0,2022,Southampton,1,19,15,1,0
+23,2022-01-11,19:45,Tue,Home,W,4,1,Brentford,1.4,0.5,12,6,17.9,0,0,0,2022,Southampton,1,3,19,1,1
+24,2022-01-15,15:00,Sat,Away,L,1,3,Wolves,0.8,2.5,13,10,20.4,2,0,0,2022,Southampton,0,22,15,5,0
+25,2022-01-22,17:30,Sat,Home,D,1,1,Manchester City,0.8,1.8,7,3,11,0,0,0,2022,Southampton,1,13,17,5,0
+27,2022-02-09,19:45,Wed,Away,W,3,2,Tottenham,2.2,1.4,23,9,16.8,0,0,0,2022,Southampton,0,19,19,2,1
+28,2022-02-12,12:30,Sat,Away,D,1,1,Manchester Utd,0.8,2.1,13,4,21.1,0,0,0,2022,Southampton,0,14,12,5,0
+29,2022-02-19,15:00,Sat,Home,W,2,0,Everton,2.5,0.3,19,11,15.4,1,0,0,2022,Southampton,1,8,15,5,1
+30,2022-02-25,20:00,Fri,Home,W,2,0,Norwich City,2.6,0.6,27,9,15.9,1,0,0,2022,Southampton,1,16,20,4,1
+32,2022-03-05,15:00,Sat,Away,L,0,4,Aston Villa,1.1,2.5,11,1,19.1,1,0,0,2022,Southampton,0,1,15,5,0
+33,2022-03-10,19:30,Thu,Home,L,1,2,Newcastle Utd,1.1,0.6,14,5,13.9,0,0,0,2022,Southampton,1,15,19,3,0
+34,2022-03-13,14:00,Sun,Home,L,1,2,Watford,1.4,1.7,13,6,12.8,1,0,0,2022,Southampton,1,20,14,6,0
+36,2022-04-02,15:00,Sat,Away,D,1,1,Leeds United,1.4,1.2,14,5,16.4,1,0,0,2022,Southampton,0,10,15,5,0
+37,2022-04-09,15:00,Sat,Home,L,0,6,Chelsea,0.5,4.2,4,1,17,0,0,0,2022,Southampton,1,6,15,5,0
+38,2022-04-16,15:00,Sat,Home,W,1,0,Arsenal,0.8,1.7,9,3,15.9,1,0,0,2022,Southampton,1,0,15,5,1
+39,2022-04-21,19:45,Thu,Away,L,0,2,Burnley,0.9,1.5,11,3,15.1,1,0,0,2022,Southampton,0,5,19,3,0
+40,2022-04-24,14:00,Sun,Away,D,2,2,Brighton,0.9,1.7,18,5,20.4,1,0,0,2022,Southampton,0,4,14,6,0
+41,2022-04-30,15:00,Sat,Home,L,1,2,Crystal Palace,0.6,1.1,8,3,16.4,0,0,0,2022,Southampton,1,7,15,5,0
+42,2022-05-07,15:00,Sat,Away,L,0,3,Brentford,1.4,2.6,19,4,18.8,2,0,0,2022,Southampton,0,3,15,5,0
+43,2022-05-17,19:45,Tue,Home,L,1,2,Liverpool,0.1,1.3,4,2,25.2,1,0,0,2022,Southampton,1,12,19,1,0
+44,2022-05-22,16:00,Sun,Away,L,1,4,Leicester City,1.1,3.4,6,1,18.9,1,1,1,2022,Southampton,0,11,16,6,0
+0,2021-08-14,15:00,Sat,Home,W,3,1,Southampton,2.4,0.8,14,6,12.5,1,0,0,2022,Everton,1,18,15,5,1
+1,2021-08-21,15:00,Sat,Away,D,2,2,Leeds United,1.8,1.2,16,7,20.9,0,1,1,2022,Everton,0,10,15,5,0
+3,2021-08-28,15:00,Sat,Away,W,2,0,Brighton,1.4,0.7,13,4,21.2,0,1,1,2022,Everton,0,4,15,5,1
+4,2021-09-13,20:00,Mon,Home,W,3,1,Burnley,1.4,1,14,6,19.5,1,0,0,2022,Everton,1,5,20,0,1
+5,2021-09-18,17:30,Sat,Away,L,0,3,Aston Villa,0.7,0.8,11,1,16.2,1,0,0,2022,Everton,0,1,17,5,0
+7,2021-09-25,15:00,Sat,Home,W,2,0,Norwich City,1.9,0.5,10,3,18.8,0,1,1,2022,Everton,1,16,15,5,1
+8,2021-10-02,12:30,Sat,Away,D,1,1,Manchester Utd,1.3,1,12,2,14.5,0,0,0,2022,Everton,0,14,12,5,0
+9,2021-10-17,14:00,Sun,Home,L,0,1,West Ham,0.9,1.2,15,2,14.7,0,0,0,2022,Everton,1,21,14,6,0
+10,2021-10-23,15:00,Sat,Home,L,2,5,Watford,1.5,3.7,15,4,15.7,0,0,0,2022,Everton,1,20,15,5,0
+11,2021-11-01,20:00,Mon,Away,L,1,2,Wolves,1.5,1.7,14,5,15.7,0,0,0,2022,Everton,0,22,20,0,0
+12,2021-11-07,14:00,Sun,Home,D,0,0,Tottenham,0.6,0.7,12,2,18.3,0,0,0,2022,Everton,1,19,14,6,0
+13,2021-11-21,14:00,Sun,Away,L,0,3,Manchester City,0.2,2.5,4,1,15.5,1,0,0,2022,Everton,0,13,14,6,0
+14,2021-11-28,14:00,Sun,Away,L,0,1,Brentford,1,1.2,14,5,16.6,1,0,0,2022,Everton,0,3,14,6,0
+15,2021-12-01,20:15,Wed,Home,L,1,4,Liverpool,0.7,2.4,8,2,20.8,1,0,0,2022,Everton,1,12,20,2,0
+16,2021-12-06,20:00,Mon,Home,W,2,1,Arsenal,0.9,1,11,5,17.1,0,0,0,2022,Everton,1,0,20,0,1
+17,2021-12-12,16:30,Sun,Away,L,1,3,Crystal Palace,1,1.8,12,6,20.5,1,0,0,2022,Everton,0,7,16,6,0
+18,2021-12-16,19:45,Thu,Away,D,1,1,Chelsea,0.6,2.9,5,3,21.1,0,0,0,2022,Everton,0,6,19,3,0
+19,2022-01-02,14:00,Sun,Home,L,2,3,Brighton,1.6,1.7,16,6,17.9,0,0,1,2022,Everton,1,4,14,6,0
+21,2022-01-15,15:00,Sat,Away,L,1,2,Norwich City,0.6,1,12,5,17,1,0,0,2022,Everton,0,16,15,5,0
+22,2022-01-22,12:30,Sat,Home,L,0,1,Aston Villa,1.6,0.8,15,0,14.1,2,0,0,2022,Everton,1,1,12,5,0
+24,2022-02-08,19:45,Tue,Away,L,1,3,Newcastle Utd,0.7,1.9,11,2,19.1,1,0,0,2022,Everton,0,15,19,1,0
+25,2022-02-12,15:00,Sat,Home,W,3,0,Leeds United,2.7,0.3,21,10,18.2,0,0,0,2022,Everton,1,10,15,5,1
+26,2022-02-19,15:00,Sat,Away,L,0,2,Southampton,0.3,2.5,9,0,23.4,0,0,0,2022,Everton,0,18,15,5,0
+27,2022-02-26,17:30,Sat,Home,L,0,1,Manchester City,0.5,1.8,6,2,19.1,1,0,0,2022,Everton,1,13,17,5,0
+29,2022-03-07,20:00,Mon,Away,L,0,5,Tottenham,0.2,2.5,6,0,22.5,1,0,0,2022,Everton,0,19,20,0,0
+30,2022-03-13,14:00,Sun,Home,L,0,1,Wolves,0.4,0.8,7,2,20.5,1,0,0,2022,Everton,1,22,14,6,0
+31,2022-03-17,19:45,Thu,Home,W,1,0,Newcastle Utd,0.7,0.9,9,3,17.2,1,0,0,2022,Everton,1,15,19,3,1
+33,2022-04-03,14:00,Sun,Away,L,1,2,West Ham,0.7,1.2,13,2,18.7,0,0,0,2022,Everton,0,21,14,6,0
+34,2022-04-06,19:30,Wed,Away,L,2,3,Burnley,2.4,2,14,2,19.5,0,2,2,2022,Everton,0,5,19,2,0
+35,2022-04-09,12:30,Sat,Home,W,1,0,Manchester Utd,0.4,0.8,7,3,18.3,0,0,0,2022,Everton,1,14,12,5,1
+36,2022-04-20,19:45,Wed,Home,D,1,1,Leicester City,1.8,0.9,13,3,14.7,0,0,0,2022,Everton,1,11,19,2,0
+37,2022-04-24,16:30,Sun,Away,L,0,2,Liverpool,0.4,1.7,9,1,19.1,1,0,0,2022,Everton,0,12,16,6,0
+38,2022-05-01,14:00,Sun,Home,W,1,0,Chelsea,0.8,0.8,9,4,17.8,1,0,0,2022,Everton,1,6,14,6,1
+39,2022-05-08,14:00,Sun,Away,W,2,1,Leicester City,1.1,1.5,10,4,13.8,0,0,0,2022,Everton,0,11,14,6,1
+40,2022-05-11,19:45,Wed,Away,D,0,0,Watford,0.7,0.3,16,5,16.8,0,0,0,2022,Everton,0,20,19,2,0
+41,2022-05-15,16:30,Sun,Home,L,2,3,Brentford,2.1,1.4,9,4,17.4,0,1,1,2022,Everton,1,3,16,6,0
+42,2022-05-19,19:45,Thu,Home,W,3,2,Crystal Palace,0.8,1.1,12,6,18.5,1,0,0,2022,Everton,1,7,19,3,1
+43,2022-05-22,16:00,Sun,Away,L,1,5,Arsenal,1.1,4.2,6,2,17.7,0,0,0,2022,Everton,0,0,16,6,0
+0,2021-08-14,12:30,Sat,Away,L,1,5,Manchester Utd,0.5,1.5,10,3,21.3,0,0,0,2022,Leeds United,0,14,12,5,0
+1,2021-08-21,15:00,Sat,Home,D,2,2,Everton,1.2,1.8,17,4,20.9,0,0,0,2022,Leeds United,1,8,15,5,0
+3,2021-08-29,14:00,Sun,Away,D,1,1,Burnley,1.2,1,12,2,16.1,0,0,0,2022,Leeds United,0,5,14,6,0
+4,2021-09-12,16:30,Sun,Home,L,0,3,Liverpool,1.2,4.3,9,4,15.2,0,0,0,2022,Leeds United,1,12,16,6,0
+5,2021-09-17,20:00,Fri,Away,D,1,1,Newcastle Utd,1.5,1.3,22,9,20.4,0,0,0,2022,Leeds United,0,15,20,4,0
+7,2021-09-25,15:00,Sat,Home,L,1,2,West Ham,1.2,1.6,15,5,19.5,0,0,0,2022,Leeds United,1,21,15,5,0
+8,2021-10-02,15:00,Sat,Home,W,1,0,Watford,1.3,0.2,20,3,18.8,1,0,0,2022,Leeds United,1,20,15,5,1
+9,2021-10-16,15:00,Sat,Away,L,0,1,Southampton,0.2,1.9,3,0,21.7,0,0,0,2022,Leeds United,0,18,15,5,0
+10,2021-10-23,15:00,Sat,Home,D,1,1,Wolves,1.6,0.9,17,3,19.2,0,1,1,2022,Leeds United,1,22,15,5,0
+12,2021-10-31,14:00,Sun,Away,W,2,1,Norwich City,0.7,0.8,13,5,20.9,0,0,0,2022,Leeds United,0,16,14,6,1
+13,2021-11-07,14:00,Sun,Home,D,1,1,Leicester City,1.3,0.7,18,5,17.7,1,0,0,2022,Leeds United,1,11,14,6,0
+14,2021-11-21,16:30,Sun,Away,L,1,2,Tottenham,1.4,2.1,18,7,21.4,1,0,0,2022,Leeds United,0,19,16,6,0
+15,2021-11-27,17:30,Sat,Away,D,0,0,Brighton,0.6,2.1,11,4,17.4,1,0,0,2022,Leeds United,0,4,17,5,0
+16,2021-11-30,20:15,Tue,Home,W,1,0,Crystal Palace,1.4,1.1,14,2,20.1,0,1,1,2022,Leeds United,1,7,20,1,1
+17,2021-12-05,14:00,Sun,Home,D,2,2,Brentford,1.2,1,13,6,17.3,0,0,0,2022,Leeds United,1,3,14,6,0
+18,2021-12-11,15:00,Sat,Away,L,2,3,Chelsea,1.4,2.5,11,4,19.4,2,1,1,2022,Leeds United,0,6,15,5,0
+19,2021-12-14,20:00,Tue,Away,L,0,7,Manchester City,0.3,3.1,6,3,25.3,1,0,0,2022,Leeds United,0,13,20,1,0
+20,2021-12-18,17:30,Sat,Home,L,1,4,Arsenal,1.6,3.5,8,1,24.8,0,1,1,2022,Leeds United,1,0,17,5,0
+21,2022-01-02,14:00,Sun,Home,W,3,1,Burnley,1.9,1,22,7,18.9,0,0,0,2022,Leeds United,1,5,14,6,1
+23,2022-01-16,14:00,Sun,Away,W,3,2,West Ham,2.2,2.4,18,5,16.8,2,0,0,2022,Leeds United,0,21,14,6,1
+24,2022-01-22,15:00,Sat,Home,L,0,1,Newcastle Utd,0.7,0.9,13,4,16.1,0,0,0,2022,Leeds United,1,15,15,5,0
+25,2022-02-09,20:00,Wed,Away,D,3,3,Aston Villa,1.8,1.6,16,7,13.9,0,0,0,2022,Leeds United,0,1,20,2,0
+26,2022-02-12,15:00,Sat,Away,L,0,3,Everton,0.3,2.7,7,0,24.1,0,0,0,2022,Leeds United,0,8,15,5,0
+27,2022-02-20,14:00,Sun,Home,L,2,4,Manchester Utd,1.8,2.2,16,6,19.3,0,0,0,2022,Leeds United,1,14,14,6,0
+28,2022-02-23,19:45,Wed,Away,L,0,6,Liverpool,0.2,5.9,3,2,21.1,0,0,0,2022,Leeds United,0,12,19,2,0
+29,2022-02-26,12:30,Sat,Home,L,0,4,Tottenham,1.5,1.9,19,2,18,1,0,0,2022,Leeds United,1,19,12,5,0
+30,2022-03-05,12:30,Sat,Away,L,0,1,Leicester City,1.7,0.4,19,4,13.3,0,0,0,2022,Leeds United,0,11,12,5,0
+31,2022-03-10,19:45,Thu,Home,L,0,3,Aston Villa,0.2,1.5,4,1,22.5,0,0,0,2022,Leeds United,1,1,19,3,0
+32,2022-03-13,14:00,Sun,Home,W,2,1,Norwich City,2.5,1.5,13,7,14.4,1,0,0,2022,Leeds United,1,16,14,6,1
+33,2022-03-18,20:00,Fri,Away,W,3,2,Wolves,2,1.2,15,5,13.8,1,0,0,2022,Leeds United,0,22,20,4,1
+34,2022-04-02,15:00,Sat,Home,D,1,1,Southampton,1.2,1.4,12,3,17.8,0,0,0,2022,Leeds United,1,18,15,5,0
+35,2022-04-09,15:00,Sat,Away,W,3,0,Watford,0.7,1.1,10,5,17.9,0,0,0,2022,Leeds United,0,20,15,5,1
+36,2022-04-25,20:00,Mon,Away,D,0,0,Crystal Palace,0.5,1.9,9,2,17.4,0,0,0,2022,Leeds United,0,7,20,0,0
+37,2022-04-30,17:30,Sat,Home,L,0,4,Manchester City,1.3,2.4,7,1,12.2,0,0,0,2022,Leeds United,1,13,17,5,0
+38,2022-05-08,14:00,Sun,Away,L,1,2,Arsenal,0.3,2,3,2,11,0,0,0,2022,Leeds United,0,0,14,6,0
+39,2022-05-11,19:30,Wed,Home,L,0,3,Chelsea,0.4,1.3,5,0,19.3,0,0,0,2022,Leeds United,1,6,19,2,0
+40,2022-05-15,14:00,Sun,Home,D,1,1,Brighton,1.6,2.2,19,4,15.1,1,0,0,2022,Leeds United,1,4,14,6,0
+41,2022-05-22,16:00,Sun,Away,W,2,1,Brentford,1.3,0.8,13,5,24.7,0,1,1,2022,Leeds United,0,3,16,6,1
+0,2021-08-14,15:00,Sat,Home,L,1,2,Brighton,1.5,1,14,3,16.2,1,0,0,2022,Burnley,1,4,15,5,0
+1,2021-08-21,12:30,Sat,Away,L,0,2,Liverpool,0.9,2.7,9,3,15.3,0,0,0,2022,Burnley,0,12,12,5,0
+3,2021-08-29,14:00,Sun,Home,D,1,1,Leeds United,1,1.2,12,3,16.5,0,0,0,2022,Burnley,1,10,14,6,0
+4,2021-09-13,20:00,Mon,Away,L,1,3,Everton,1,1.4,11,6,16.8,0,0,0,2022,Burnley,0,8,20,0,0
+5,2021-09-18,15:00,Sat,Home,L,0,1,Arsenal,1,1.1,18,3,15.4,0,0,0,2022,Burnley,1,0,15,5,0
+7,2021-09-25,15:00,Sat,Away,D,2,2,Leicester City,0.5,2.4,9,3,22.7,1,0,0,2022,Burnley,0,11,15,5,0
+8,2021-10-02,15:00,Sat,Home,D,0,0,Norwich City,1.2,0.6,14,4,16.6,1,0,0,2022,Burnley,1,16,15,5,0
+9,2021-10-16,15:00,Sat,Away,L,0,2,Manchester City,0.9,2.1,7,2,14.5,0,0,0,2022,Burnley,0,13,15,5,0
+10,2021-10-23,15:00,Sat,Away,D,2,2,Southampton,0.7,1.6,9,5,20.9,0,0,0,2022,Burnley,0,18,15,5,0
+12,2021-10-30,15:00,Sat,Home,W,3,1,Brentford,2.3,0.8,15,5,16.6,1,0,0,2022,Burnley,1,3,15,5,1
+13,2021-11-06,15:00,Sat,Away,D,1,1,Chelsea,0.7,1.8,5,2,15.9,0,0,0,2022,Burnley,0,6,15,5,0
+14,2021-11-20,15:00,Sat,Home,D,3,3,Crystal Palace,1.5,1.9,15,9,16.1,1,0,0,2022,Burnley,1,7,15,5,0
+15,2021-12-01,19:30,Wed,Away,D,0,0,Wolves,0.2,0.7,6,1,21.3,0,0,0,2022,Burnley,0,22,19,2,0
+16,2021-12-04,15:00,Sat,Away,L,0,1,Newcastle Utd,0.6,1,10,1,18.8,2,0,0,2022,Burnley,0,15,15,5,0
+17,2021-12-12,14:00,Sun,Home,D,0,0,West Ham,0.8,0.8,9,1,15.2,0,0,0,2022,Burnley,1,21,14,6,0
+18,2021-12-30,20:15,Thu,Away,L,1,3,Manchester Utd,1.1,2.4,10,3,13.3,0,0,0,2022,Burnley,0,14,20,3,0
+19,2022-01-02,14:00,Sun,Away,L,1,3,Leeds United,1,1.9,8,2,17.8,1,0,0,2022,Burnley,0,10,14,6,0
+21,2022-01-23,14:00,Sun,Away,D,0,0,Arsenal,0.4,1.2,10,1,21.2,0,0,0,2022,Burnley,0,0,14,6,0
+22,2022-02-05,18:00,Sat,Home,D,0,0,Watford,0.6,0.8,13,2,19.5,1,0,0,2022,Burnley,1,20,18,5,0
+23,2022-02-08,20:00,Tue,Home,D,1,1,Manchester Utd,0.4,1.8,9,3,20.5,0,0,0,2022,Burnley,1,14,20,1,0
+24,2022-02-13,14:00,Sun,Home,L,0,1,Liverpool,1.5,1.7,8,5,19.3,0,0,0,2022,Burnley,1,12,14,6,0
+25,2022-02-19,15:00,Sat,Away,W,3,0,Brighton,0.7,0.6,10,4,19.7,0,0,0,2022,Burnley,0,4,15,5,1
+26,2022-02-23,19:30,Wed,Home,W,1,0,Tottenham,0.9,0.7,15,4,17.3,0,0,0,2022,Burnley,1,19,19,2,1
+27,2022-02-26,15:00,Sat,Away,D,1,1,Crystal Palace,0.2,1,5,1,19.2,0,0,0,2022,Burnley,0,7,15,5,0
+28,2022-03-01,19:45,Tue,Home,L,0,2,Leicester City,0.9,1.5,9,2,16.6,0,0,0,2022,Burnley,1,11,19,1,0
+29,2022-03-05,15:00,Sat,Home,L,0,4,Chelsea,0.7,2.3,6,0,17.2,1,0,0,2022,Burnley,1,6,15,5,0
+30,2022-03-12,15:00,Sat,Away,L,0,2,Brentford,0.7,1.9,7,1,21.4,1,0,0,2022,Burnley,0,3,15,5,0
+31,2022-04-02,15:00,Sat,Home,L,0,2,Manchester City,0.1,1.8,3,1,18.3,0,0,0,2022,Burnley,1,13,15,5,0
+32,2022-04-06,19:30,Wed,Home,W,3,2,Everton,2,2.4,13,4,15.6,0,0,0,2022,Burnley,1,8,19,2,1
+33,2022-04-10,14:00,Sun,Away,L,0,2,Norwich City,1.7,1.7,18,3,17.4,1,0,0,2022,Burnley,0,16,14,6,0
+34,2022-04-17,14:15,Sun,Away,D,1,1,West Ham,1.8,2.2,8,1,16.4,0,0,1,2022,Burnley,0,21,14,6,0
+35,2022-04-21,19:45,Thu,Home,W,2,0,Southampton,1.5,0.9,16,6,14.2,0,0,0,2022,Burnley,1,18,19,3,1
+36,2022-04-24,14:00,Sun,Home,W,1,0,Wolves,1.4,0.6,14,5,18.8,0,0,0,2022,Burnley,1,22,14,6,1
+37,2022-04-30,15:00,Sat,Away,W,2,1,Watford,1.6,1,17,6,15.9,1,0,0,2022,Burnley,0,20,15,5,1
+38,2022-05-07,15:00,Sat,Home,L,1,3,Aston Villa,1.9,2.1,14,6,16.4,0,0,0,2022,Burnley,1,1,15,5,0
+39,2022-05-15,12:00,Sun,Away,L,0,1,Tottenham,0.7,2.2,8,1,15.4,0,0,0,2022,Burnley,0,19,12,6,0
+40,2022-05-19,20:00,Thu,Away,D,1,1,Aston Villa,1.6,1.5,9,3,17.2,0,1,1,2022,Burnley,0,1,20,3,0
+41,2022-05-22,16:00,Sun,Home,L,1,2,Newcastle Utd,1.6,1.8,12,4,15.7,1,0,0,2022,Burnley,1,15,16,6,0
+0,2021-08-14,15:00,Sat,Home,W,3,2,Aston Villa,1.2,1.2,13,7,17.9,0,0,0,2022,Watford,1,1,15,5,1
+1,2021-08-21,17:30,Sat,Away,L,0,2,Brighton,0.5,1.3,10,1,19.3,0,0,0,2022,Watford,0,4,17,5,0
+3,2021-08-29,14:00,Sun,Away,L,0,1,Tottenham,0.8,1,9,2,16.3,1,0,0,2022,Watford,0,19,14,6,0
+4,2021-09-11,15:00,Sat,Home,L,0,2,Wolves,0.2,2.2,6,2,23.1,0,0,0,2022,Watford,1,22,15,5,0
+5,2021-09-18,15:00,Sat,Away,W,3,1,Norwich City,2.4,1,12,8,13.5,0,0,0,2022,Watford,0,16,15,5,1
+7,2021-09-25,15:00,Sat,Home,D,1,1,Newcastle Utd,0.9,1.9,15,4,21.2,1,0,0,2022,Watford,1,15,15,5,0
+8,2021-10-02,15:00,Sat,Away,L,0,1,Leeds United,0.2,1.3,5,1,19.4,0,0,0,2022,Watford,0,10,15,5,0
+9,2021-10-16,12:30,Sat,Home,L,0,5,Liverpool,0.5,3.3,6,2,18.2,0,0,0,2022,Watford,1,12,12,5,0
+10,2021-10-23,15:00,Sat,Away,W,5,2,Everton,3.7,1.5,20,8,19.2,0,0,0,2022,Watford,0,8,15,5,1
+11,2021-10-30,15:00,Sat,Home,L,0,1,Southampton,1,1.8,10,3,20.2,1,0,0,2022,Watford,1,18,15,5,0
+12,2021-11-07,14:00,Sun,Away,L,0,1,Arsenal,0.5,1.6,7,1,19.7,0,0,0,2022,Watford,0,0,14,6,0
+13,2021-11-20,15:00,Sat,Home,W,4,1,Manchester Utd,2.7,1.4,19,6,15.9,2,0,1,2022,Watford,1,14,15,5,1
+14,2021-11-28,14:00,Sun,Away,L,2,4,Leicester City,2.8,2.1,16,4,16.4,1,1,1,2022,Watford,0,11,14,6,0
+15,2021-12-01,19:30,Wed,Home,L,1,2,Chelsea,1,0.9,14,6,21.4,2,0,0,2022,Watford,1,6,19,2,0
+16,2021-12-04,17:30,Sat,Home,L,1,3,Manchester City,0.8,3.1,11,4,19.6,1,0,0,2022,Watford,1,13,17,5,0
+17,2021-12-10,20:00,Fri,Away,L,1,2,Brentford,0.5,1.6,6,2,14.9,1,0,0,2022,Watford,0,3,20,4,0
+18,2021-12-28,15:00,Tue,Home,L,1,4,West Ham,1.6,3.6,14,5,15.2,0,0,0,2022,Watford,1,21,15,1,0
+19,2022-01-01,15:00,Sat,Home,L,0,1,Tottenham,0.3,2.2,6,4,19,1,0,0,2022,Watford,1,19,15,5,0
+21,2022-01-15,15:00,Sat,Away,D,1,1,Newcastle Utd,1.4,1.2,18,5,19.3,2,0,0,2022,Watford,0,15,15,5,0
+22,2022-01-21,20:00,Fri,Home,L,0,3,Norwich City,1.2,1.1,15,3,19.1,0,0,0,2022,Watford,1,16,20,4,0
+23,2022-02-05,18:00,Sat,Away,D,0,0,Burnley,0.8,0.6,11,5,16.3,0,0,0,2022,Watford,0,5,18,5,0
+24,2022-02-08,19:45,Tue,Away,L,0,1,West Ham,0.3,0.8,6,1,22.6,0,0,0,2022,Watford,0,21,19,1,0
+25,2022-02-12,15:00,Sat,Home,L,0,2,Brighton,0.5,1.6,9,1,17.4,1,0,0,2022,Watford,1,4,15,5,0
+26,2022-02-19,15:00,Sat,Away,W,1,0,Aston Villa,1.2,1.3,8,4,18.1,0,0,0,2022,Watford,0,1,15,5,1
+27,2022-02-23,19:30,Wed,Home,L,1,4,Crystal Palace,1.4,1.1,8,1,13.3,0,0,0,2022,Watford,1,7,19,2,0
+28,2022-02-26,15:00,Sat,Away,D,0,0,Manchester Utd,0.6,2.8,10,2,21.7,0,0,0,2022,Watford,0,14,15,5,0
+29,2022-03-06,14:00,Sun,Home,L,2,3,Arsenal,1,1,13,7,19,2,0,0,2022,Watford,1,0,14,6,0
+30,2022-03-10,19:30,Thu,Away,L,0,4,Wolves,0.6,0.7,9,0,21.8,2,0,0,2022,Watford,0,22,19,3,0
+31,2022-03-13,14:00,Sun,Away,W,2,1,Southampton,1.7,1.4,9,5,16.9,0,0,0,2022,Watford,0,18,14,6,1
+32,2022-04-02,12:30,Sat,Away,L,0,2,Liverpool,0.6,2.2,5,2,15.3,0,0,0,2022,Watford,0,12,12,5,0
+33,2022-04-09,15:00,Sat,Home,L,0,3,Leeds United,1.1,0.7,8,1,26,1,0,0,2022,Watford,1,10,15,5,0
+34,2022-04-16,15:00,Sat,Home,L,1,2,Brentford,1.7,1.9,18,4,16.3,2,0,0,2022,Watford,1,3,15,5,0
+35,2022-04-23,15:00,Sat,Away,L,1,5,Manchester City,0.5,3.6,5,2,14.5,0,0,0,2022,Watford,0,13,15,5,0
+36,2022-04-30,15:00,Sat,Home,L,1,2,Burnley,1,1.6,13,1,15.5,1,0,0,2022,Watford,1,5,15,5,0
+37,2022-05-07,15:00,Sat,Away,L,0,1,Crystal Palace,0.4,2.2,6,1,17.7,0,0,0,2022,Watford,0,7,15,5,0
+38,2022-05-11,19:45,Wed,Home,D,0,0,Everton,0.3,0.7,6,0,20,1,0,0,2022,Watford,1,8,19,2,0
+39,2022-05-15,14:00,Sun,Home,L,1,5,Leicester City,1.4,2.5,13,5,12.4,0,0,0,2022,Watford,1,11,14,6,0
+40,2022-05-22,16:00,Sun,Away,L,1,2,Chelsea,0.6,2.2,8,3,21.9,1,0,0,2022,Watford,0,6,16,6,0
+0,2021-08-14,17:30,Sat,Home,L,0,3,Liverpool,1.4,1.6,14,3,17.1,0,0,0,2022,Norwich City,1,12,17,5,0
+1,2021-08-21,15:00,Sat,Away,L,0,5,Manchester City,0.1,2.6,1,0,16.8,0,0,0,2022,Norwich City,0,13,15,5,0
+3,2021-08-28,15:00,Sat,Home,L,1,2,Leicester City,1.5,1.5,13,3,22.6,1,1,1,2022,Norwich City,1,11,15,5,0
+4,2021-09-11,15:00,Sat,Away,L,0,1,Arsenal,0.7,2.7,10,1,19.9,1,0,0,2022,Norwich City,0,0,15,5,0
+5,2021-09-18,15:00,Sat,Home,L,1,3,Watford,1,2.4,12,5,20.7,1,0,0,2022,Norwich City,1,20,15,5,0
+7,2021-09-25,15:00,Sat,Away,L,0,2,Everton,0.5,1.9,10,2,22.3,1,0,0,2022,Norwich City,0,8,15,5,0
+8,2021-10-02,15:00,Sat,Away,D,0,0,Burnley,0.6,1.2,10,2,20.7,2,0,0,2022,Norwich City,0,5,15,5,0
+9,2021-10-16,15:00,Sat,Home,D,0,0,Brighton,1.2,0.8,15,2,21.7,1,0,0,2022,Norwich City,1,4,15,5,0
+10,2021-10-23,12:30,Sat,Away,L,0,7,Chelsea,0.1,3.1,3,1,20.8,0,0,0,2022,Norwich City,0,6,12,5,0
+11,2021-10-31,14:00,Sun,Home,L,1,2,Leeds United,0.8,0.7,14,3,21.8,3,0,0,2022,Norwich City,1,10,14,6,0
+12,2021-11-06,15:00,Sat,Away,W,2,1,Brentford,1.2,2.5,8,4,25.6,1,1,1,2022,Norwich City,0,3,15,5,1
+13,2021-11-20,15:00,Sat,Home,W,2,1,Southampton,0.5,1,8,4,16.3,0,0,0,2022,Norwich City,1,18,15,5,1
+14,2021-11-27,15:00,Sat,Home,D,0,0,Wolves,1.6,0.3,14,4,18.2,1,0,0,2022,Norwich City,1,22,15,5,0
+15,2021-11-30,19:30,Tue,Away,D,1,1,Newcastle Utd,1.2,1.1,16,6,16.9,1,0,0,2022,Norwich City,0,15,19,1,0
+16,2021-12-05,14:00,Sun,Away,L,0,3,Tottenham,1.2,1.6,10,1,16.2,0,0,0,2022,Norwich City,0,19,14,6,0
+17,2021-12-11,17:30,Sat,Home,L,0,1,Manchester Utd,1.2,2,11,5,14.2,0,0,0,2022,Norwich City,1,14,17,5,0
+18,2021-12-14,19:45,Tue,Home,L,0,2,Aston Villa,0.5,2,7,3,14.3,0,0,0,2022,Norwich City,1,1,19,1,0
+19,2021-12-26,15:00,Sun,Home,L,0,5,Arsenal,0.1,2.5,4,2,17.9,0,0,0,2022,Norwich City,1,0,15,6,0
+20,2021-12-28,15:00,Tue,Away,L,0,3,Crystal Palace,0.9,1.9,12,2,17.7,0,0,0,2022,Norwich City,0,7,15,1,0
+22,2022-01-12,19:45,Wed,Away,L,0,2,West Ham,0.3,2.5,7,3,21.4,0,0,0,2022,Norwich City,0,21,19,2,0
+23,2022-01-15,15:00,Sat,Home,W,2,1,Everton,1,0.6,14,3,21.5,0,0,0,2022,Norwich City,1,8,15,5,1
+24,2022-01-21,20:00,Fri,Away,W,3,0,Watford,1.1,1.2,7,2,15.7,1,0,0,2022,Norwich City,0,20,20,4,1
+26,2022-02-09,19:45,Wed,Home,D,1,1,Crystal Palace,0.4,1.3,5,1,15.7,0,0,0,2022,Norwich City,1,7,19,2,0
+27,2022-02-12,17:30,Sat,Home,L,0,4,Manchester City,0.4,4.6,8,3,14.4,0,0,0,2022,Norwich City,1,13,17,5,0
+28,2022-02-19,15:00,Sat,Away,L,1,3,Liverpool,0.6,3.6,6,1,17.8,0,0,0,2022,Norwich City,0,12,15,5,0
+29,2022-02-25,20:00,Fri,Away,L,0,2,Southampton,0.6,2.6,8,1,18.1,0,0,0,2022,Norwich City,0,18,20,4,0
+31,2022-03-05,15:00,Sat,Home,L,1,3,Brentford,1,2,15,7,18.6,0,0,0,2022,Norwich City,1,3,15,5,0
+32,2022-03-10,19:30,Thu,Home,L,1,3,Chelsea,1,1.8,7,2,25.7,0,1,1,2022,Norwich City,1,6,19,3,0
+33,2022-03-13,14:00,Sun,Away,L,1,2,Leeds United,1.5,2.5,12,4,18.8,1,0,0,2022,Norwich City,0,10,14,6,0
+34,2022-04-02,15:00,Sat,Away,D,0,0,Brighton,0.4,2.8,6,0,17.8,0,0,0,2022,Norwich City,0,4,15,5,0
+35,2022-04-10,14:00,Sun,Home,W,2,0,Burnley,1.7,1.7,17,6,19.4,0,0,0,2022,Norwich City,1,5,14,6,1
+36,2022-04-16,15:00,Sat,Away,L,2,3,Manchester Utd,1.5,1.9,15,4,19.9,1,0,0,2022,Norwich City,0,14,15,5,0
+37,2022-04-23,15:00,Sat,Home,L,0,3,Newcastle Utd,0.6,1.9,5,2,15.2,1,0,0,2022,Norwich City,1,15,15,5,0
+38,2022-04-30,15:00,Sat,Away,L,0,2,Aston Villa,0.5,1.8,9,3,21.6,0,0,0,2022,Norwich City,0,1,15,5,0
+39,2022-05-08,14:00,Sun,Home,L,0,4,West Ham,0.8,3,8,2,22.2,1,0,0,2022,Norwich City,1,21,14,6,0
+40,2022-05-11,19:45,Wed,Away,L,0,3,Leicester City,1.1,2,9,5,17,0,0,0,2022,Norwich City,0,11,19,2,0
+41,2022-05-15,14:00,Sun,Away,D,1,1,Wolves,1.1,0.9,11,2,14.4,0,0,0,2022,Norwich City,0,22,14,6,0
+42,2022-05-22,16:00,Sun,Home,L,0,5,Tottenham,0.5,3.4,9,0,18.6,0,0,0,2022,Norwich City,1,19,16,6,0

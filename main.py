@@ -10,7 +10,7 @@ from sklearn.metrics import precision_score
 # Also pip install lxml to parse html
 
 def WebScraper(from_year):
-    years = list(range(2023, from_year, -1))
+    years = list(range(2023, int(from_year), -1))
     # years = list(range(to_year, from_year, -1))
 
     all_matches = []
@@ -66,6 +66,12 @@ def DataCleaning(match_data_file):
     matches["Date"] = pd.to_datetime(matches["Date"])
     del matches["Comp"]
     del matches["Notes"]
+    del matches["Referee"]
+    del matches["Match Report"]
+    del matches["Captain"]
+    del matches["Formation"]
+    del matches["Attendance"]
+    del matches["Poss"]
 
     return matches
 
@@ -135,7 +141,8 @@ def PredictionDataCleaning(combined_prediction_results):
     return merged_prediction_results
 
 
-def MakePredictions(matches, predictors):
+
+def MakePredictions(matches, predictors, predictionType):
     rf = RandomForestClassifier(n_estimators=50, min_samples_split=10, random_state=1)
 
     train = matches[matches["Date"] < "2023-01-01"]
@@ -144,16 +151,20 @@ def MakePredictions(matches, predictors):
     rf.fit(train[predictors], train["Target"])
     preds = rf.predict(test[predictors])
 
-    combined = pd.DataFrame(dict(actual=test["Target"], predicted=preds), index=test.index).merge(matches[["Date", "Team", "Opponent", "Result"]], left_index=True, right_index=True)
-    merged = PredictionDataCleaning(combined)
-    merged.to_csv("results.csv")
+    if predictionType=="with_actuals":
+        combined = pd.DataFrame(dict(actual=test["Target"], predicted=preds), index=test.index).merge(matches[["Date", "Team", "Opponent", "Result"]], left_index=True, right_index=True)
+        crosstab = pd.crosstab(index=combined["actual"], columns=combined["predicted"])
+        acc = accuracy_score(test["Target"], preds)
+        precision = precision_score(test["Target"], preds)
+    else:
+        combined = pd.DataFrame(dict(predicted=preds), index=test.index).merge(matches[["Date", "Team", "Opponent"]], left_index=True, right_index=True)
+        crosstab = None
+        acc = None
+        precision = None
 
-    acc = accuracy_score(test["Target"], preds)
-    precision = precision_score(test["Target"], preds)
-    crosstab = pd.crosstab(index=combined["actual"], columns=combined["predicted"])
+    merged = PredictionDataCleaning(combined)
 
     return merged, acc, precision, crosstab
-
 
 
 def MLModel(match_data_file):
@@ -161,32 +172,39 @@ def MLModel(match_data_file):
     matches, predictors = MatchPredictors(cleaned_match_data)
     matches_rolling = RollingAveragesTeam(matches)
 
-    return MakePredictions(matches_rolling, predictors + new_cols)
+    return MakePredictions(matches_rolling, predictors + new_cols, "with_actuals")
+
+
+def CustomMLModel(prediction_data_file):
+    predictors = ["Venue_code", "Opp_code", "Hour", "Day_code"]
+    matches = pd.read_csv(prediction_data_file, index_col=0)
+    matches.index = range(matches.shape[0])
+
+    return MakePredictions(matches, predictors, "without_actuals")
 
 
 
-
-def Main():
+def main():
     print("PREMIER LEAGUE WIN PREDICTOR")
-    print("q: Quit \nscrape: Scrape Premier League Data (Recommended if matches.csv file isnt available might not be able to scrape many seasons due to scraping policy of website) \nresults: See Results (Downloads csv file of results as well)\n")
     match_data_file = 'matches.csv'
-
-    command = input("Enter a command: ")
-
+    prediction_data_file = 'predict.csv'
 
     while(True):
-        while (command != 'q' and command != 'scrape' and command != 'results'):
-            print("Invalid Command...")
-            command = input("Enter a command: ")
+        print("*SOME IMPORTANT INFORMATION: The ML model can serve 2 purposes -> \n")
+        print("1. Making predictions for already existing data/data you scrape through the webscraper This means you have a matches.csv file (This can help you gain a better idea of the accuracy and precision of the model)")
+        print("2. You can create your own predict.csv file (like the one currently provided) this can help you make predictions for future games")
+        print("===============================================================================================================================================================================================================\n")
+        print("q: Quit \nscrape: Scrape Premier League Data (Recommended if matches.csv file isnt available might not be able to scrape many seasons due to scraping policy of website) \nresults: See Results of matches.csv (Downloads csv file of results as well) \npredict: See results of predict.csv (downloads csv file of results as well)")
+        command = input("Enter a command: ")
         
         if (command == 'q'):
             print("Exiting...")
             exit()
 
-        if (command == 'scrape'):    
+        elif (command == 'scrape'):    
             to_year = 2023
             print("All data will be to 2023 (Present Season)")
-            from_year = int(input("Results you want from year: "))
+            from_year = input("Results you want from year: ")
             
             while(from_year > to_year):
                 print("From year has to be less than To Year (2023)")
@@ -196,42 +214,57 @@ def Main():
                 print("Getting Data (This may take a couple of minutes)...")
                 WebScraper(from_year)
                 print("Data Scraped\n")
-                print("q: Quit \nscrape: Scrape Premier League Data (Recommended if matches.csv file isnt available might not be able to scrape many seasons due to scraping policy of website) \nresults: See Results (Downloads csv file of results as well)\n")
-                command = input("Enter a command: ")
             except:
                 print("Couldnt Scrape. Likely due to websites scraping policy. Try changing the to and from years to a smaller amount\n")
-                print("q: Quit \nscrape: Scrape Premier League Data (Recommended if matches.csv file isnt available might not be able to scrape many seasons due to scraping policy of website) \nresults: See Results (Downloads csv file of results as well)\n")
-                command = input("Enter a command: ")
 
-        if(command == 'results'):
-            file_found = False
+        elif(command == 'results'):
             try:
                 Merged, Acc, Precision, Crosstab = MLModel(match_data_file)
-                file_found = True
-            except:
-                print("\n*(matches.csv file not found, consider scraping the data or downloading the csv file from my github repo)")
-                print("q: Quit \nscrape: Scrape Premier League Data (Recommended if matches.csv file isnt available might not be able to scrape many seasons due to scraping policy of website) \nresults: See Results (Downloads csv file of results as well)\n")
-                command = input("Enter a command: ")
+                Merged.to_csv("results.csv")
 
-            if(file_found):
-                print("\nback: Go Back \nmerged: Check Final Merged Data, \naccuracy: Check Model Accuracy, \nprecision: Check Model Precision, \ncrosstab: Check Crosstab of Predictions\n")
-                inner_command = input("Enter a command: ")
-                
-                while (inner_command != 'back' and inner_command != 'merged' and inner_command != 'accuracy' and inner_command != 'precision' and inner_command != 'crosstab'):
-                    print("Invalid Command...")
+                while(True):
+                    print("\nback: Go Back \nmerged: Check Final Merged Data, \naccuracy: Check Model Accuracy, \nprecision: Check Model Precision, \ncrosstab: Check Crosstab of Predictions\n")
                     inner_command = input("Enter a command: ")
-                    
-                
-                if(inner_command == 'back'):
-                    print("q: Quit \nscrape: Scrape Premier League Data (Recommended if matches.csv file isnt available might not be able to scrape many seasons due to scraping policy of website) \nresults: See Results (Downloads csv file of results as well)\n")
-                    command = input("Enter a command: ")
-                if (inner_command == 'merged'):
-                    print(Merged)
-                if (inner_command == 'accuracy'):
-                    print(Acc)
-                if (inner_command == 'precision'):
-                    print(Precision)
-                if (inner_command == 'crosstab'):
-                    print(Crosstab)
 
-Main()
+                    if(inner_command == 'back'):
+                        break
+                    elif (inner_command == 'merged'):
+                        print(Merged)
+                    elif (inner_command == 'accuracy'):
+                        print(Acc)
+                    elif (inner_command == 'precision'):
+                        print(Precision)
+                    elif (inner_command == 'crosstab'):
+                        print(Crosstab)
+                    else:
+                        print("Invalid Command...")
+
+            except FileNotFoundError:
+                print("\n*(matches.csv file not found, consider scraping the data or downloading the csv file from my github repo)")
+        
+        elif(command=="predict"):
+            try:
+                Merged, Acc, Precision, Crosstab = CustomMLModel(prediction_data_file)
+                Merged.to_csv("predictions.csv")
+                
+                while(True):
+                    print("\nback: Go Back \nmerged: Check Final Merged Data\n")
+                    inner_command = input("Enter a command: ")
+
+                    if(inner_command == 'back'):
+                        break
+                    elif (inner_command == 'merged'):
+                        print(Merged)
+                    else:
+                        print("Invalid Command...")
+
+            except FileNotFoundError:
+                print("\n*(matches.csv or predict.csv file not found, consider downloading the matches.csv and predict.csv file from my github repo)")
+
+
+        else:
+            print("Invalid Command...")
+
+
+if __name__ == "__main__":
+    main()
